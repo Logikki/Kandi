@@ -1,0 +1,259 @@
+\documentclass[utf8,bachelor,finnish]{bachelor}
+% If you are writing a Master's Thesis, use the following instead:
+%\documentclass[utf8,english]{gradu3}
+% overleaf pohja : https://www.overleaf.com/project/63e5ffa6c6c53ac541c21a89
+\usepackage{graphicx} % for including pictures
+
+\usepackage{amsmath} % useful for math (optional)
+\usepackage[
+  separate-uncertainty = true,
+  multi-part-units = repeat
+]{siunitx}
+
+\usepackage{booktabs} % good for beautiful tables
+
+% NOTE: This must be the last \usepackage in the whole document!
+\usepackage[bookmarksopen,bookmarksnumbered,linktocpage]{hyperref}
+
+\addbibresource{references.bib} % The file name of your bibliography database
+
+\begin{document}
+
+\title{Miten äly- ja urheilukellot suoriutuvat niille sunnitelluista tehtävistä}
+\translatedtitle{\LaTeX-tutkielmapohjan {gradu3} käyttö}
+\studyline{Mathematical Information Technology}
+\avainsanat{%
+  \LaTeX,
+  {gradu3},
+  pro gradu -tutkielmat,
+  kandidaatintutkielmat,
+  käyttöohje}
+\keywords{\LaTeX, {gradu3}, Master's Theses, Bachelor's Theses, user's guide}
+\tiivistelma{%
+ tiivistelmä sama kuin eng abstract
+}
+\abstract{%
+  Tiivistelmä in english
+}
+
+\author{Roni Koskinen}
+\contactinformation{\texttt{rpkoskin@student.jyu.fi}}
+% use a separate \author command for each author, if there is more than one
+\supervisor{Tytti Saksa}
+% use a separate \supervisor command for each supervisor, if there
+% is more than one
+
+ % you don't need this line in a thesis
+\type{Template and manual for a thesis document class}
+
+\maketitle
+
+
+Jyväskylä, \today
+
+\bigskip
+
+The Author
+
+
+\mainmatter
+
+% \chapter{Introduction}
+% Introduction
+
+\chapter{Johdanto}
+  Teknologian kehitys on johtanut liikunnan vähenemiseen ja vapaa-ajan aktiviteetit on korvautunut aktiviteetteihin, joissa liikunta on vähäistä \parencite{petrusevski_interventions_2021}.
+   Aktiivisuutta mittaavat laitteet ovat kuitenkin poikkeus. Aktiivisuutta mittaavaavien laitteiden kerrotaan edistävän terveellisempiä elämäntapoja, tekemällä aktiivisuusdatasta näkyvän, kerrotaan Shinin ym. artikkelissa (2015) \parencite{shin2015understanding}.
+  Puettavat teknologiat ovat yleistyneet viimeisen kymmenen vuoden aikana tavallisten kuntoilijoiden käyttöön, sillä teknologia on kehittynyt nopeasti.
+    Teknologian nopea kehittyminen on tuonut hinnat alas, ja laitteiden fyysinen koko on pienentynyt, joten niiden käyttö ja hankkiminen on mahdollista suuremmalle joukolle ihmisiä.
+     Teknologian kehittyminen on tehnyt laitteista aiempaa tarkempia ja parempia melkein kaikilla osa-alueilla. Niihin on myös kehitetty paljon uusia ominaisuuksia.
+      Kellot muunmuassa seuraavat unta, mittaavat sykettä, mittaavat kuljettua matkaa sekä noustua korkeutta.\\
+
+  Kanditutkielmassani tutkitaan sitä, miten puettavat hyvinvointiteknologiat suoriutuvat ja soveltuvat siihen, mitä toimintoja ne on suunniteltu tekemään.
+   Valitsin aiheen siksi, että puettavat teknologiat ovat mielestäni kiinnostavia. Käytän päivittäisessä elämässäni älykelloa, ja haluaisin tietää mitä tutkimukset kertovat
+    siitä, miten hyvin nämä teknologiat soveltuvat ja suoriutuvat tarkoituksestaan hyvinvointia edistävinä laitteina.\\
+
+  Tutkimus tehdään kirjallisuuskatsauksena. Kirjallisuuskatsaus valittiin tutkimussuunnitelmaksi siksi, sillä puettavista teknologioista on tehty paljon tutkimusta.
+   Tutkimusstrategia on myös soveltuva siksi, että aihe on laaja, ja siinä on yhdisteltävä useita eri lähteitä. Yhden tutkimuksen tekeminen aiheesta on käytännössä mahdotonta,
+    sillä aihe sisältää tutkimuksia useista eri mittaustavoista ja mittaustilanteista.
+   
+  
+  
+
+\chapter{Puettavat teknologiat}
+
+\section{Puettavan teknologian määritelmä}
+  Godfrey ym. (2018) määrittelevät artikkelissaan, että puettavat teknologiat tarkoittavat laitteita, jotka ovat suoraan suoraan tai irtonaisesti
+   kiinni ihmisessä. \parencite{godfrey2018z}. Suoraan kiinni olevat laitteet ovat esimerkiksi uhreilukelloja,  Godfrey ym. (2018) antavat
+    Irtonaiset puettavat teknologiat tarkoittavat yleensä puhelimia \parencite{godfrey2018z}. Yasar (2022) kertoo artikkelissaan, että
+      Puettavia teknologioita voi olla monessa eri muodossa, ne voivat olla esimerkiksi koruja, lisävarusteita, lääketieteellisiä laitteita, vaatteita tai
+      vaatteisiin liitettäviä laitteita muodossa \parencite{Yasar_what_wearable}.
+    
+  Puettavat teknologiat voidaan jakaa kahteen kategoriaan. Ensisijaisiin, eli laitteisiin jotka toimivat itsenäisesti
+   ja yhdistävät muita laitteita toisiinsa \parencite{godfrey2018z}.  Tällaisia ovat esimerkiksi sykemittarit, puhelimet ja älysormukset.
+    Toinen kategoria on toissijaiset, eli sellaiset laitteet jotka tarvitsevat toimiakseen ensisijasen laitteen, johon ne lähettävät dataa, 
+     nämä mittaavat jotain tiettyä arvoa. Tällaisia ovat esimerkiksi rinnan ympärillä puettava sykevyö \parencite{godfrey2018z} \\
+
+  \section{Äly- ja urheilukellot}
+  Älykellot ovat suosituin laite puettavien teknologioiden kategoriassa \parencite{godfrey2018z}. Gregersen määrittelee Britannica
+   tietosanakirjan artikkelissa älyjellojen tarkoittavan puhelimenkaltaisia laitteita, joita puetaan ranteessa \parencite{Gregersen_watch_2023}.
+    Älykelloissa on myös yleensä joukko erilaisia antureita \parencite{rawassizadeh_wearables_2014}.\\
+
+  The free dictionary määrittelee urheilukellon tarkoittavan tietokonepohjaista älykelloa, joka on kestävästi valmistettu, vedenkestävä ja siinä on ominaisuuksia kuten
+    sykemittari sekä muita urheiluun, liikkumiseen ja tervetyteen liittyviä seuranta ominaisuuksia. \parencite{sportswatch_tfd}. Urheilukellojen ero älykelloon on siis se,
+     että nämä ovat usein kestävämmin valmistettu, ja tarjoavat ensisijaisesti hyvinvoinnin ja urheilun seuraamiseen liittyviä ominaisuuksia. Erot ovat siis pienet, 
+      ja esimerkiksi urheilukelloja valmistava Garmin käyttää sivuillaan kelloistaan "smart watch" termiä \parencite{garmin_site}. \\
+  
+\section{hyvinvointi}
+Hyvinvoinnin määritelmä lyhyesti.
+  % \section{älysormukset}
+  % \section{sykevyöt}
+  % \section*{mobiilisovellukset}
+
+
+  \chapter{Älykellojen mittaukset}
+  Tässä luvussa käydään läpi erilaisia mittauksia, mitä älykellot tekevät ja kuinka tarkkoja ne ovat. Lukuun ei ole kuitenkaa sisällytetty kaikkia älykellojen mittauksia, vaan
+   ne joita kandidaatintutkielmani käsittelee.
+
+  \section{Uni}
+  Mitä mitataan (syke yms.) ja algoritmit jotka laskevat unen vaiheita, vertaillaan esim. lääketieteessä käytettyihin laitteisiin.
+  Lähteitä esim. 
+  Effect of Wearable Technology Combined With a Lifestyle Intervention on Long-term Weight Loss: The IDEA Randomized Clinical Trial \parencite{jakicic_effect_2016}
+  Understanding continued smartwatch usage: the role of emotional as well as health and fitness factors \parencite{siepmann_understanding_2021}\\
+
+  Riittävä unensaanti on tärkeä terveyden ja hyvinvoinnin ylläpitämiseksi. Watsonin sekä Andrewin artikkelissa (2017) todetaan unella olevan merkitystä niin fyysiseen kehitykseen,
+   emootioiden hallintaan, kognitiiviseen suorituskykyyn ja muutenkin elämänlaatuun \parencite{watson_sleep_2017}. 
+    Artikkelissa (2017) kerrotaan, että urheilijat arvioivat unensa laatua ja kestoa heikosti \parencite{watson_sleep_2017}. Unen mittaus ominaisuus on siis varsinkin urheilujoille
+     tärkeä ominaisuus.
+         
+  \section{Paikanninjärjestelmä}
+  Äly- ja urheilukellot käyttävät sijainnin, urheilusuorituksen pituuden ja nopeuden mittaamiseen Global navigation satellite system (GNSS) nimistä satelliittinavigointiverkostoa. 
+   GNSS:ään lukeutuu Euroopan Galileo järjestelmä, Yhdysvaltojen Global Navigation System (GPS), Venäjän Glosnass sekä kiinan BeiDou satelliittipaikannusjärjestelmnät \parencite{hofmann2007gnss}.
+    Joissain tutkimuksissa puhutaan GPS paikantimen tarkkuudesta, toisissa GLOSNASS:ista, ja toisissa taas viitataan yleisesti GNSS:ään. Puhuttaessa GNSS:stä tai GPS:stä tarkoitetaan kuitenkin
+     samaa älykellon paikannin sirua, ainostaan salliitit joihin yhdistetään muuttuvat. \\
+
+  
+  GPS mittaamisen tarkkuuteen vaikuttaa lukuisia ulkopuolisia seikkoja. Cummins ym. (2013) artikkelissa kerrotaan, että laitteen päivitys frekvenss, vaikuttaa sijainnin mittaamisen tarkkuuteen.
+   Mitä suurempi frekvenssi, sen tarkempi sensori on. \parencite{cummins_global_2013} Baranskin ja Strumillon artikkelit mainitsevat artikkelissaan (2012), että tarkkuuteen vaikuttaa myös
+    se, onko GPS sirun lähellä korkeita rakennuksia ja onko taivas selkeä \parencite{baranski_enhancing_2012}. \\
+
+  Gilgen-Ammann ym. toteavat artikkelissaan (2020), että niin ammatti kuin amatööri juoksijat nojautuvat pitkälti urheilukellon GNSS:n antamaan lukemaan juostun matkan pituudesta,
+    ja urheilukellojen sijainnin :n tarkkuudesta on kuitenkin tehty vähän tieteellistä tutkimusta. GNSS mittaus on kuitenkin käytössä useassa lajissa, ja olisi tärkeä saada tietoa siitä,
+     onko mittaukset luotettavia. Gilgen-Ammann tutkivat artikkelissaan (2020) Applen, Coroksen, Polarin ja Suunnon urheilukellojen GPS mittauksen tarkkuutta 400-4000 metrin juoksu,
+      kävely sekä pyöräilysuorituksissa. Näistä kelloista Polar oli ainoa, jonka mittauksissa oli keskimäärin alle 5\% virhe mittauksissa.
+       Keskimäärin urheilukellojen GPS mittauksissa on noin 3-6\% virhe. \parencite{gilgen-ammann_accuracy_2020} \\
+    
+  Johanssom ym. tutkivat artikkelissaan (2020) urheilukellojen GPS:n tarkkuutta ultramaraton juoksuksissa. Juoksuretin pituus oli 56 kilometriä ja reitti sisälsi 800 nousumetriä.
+   Tutkimuksen mukaan GPS laitteiden tarkkuus oli tarkimmillaan $\SI{0.6 \pm 0.3}{\percent}$ ja epätarkimmillaan $ \SI{1.6 \pm 0.9}{\percent} $. (Mediaani $\pm$ IQR)(viittaus taulukkoon)
+    Artikkelissa todettiin myös, että urheilukellot ovat pätevä tapa mitata juostua matkaa. \parencite{johansson_accuracy_2020}\\
+
+  Johtopäätös?
+  \section{Korkeudenmittaus}
+    Noustut metrit treenin aikana on tärkeä osa urheilijan kokonais työmäärää, siksi älykellojen korkeuden mittaamisen tarkkuutta on hyvä tutkia \parencite{ammann_accuracy_2016}.
+     Barometrien tarkkuudesta äly- tai urheilukelloissa on kuitenkin suppeasati tutkumusata. Äly- ja urheilukellot käyttävät korkeuden mittaamiseen barometristä sensoria tai GPS
+      paikantimen antamaa informaatiota \parencite{ammann_accuracy_2016}. Barometrinen sensori arvioi korkeuden mittaamalla ilmanpainetta \parencite{aroganam2019review}.
+       GPS taas antaa korkeustiedon paikannuksesta saatujen karttatietojen avulla. On myös mahdollista, että kello käyttää GPS ja barometrin kombinaatiota
+        korkeuden mittaamiseen. Tällä tavalla kello yrittää korjata barometrin mahdolliset ulkoisista asioista, kuten sääolosuhteista johtuvat mittausvirheet. (viite kaiva jostai).\\
+        
+    KIRJOITA MIKSI BAROMETRI VOI OLLA EPÄTARKKA JOISSAIN TILANTEISSA EDELLISEEN KAPPALEESEEN + kirjoitanko barometrin tarkkuudesta sisällä?\\
+
+    Ammann ym. tutkivat älykellojen korkeusmittauksen tarkkuutta kolmella erilaisella juoksureitillä. ensimmäinen reitti oli tasainen 400 metrin juoksurata.
+     Toinen reitti oli 2490 metriä, jossa nousua oli 90 metriä. Kolmas reitti oli silmukka, jossa yhdellä kerralla oli nousua 30 metriä. Tutkimuksessa tätä reittiä kutsuttiin "mäkiseksi reitiksi"
+      Osallistujat juoksivat jokaisen reitin kolmella eri nopeudella. Testaamiseen käytettiin Garmin ForerunnerXT, Polar RS800XC, sekä Suunto Ambit2 urheilukelloja. Näistä kelloista Garmin ja
+       Suunto käyttivät korkeuden mittaamiseen barometrin sekä GPS yhdistelmää. \parencite[.]{ammann_accuracy_2016} Tutkimus toteutettiin kolmen kuukauden aikana, jotta sääolosuhteet voitiin ottaa huomioon.
+         Kellojen kalibroitiin ennen jokaista testiä vastaamaan kyseistä korkeutta merenpinnan yläpuolella, jossa testaajat olivat \parencite{ammann_accuracy_2016}.\\
+
+    Tutkimuksen mukaan kellot aliarvioivat mäkisellä reitillä nousumetrejä alimmillaan 3,3\% suurimmillaan 9,8\%. Tasaisella reitillä mittaukset olivat suhteellisen tarkkoja.
+     Mittaukset erosivat todellisiin nousumetreihin tasaisella reitillä alimmillaan 0,0\% ja suurimmillaan 0,4\%, joten mittaukset olivat todella tarkkoja tasaisella reitillä \parencite{ammann_accuracy_2016}.
+      Artikkelissa todettiin, että nousumetrien arviointien epätarkkuus saattoi johtua esimerkiksi käden heilumisesta juoksun aikana, sääolosuhteiden muutoksisesta tai GPS signaalin vaihtelevasta vahvuudesta \parencite{ammann_accuracy_2016}.
+       On myös tärkeä mainita, että tutkimuksessa käytettävät kellot olivat julkaistu vuosina 2008, 2012 ja 2013. Tekniikka on voinut siis kehittyä tähän mennessä.\\
+
+
+  \section{Syke} 
+
+  Sykkeen mittaamiseen käytetään pääosin kahta erilaista teknologista menetelmää. Ensimmäinen metodi on elektrokardiografia (EKG, eng. ECG), jossa mitataan sydämmen lyönnin
+   synnyttämiä sähköaaltoja \parencite{noauthor_heart_nodate}. Käytän tässä tutkielmassa jatkossa mittaustavasta lyhennettä EKG.
+    Toinen metodi taas on fotopletysmografinen (Optinen, FPG, eng. PPG), jossa mitataan infrapunavaloa käyttäen valtimoiden supistumista ja laajenemista \parencite{noauthor_heart_nodate}.
+     \cite{noauthor_heart_nodate} mukaan valon avulla voidaan myös arvioida veren happipitoisuuden määrää. Käytän tässä tutkielmassa jatkossa termiä optinen viitaten fotopletysmografiseen
+      mittaukseen. EKG mittaamista käytetään yleensä rinnan ympärillä puettavissa sykevöissä, kun taas optista tekniikkaa ranteesessa puettavissa laitteissa \parencite{noauthor_heart_nodate}.
+       Optisten sensoreiden tarkkuutta tutkiessa kriteerinä käytetään usein Polarin EKG mittausta käyttäviä sykevöitä, sillä ne ovat todettu olevan hyvin lähellä
+        lääketieteessä käytettävien elektrodiagrammin mittauksia, varsinkin alhaisen, keskisuuren ja jopa suuren harjoitteluintensiteetin aikana \parencite{gilgen-ammann_rr_2019, nelson_accuracy_2019}.\\
+  
+  Sykkeen mittaamisen tarkkuuteen äly- ja urheilukelloissa löytyy eniten tutkimusta verrattuna muihin mitattaviin arvoihin.
+   \cite{wang_accuracy_2017} tutkivat artikkelissaan miten Polar H7 sykevyö, sekä neljä erilaisen älykellon sykemittaukset vertautuivat lääketieteessä käytettävään
+    elektrodiagrammin sykemittaukseen. Osallistujien sykettä mitattiin elektrodiagrammin avulla siten,
+      että heillä oli neljä johtoa kiinnitettyinä elektrodeihin jokaisessa raajassa. Polar H7 sykevyön sekä kaksi satunnaista älykelloa molemmissa ranteissa.
+       Osallistujat juoksivat matolla 2, 3, 4, 5 ja 6 mailin nopeuksilla, jokaisella nopeudella kolmen minuutin ajan \parencite{wang_accuracy_2017}.
+        Tutkimuksen mukaan laitteet korreloivat elektrodiagrammin mittauksiin seuraavan kaavion mukaisesti.\\
+
+  \begin{table}[h]
+    \begin{center}
+      \begin{tabular}{||c c c c c||} 
+       \hline
+       Polar H7 & Apple Watch & Mio Fuse & Fitbit Charge HR & Basis Peak \\ [0.5ex] 
+       \hline\hline
+       .99 (.987-.991) & .91 (.884-.929) & .91 (.882-.929)& .84 (.791-.872)& .83 (.779-.865)\\
+       \hline
+      \end{tabular}
+    \caption{Älykellojen sykemittauksen tarkkuuden korrelaatio elektrodiagrammin sykemittaukseen \parencite{wang_accuracy_2017}}
+      \end{center}
+    \end{table}
+
+  Laitteet olivat levossa tarkempia kuin harjoittelun aikana \parencite{wang_accuracy_2017}. Tämän näkee kuviosta vertaamalla korrelaation ylärajaa sen alarajaan.
+   Polar H7 sykevyön mittasi siis sykettä tutkimuksen mukaan hyvin tarkasti, korreloiden .99 elektrodiagrammin mittauksiin \parencite{wang_accuracy_2017}.
+    Kuten taulukosta huomataan, kahden kellon mittausten korrelaatio oli keskimäärin jopa alle .85, joten niiden sykemittaukset eivät olleet kovin tarkkoja.\\
+  
+  \cite{nelson_accuracy_2019} tutkivat artikkelissaan sitä, miten tarkasti Apple Watch 3, sekä Fitbit Charge 2 mittasivat sykettä jokapäiväisessä elämässä.
+   Tutkimuksessa osallistuja pitivät kelloa 24 tunnin ajan ranteessaan eläen normaalia arkea, ja mittauksia verrattiin tutkimuksilla standardoidun
+    vertailulaitteen tuloksiin \parencite{nelson_accuracy_2019}. Heidän tulokset olivat hieman erilaisia \cite{wang_accuracy_2017} artikkelin tuloksiin.
+     Apple Watch 3 keskipoikkeama EKG mittarin tuloksiin oli 3,01\% juostessa, kävellessä 4,64\%, istuessa 7,21\%, nukkuessa 3,12\% ja keskimäärin 24 tunnin aikana ero oli 5.86\%.
+      \parencite{nelson_accuracy_2019}. Fitbit kellon keskipoikkeama EKG mittariin oli juostessa 9,88\%, kävellessä 9.21\%, nukkuessa 3,36\%,
+       istuessa 6,93\% ja keskimäärin 24 tunnin aika 5,96\% \parencite{nelson_accuracy_2019}.\\
+
+  Tuloksissa erikoista on se, että Apple Watchin tarkkuus parani juostessa, verrattuna siihen mitä se oli istuessa. \cite{wang_accuracy_2017} tutkimuksessa
+   mittausten tarkkuus heikkeni harjoittelun aikana.
+    
+       
+
+
+  
+   
+     
+
+
+  \section{Askeleet}
+  Askelmittari ja sen tarkkuus
+  
+  \section{Tarkkuus}
+  Tähän tiivistelmä siitä, miten tarkkoja tai epätarkkoja edellä mainitut mittarit ovat.
+  
+  \chapter{Älykellojen vaikutus hyvinvointiin}
+  Mitä vaikutuksia älykelloilla on ihmisten hyvinvointikäyttäytymiseen. Auttaako laitteet lisäämään liikuntaa, enemmän unta tai terveellisempiä elämäntapoja ylipäätään?
+  \section{Positiiviset}
+  \section{Negatiiviset vaikutukset}
+  
+  \chapter{Johtopäätökset}
+
+% The last chapter of a thesis is the Conclusion (some authors use
+% Conculsions, instead).  Keep it short, and discuss what one can
+% conclude about the thesis statement or research question given in the
+% Introduction, in light of all that has been written in the thesis.
+% The Conclusion is also the place to discuss any limitations and
+% weaknesses of the thesis (especially those that cast doubt on the
+% reliabliity of the results given in the thesis), if they have not been
+% already discussed, for example in a Discussion chapter.  It is also
+% customary to state, what further research might be beneficial in light
+% of this thesis.
+
+% If the Conclusion threatens to become too long, it is a good idea to
+% split the interpretation of the results into its own chapter, often
+% called Discussion, making Conclusion short and sweet.
+
+% After Conclusion, there is the bibliography, indicated by the
+% \string\printbibliography\
+
+\printbibliography
+
+
+
+\end{document}

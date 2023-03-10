@@ -1,0 +1,15 @@
+[0] Config.pm:307> INFO - This is Biber 2.17
+[0] Config.pm:310> INFO - Logfile is 'kandi.blg'
+[69] biber-darwin:340> INFO - === Fri Mar 10, 2023, 12:32:03
+[85] Biber.pm:418> INFO - Reading 'kandi.bcf'
+[242] Biber.pm:972> INFO - Found 21 citekeys in bib section 0
+[256] Biber.pm:4383> INFO - Processing section 0
+[266] Biber.pm:4574> INFO - Looking for bibtex file 'references.bib' for section 0
+[270] bibtex.pm:1713> INFO - LaTeX decoding ...
+[336] bibtex.pm:1518> INFO - Found BibTeX data source 'references.bib'
+[493] UCollate.pm:68> INFO - Overriding locale 'fi' defaults 'variable = shifted' with 'variable = non-ignorable'
+[494] UCollate.pm:68> INFO - Overriding locale 'fi' defaults 'normalization = NFD' with 'normalization = prenormalized'
+[494] UCollate.pm:68> INFO - Overriding locale 'fi' defaults 'level = 4' with 'level = 2'
+[494] Biber.pm:4203> INFO - Sorting list 'cms/global//global/global' of type 'entry' with template 'cms' and locale 'fi'
+[520] bbl.pm:654> INFO - Writing 'kandi.bbl' with encoding 'UTF-8'
+[537] bbl.pm:757> INFO - Output to kandi.bbl

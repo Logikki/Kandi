@@ -1,0 +1,1178 @@
+% $ biblatex auxiliary file $
+% $ biblatex bbl format version 3.2 $
+% Do not modify the above lines!
+%
+% This is an auxiliary file used by the 'biblatex' package.
+% This file may safely be deleted. It will be recreated by
+% biber as required.
+%
+\begingroup
+\makeatletter
+\@ifundefined{ver@biblatex.sty}
+  {\@latex@error
+     {Missing 'biblatex' package}
+     {The bibliography requires the 'biblatex' package.}
+      \aftergroup\endinput}
+  {}
+\endgroup
+
+
+\refsection{0}
+  \datalist[entry]{cms/global//global/global}
+    \entry{ammann_accuracy_2016}{article}{}
+      \name{author}{4}{}{%
+        {{un=0,uniquepart=base,hash=6ff0cb731665b06ff84e294dbecd2ab5}{%
+           family={Ammann},
+           familyi={A\bibinitperiod},
+           given={Rahel},
+           giveni={R\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=17c1c1f133b120d45615fe1aa06ec6d7}{%
+           family={Taube},
+           familyi={T\bibinitperiod},
+           given={Wolfgang},
+           giveni={W\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=57f64837f31f2db6d317dbfee17804cd}{%
+           family={Kummer},
+           familyi={K\bibinitperiod},
+           given={Fabian},
+           giveni={F\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=62754bc8ded1e89d969fcad1d8abebdb}{%
+           family={Wyss},
+           familyi={W\bibinitperiod},
+           given={Thomas},
+           giveni={T\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{language}{1}{%
+        {en}%
+      }
+      \strng{namehash}{79f2cb00a0ba3c79ab3ada64f4613932}
+      \strng{fullhash}{a3fc7f0197248ffbbf2803d2232921b0}
+      \strng{bibnamehash}{a3fc7f0197248ffbbf2803d2232921b0}
+      \strng{authorbibnamehash}{a3fc7f0197248ffbbf2803d2232921b0}
+      \strng{authornamehash}{79f2cb00a0ba3c79ab3ada64f4613932}
+      \strng{authorfullhash}{a3fc7f0197248ffbbf2803d2232921b0}
+      \field{sortinit}{A}
+      \field{sortinithash}{2f401846e2029bad6b3ecc16d50031e2}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{Elevation gain (EG) is a significant contributor to the total workload in many endurance sports. Hence, the aim of this study was to evaluate the accuracy of elevation recording as assessed by popular sport watches. Eighteen participants walked and ran at different speeds in various weather conditions in two terrain types: on a hilly 2490 m course with a total EG of 90 m and on a flat 1200 m outdoor track with 0 m EG. In total, 180 recordings from each sport watch were analyzed and compared according to two processing types: filtered and unfiltered EG data. Compared to the reference values, regarding default settings, on hilly terrain, EG was underestimated by −3.3 to −9.8 \%, and on flat terrain, EG was overestimated by 0.0–4.8 m per 1200 m. These errors could be reduced to −3.3 to +0.4 \%, when filtering conditions were adjusted according to the terrain. Gait speed (ranging from 1.47 to 4.89 m s−1) or fluctuations in weather conditions between- or within-trials did not influence EG accuracy. A straightforward comparison between manufacturers is hampered as the filter conditions set by default differ. In conclusion, all devices measure EG adequately; however, the displayed default feedback on EG data is not always the most accurate measurement. Consequently, accuracy in elevation recordings could be increased if users appropriately post-process EG data.}
+      \field{issn}{1460-2687}
+      \field{journaltitle}{Sports Engineering}
+      \field{month}{12}
+      \field{note}{Company: Springer Distributor: Springer Institution: Springer Label: Springer Number: 4 Publisher: Springer London}
+      \field{number}{4}
+      \field{title}{Accuracy of elevation recording using sport watches while walking and running on hilly and flat terrain}
+      \field{urlday}{17}
+      \field{urlmonth}{1}
+      \field{urlyear}{2023}
+      \field{volume}{19}
+      \field{year}{2016}
+      \field{urldateera}{ce}
+      \field{pages}{283\bibrangedash 287}
+      \range{pages}{5}
+      \verb{doi}
+      \verb 10.1007/s12283-016-0207-9
+      \endverb
+      \verb{file}
+      \verb Full Text PDF:/Users/ronikoskinen/Zotero/storage/TCIWXM8Q/Ammann et al. - 2016 - Accuracy of elevation recording using sport watche.pdf:application/pdf
+      \endverb
+      \verb{urlraw}
+      \verb https://link-springer-com.ezproxy.jyu.fi/article/10.1007/s12283-016-0207-9
+      \endverb
+      \verb{url}
+      \verb https://link-springer-com.ezproxy.jyu.fi/article/10.1007/s12283-016-0207-9
+      \endverb
+    \endentry
+    \entry{aroganam2019review}{article}{}
+      \name{author}{3}{}{%
+        {{un=0,uniquepart=base,hash=fb799ff6b2a974a95e456f8db2def161}{%
+           family={Aroganam},
+           familyi={A\bibinitperiod},
+           given={Gobinath},
+           giveni={G\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=f14d8376c9150e9cbde38225ccaad5a8}{%
+           family={Manivannan},
+           familyi={M\bibinitperiod},
+           given={Nadarajah},
+           giveni={N\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=0c47051d46d0a9329486e9ca99175787}{%
+           family={Harrison},
+           familyi={H\bibinitperiod},
+           given={David},
+           giveni={D\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{publisher}{1}{%
+        {MDPI}%
+      }
+      \strng{namehash}{8754b4bdf1c0798d583db0373efd02f8}
+      \strng{fullhash}{8754b4bdf1c0798d583db0373efd02f8}
+      \strng{bibnamehash}{8754b4bdf1c0798d583db0373efd02f8}
+      \strng{authorbibnamehash}{8754b4bdf1c0798d583db0373efd02f8}
+      \strng{authornamehash}{8754b4bdf1c0798d583db0373efd02f8}
+      \strng{authorfullhash}{8754b4bdf1c0798d583db0373efd02f8}
+      \field{sortinit}{A}
+      \field{sortinithash}{2f401846e2029bad6b3ecc16d50031e2}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Sensors}
+      \field{number}{9}
+      \field{title}{Review on wearable technology sensors used in consumer sport applications}
+      \field{volume}{19}
+      \field{year}{2019}
+      \field{pages}{1983}
+      \range{pages}{1}
+    \endentry
+    \entry{baranski_enhancing_2012}{article}{}
+      \name{author}{2}{}{%
+        {{un=0,uniquepart=base,hash=f73d6534cf3e6174c33165347f5f21ed}{%
+           family={Baranski},
+           familyi={B\bibinitperiod},
+           given={Przemyslaw},
+           giveni={P\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=b56509306963b64dd8dbc278593f1af3}{%
+           family={Strumillo},
+           familyi={S\bibinitperiod},
+           given={Pawel},
+           giveni={P\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{language}{1}{%
+        {en}%
+      }
+      \strng{namehash}{ccab7e3907f8c5e7e0cb62c796ef6d3f}
+      \strng{fullhash}{ccab7e3907f8c5e7e0cb62c796ef6d3f}
+      \strng{bibnamehash}{ccab7e3907f8c5e7e0cb62c796ef6d3f}
+      \strng{authorbibnamehash}{ccab7e3907f8c5e7e0cb62c796ef6d3f}
+      \strng{authornamehash}{ccab7e3907f8c5e7e0cb62c796ef6d3f}
+      \strng{authorfullhash}{ccab7e3907f8c5e7e0cb62c796ef6d3f}
+      \field{sortinit}{B}
+      \field{sortinithash}{d7095fff47cda75ca2589920aae98399}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{The paper presents an algorithm for estimating a pedestrian location in an urban environment. The algorithm is based on the particle filter and uses different data sources: a GPS receiver, inertial sensors, probability maps and a stereo camera. Inertial sensors are used to estimate a relative displacement of a pedestrian. A gyroscope estimates a change in the heading direction. An accelerometer is used to count a pedestrian’s steps and their lengths. The so-called probability maps help to limit GPS inaccuracy by imposing constraints on pedestrian kinematics, e.g., it is assumed that a pedestrian cannot cross buildings, fences etc. This limits position inaccuracy to ca. 10 m. Incorporation of depth estimates derived from a stereo camera that are compared to the 3D model of an environment has enabled further reduction of positioning errors. As a result, for 90\% of the time, the algorithm is able to estimate a pedestrian location with an error smaller than 2 m, compared to an error of 6.5 m for a navigation based solely on GPS.}
+      \field{issn}{1424-8220}
+      \field{journaltitle}{Sensors}
+      \field{month}{6}
+      \field{note}{Number: 6 Publisher: Molecular Diversity Preservation International}
+      \field{number}{6}
+      \field{title}{Enhancing {Positioning} {Accuracy} in {Urban} {Terrain} by {Fusing} {Data} from a {GPS} {Receiver}, {Inertial} {Sensors}, {Stereo}-{Camera} and {Digital} {Maps} for {Pedestrian} {Navigation}}
+      \field{urlday}{27}
+      \field{urlmonth}{2}
+      \field{urlyear}{2023}
+      \field{volume}{12}
+      \field{year}{2012}
+      \field{urldateera}{ce}
+      \field{pages}{6764\bibrangedash 6801}
+      \range{pages}{38}
+      \verb{doi}
+      \verb 10.3390/s120606764
+      \endverb
+      \verb{file}
+      \verb Full Text PDF:/Users/ronikoskinen/Zotero/storage/IF2IV6RP/Baranski and Strumillo - 2012 - Enhancing Positioning Accuracy in Urban Terrain by.pdf:application/pdf
+      \endverb
+      \verb{urlraw}
+      \verb https://www.mdpi.com/1424-8220/12/6/6764
+      \endverb
+      \verb{url}
+      \verb https://www.mdpi.com/1424-8220/12/6/6764
+      \endverb
+      \keyw{dead reckoning,digital maps,GPS,Monte Carlo,particle filtering,stereovision}
+    \endentry
+    \entry{noauthor_heart_nodate}{misc}{}
+      \list{language}{1}{%
+        {en}%
+      }
+      \field{sortinit}{C}
+      \field{sortinithash}{4d103a86280481745c9c897c925753c0}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \field{labeltitlesource}{shorttitle}
+      \field{abstract}{Heart rate monitors are devices that track your heart and pulse rate. Depending on type, they can be highly accurate and have various benefits and capabilities.}
+      \field{journaltitle}{Cleveland Clinic}
+      \field{note}{read 28.2.2023}
+      \field{shorttitle}{Heart {Rate} {Monitors}}
+      \field{title}{Heart {Rate} {Monitors}: {How} {They} {Work} and {Accuracy}}
+      \field{urlday}{28}
+      \field{urlmonth}{2}
+      \field{urlyear}{2023}
+      \field{year}{2023}
+      \field{urldateera}{ce}
+      \verb{file}
+      \verb Snapshot:/Users/ronikoskinen/Zotero/storage/4QX64NV4/23429-heart-rate-monitor.html:text/html
+      \endverb
+      \verb{urlraw}
+      \verb https://my.clevelandclinic.org/health/diagnostics/23429-heart-rate-monitor
+      \endverb
+      \verb{url}
+      \verb https://my.clevelandclinic.org/health/diagnostics/23429-heart-rate-monitor
+      \endverb
+    \endentry
+    \entry{cummins_global_2013}{article}{}
+      \name{author}{4}{}{%
+        {{un=0,uniquepart=base,hash=6090cc6a5e175a19e217a1be5931fc53}{%
+           family={Cummins},
+           familyi={C\bibinitperiod},
+           given={Cloe},
+           giveni={C\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=19cd50106e2af7820a07ebd6d3c89044}{%
+           family={Orr},
+           familyi={O\bibinitperiod},
+           given={Rhonda},
+           giveni={R\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=a09114c35db7f532de3a2a85e35fa350}{%
+           family={O’Connor},
+           familyi={O\bibinitperiod},
+           given={Helen},
+           giveni={H\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=6d6e374979809411b1b50f1b3f9cdcfa}{%
+           family={West},
+           familyi={W\bibinitperiod},
+           given={Cameron},
+           giveni={C\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{language}{1}{%
+        {en}%
+      }
+      \strng{namehash}{e1d4367ed17aa4076d381c860f8b1790}
+      \strng{fullhash}{0b048d1bc2fdcda07a67a657a9f6a382}
+      \strng{bibnamehash}{0b048d1bc2fdcda07a67a657a9f6a382}
+      \strng{authorbibnamehash}{0b048d1bc2fdcda07a67a657a9f6a382}
+      \strng{authornamehash}{e1d4367ed17aa4076d381c860f8b1790}
+      \strng{authorfullhash}{0b048d1bc2fdcda07a67a657a9f6a382}
+      \field{sortinit}{C}
+      \field{sortinithash}{4d103a86280481745c9c897c925753c0}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{shorttitle}
+      \field{abstract}{Use of Global positioning system (GPS) technology in team sport permits measurement of player position, velocity, and movement patterns. GPS provides scope for better understanding of the specific and positional physiological demands of team sport and can be used to design training programs that adequately prepare athletes for competition with the aim of optimizing on-field performance.}
+      \field{issn}{1179-2035}
+      \field{journaltitle}{Sports Medicine}
+      \field{month}{10}
+      \field{number}{10}
+      \field{shorttitle}{Global {Positioning} {Systems} ({GPS}) and {Microtechnology} {Sensors} in {Team} {Sports}}
+      \field{title}{Global {Positioning} {Systems} ({GPS}) and {Microtechnology} {Sensors} in {Team} {Sports}: {A} {Systematic} {Review}}
+      \field{urlday}{27}
+      \field{urlmonth}{2}
+      \field{urlyear}{2023}
+      \field{volume}{43}
+      \field{year}{2013}
+      \field{urldateera}{ce}
+      \field{pages}{1025\bibrangedash 1042}
+      \range{pages}{18}
+      \verb{doi}
+      \verb 10.1007/s40279-013-0069-2
+      \endverb
+      \verb{file}
+      \verb Full Text PDF:/Users/ronikoskinen/Zotero/storage/FVCJEKC8/Cummins et al. - 2013 - Global Positioning Systems (GPS) and Microtechnolo.pdf:application/pdf
+      \endverb
+      \verb{urlraw}
+      \verb https://doi.org/10.1007/s40279-013-0069-2
+      \endverb
+      \verb{url}
+      \verb https://doi.org/10.1007/s40279-013-0069-2
+      \endverb
+    \endentry
+    \entry{garmin_site}{misc}{}
+      \field{sortinit}{G}
+      \field{sortinithash}{32d67eca0634bf53703493fb1090a2e8}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labeltitlesource}{title}
+      \field{note}{Luettu 10-02-2023}
+      \field{title}{{Garmin}}
+      \field{urlday}{10}
+      \field{urlmonth}{2}
+      \field{urlyear}{2023}
+      \field{year}{2023}
+      \field{dateera}{ce}
+      \field{urldateera}{ce}
+      \verb{file}
+      \verb Fitness Watches | Sport Watches | Smartwatches | Garmin:/Users/ronikoskinen/Zotero/storage/2TFATFP5/wearables-smartwatches.html:text/html
+      \endverb
+      \verb{urlraw}
+      \verb https://www.garmin.com/en-US/c/wearables-smartwatches/
+      \endverb
+      \verb{url}
+      \verb https://www.garmin.com/en-US/c/wearables-smartwatches/
+      \endverb
+    \endentry
+    \entry{gilgen-ammann_rr_2019}{article}{}
+      \name{author}{3}{}{%
+        {{un=0,uniquepart=base,hash=5be2fdf4b20963b8575eb74b17badf75}{%
+           family={Gilgen-Ammann},
+           familyi={G\bibinithyphendelim A\bibinitperiod},
+           given={Rahel},
+           giveni={R\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=223e4374518af7b6aeba1406a10c791a}{%
+           family={Schweizer},
+           familyi={S\bibinitperiod},
+           given={Theresa},
+           giveni={T\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=62754bc8ded1e89d969fcad1d8abebdb}{%
+           family={Wyss},
+           familyi={W\bibinitperiod},
+           given={Thomas},
+           giveni={T\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{language}{1}{%
+        {en}%
+      }
+      \strng{namehash}{f5957ddf06c1a1fa38fea49435407b9e}
+      \strng{fullhash}{f5957ddf06c1a1fa38fea49435407b9e}
+      \strng{bibnamehash}{f5957ddf06c1a1fa38fea49435407b9e}
+      \strng{authorbibnamehash}{f5957ddf06c1a1fa38fea49435407b9e}
+      \strng{authornamehash}{f5957ddf06c1a1fa38fea49435407b9e}
+      \strng{authorfullhash}{f5957ddf06c1a1fa38fea49435407b9e}
+      \field{extraname}{1}
+      \field{sortinit}{G}
+      \field{sortinithash}{32d67eca0634bf53703493fb1090a2e8}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{This study was designed to examine the RR interval signal qualities of a Holter device and a heart rate chest belt monitor at rest and during exercise. Ten healthy individuals completed five low- to high-intensity activities while simultaneously using the medilog® AR12plus  Holter monitor and the Polar H10 heart rate monitor. The RR interval signal quality was based on the quantification of the missing RR intervals and RR interval detection errors. Therefore, both measurement systems were compared against visual inspection of the raw electrocardiography signal. The missing and wrong R-wave peak detections were counted manually for both measurement systems. RR interval signal quality was defined as the relative number of correctly detected RR intervals. Overall, RR interval signal qualities of 94.6\% and 99.6\% were demonstrated for the medilog® AR12plus  and the Polar H10. During the high-intensity activities, the RR interval signal quality of the medilog® AR12plus  dropped to 89.8\%, whereas the Polar H10 maintained a signal quality of 99.4\%. The correlation between both systems was high (r = 0.997, p {>} 0.001). The excellent RR interval signal quality during low- to moderate-intensity activities in the medilog® AR12plus  and during low- to high-intensity activities in the Polar H10 demonstrates both measurement systems’ validity for the detection of RR intervals throughout a wide range of activities. A simple chest strap such as the Polar H10 might be recommended as the gold standard for RR interval assessments if intense activities with strong body movements are investigated.}
+      \field{issn}{1439-6327}
+      \field{journaltitle}{European Journal of Applied Physiology}
+      \field{month}{7}
+      \field{number}{7}
+      \field{title}{{RR} interval signal quality of a heart rate monitor and an {ECG} {Holter} at rest and during exercise}
+      \field{urlday}{9}
+      \field{urlmonth}{3}
+      \field{urlyear}{2023}
+      \field{volume}{119}
+      \field{year}{2019}
+      \field{urldateera}{ce}
+      \field{pages}{1525\bibrangedash 1532}
+      \range{pages}{8}
+      \verb{doi}
+      \verb 10.1007/s00421-019-04142-5
+      \endverb
+      \verb{file}
+      \verb Full Text PDF:/Users/ronikoskinen/Zotero/storage/HMZYAXV6/Gilgen-Ammann et al. - 2019 - RR interval signal quality of a heart rate monitor.pdf:application/pdf
+      \endverb
+      \verb{urlraw}
+      \verb https://doi.org/10.1007/s00421-019-04142-5
+      \endverb
+      \verb{url}
+      \verb https://doi.org/10.1007/s00421-019-04142-5
+      \endverb
+      \keyw{Gold standard,Heart rate measurement,Low- to high-intensity activities,Validity}
+    \endentry
+    \entry{gilgen-ammann_accuracy_2020}{article}{}
+      \name{author}{3}{}{%
+        {{un=0,uniquepart=base,hash=5be2fdf4b20963b8575eb74b17badf75}{%
+           family={Gilgen-Ammann},
+           familyi={G\bibinithyphendelim A\bibinitperiod},
+           given={Rahel},
+           giveni={R\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=223e4374518af7b6aeba1406a10c791a}{%
+           family={Schweizer},
+           familyi={S\bibinitperiod},
+           given={Theresa},
+           giveni={T\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=62754bc8ded1e89d969fcad1d8abebdb}{%
+           family={Wyss},
+           familyi={W\bibinitperiod},
+           given={Thomas},
+           giveni={T\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{f5957ddf06c1a1fa38fea49435407b9e}
+      \strng{fullhash}{f5957ddf06c1a1fa38fea49435407b9e}
+      \strng{bibnamehash}{f5957ddf06c1a1fa38fea49435407b9e}
+      \strng{authorbibnamehash}{f5957ddf06c1a1fa38fea49435407b9e}
+      \strng{authornamehash}{f5957ddf06c1a1fa38fea49435407b9e}
+      \strng{authorfullhash}{f5957ddf06c1a1fa38fea49435407b9e}
+      \field{extraname}{2}
+      \field{sortinit}{G}
+      \field{sortinithash}{32d67eca0634bf53703493fb1090a2e8}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{shorttitle}
+      \field{abstract}{Background Elite athletes and recreational runners rely on the accuracy of global navigation satellite system (GNSS)–enabled sport watches to monitor and regulate training activities. However, there is a lack of scientific evidence regarding the accuracy of such sport watches. Objective The aim was to investigate the accuracy of the recorded distances obtained by eight commercially available sport watches by Apple, Coros, Garmin, Polar, and Suunto when assessed in different areas and at different speeds. Furthermore, potential parameters that affect the measurement quality were evaluated. Methods Altogether, 3 × 12 measurements in urban, forest, and track and field areas were obtained while walking, running, and cycling under various outdoor conditions. Results The selected reference distances ranged from 404.0 m to 4296.9 m. For all the measurement areas combined, the recorded systematic errors (±limits of agreements) ranged between 3.7 (±195.6) m and –101.0 (±231.3) m, and the mean absolute percentage errors ranged from 3.2\% to 6.1\%. Only the GNSS receivers from Polar showed overall errors {<}5\%. Generally, the recorded distances were significantly underestimated (all P values {<}.04) and less accurate in the urban and forest areas, whereas they were overestimated but with good accuracy in 75\% (6/8) of the sport watches in the track and field area. Furthermore, the data assessed during running showed significantly higher error rates in most devices compared with the walking and cycling activities. Conclusions The recorded distances might be underestimated by up to 9\%. However, the use of all investigated sport watches can be recommended, especially for distance recordings in open areas.}
+      \field{issn}{2291-5222}
+      \field{journaltitle}{JMIR mHealth and uHealth}
+      \field{month}{6}
+      \field{number}{6}
+      \field{shorttitle}{Accuracy of {Distance} {Recordings} in {Eight} {Positioning}-{Enabled} {Sport} {Watches}}
+      \field{title}{Accuracy of {Distance} {Recordings} in {Eight} {Positioning}-{Enabled} {Sport} {Watches}: {Instrument} {Validation} {Study}}
+      \field{urlday}{21}
+      \field{urlmonth}{2}
+      \field{urlyear}{2023}
+      \field{volume}{8}
+      \field{year}{2020}
+      \field{urldateera}{ce}
+      \field{pages}{e17118}
+      \range{pages}{-1}
+      \verb{doi}
+      \verb 10.2196/17118
+      \endverb
+      \verb{file}
+      \verb Full Text:/Users/ronikoskinen/Zotero/storage/VRGWILPZ/Gilgen-Ammann et al. - 2020 - Accuracy of Distance Recordings in Eight Positioni.pdf:application/pdf
+      \endverb
+      \verb{urlraw}
+      \verb https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7381051/
+      \endverb
+      \verb{url}
+      \verb https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7381051/
+      \endverb
+    \endentry
+    \entry{godfrey2018z}{article}{}
+      \name{author}{6}{}{%
+        {{un=0,uniquepart=base,hash=777b554fae4a0354679634b0d485d080}{%
+           family={Godfrey},
+           familyi={G\bibinitperiod},
+           given={Alan},
+           giveni={A\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=7adb5f42c82ba00b41afb22c9589decf}{%
+           family={Hetherington},
+           familyi={H\bibinitperiod},
+           given={Victoria},
+           giveni={V\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=a5a5420c4c971c832901e7c5fc69b935}{%
+           family={Shum},
+           familyi={S\bibinitperiod},
+           given={Hubert},
+           giveni={H\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=221deeeb7b4e28fc403d52016a1feec2}{%
+           family={Bonato},
+           familyi={B\bibinitperiod},
+           given={Paolo},
+           giveni={P\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=2ce352c45abbcd43453f61ce57988a99}{%
+           family={Lovell},
+           familyi={L\bibinitperiod},
+           given={NH},
+           giveni={N\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=b095878dd69256d8de51d564a962e8eb}{%
+           family={Stuart},
+           familyi={S\bibinitperiod},
+           given={Sam},
+           giveni={S\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{publisher}{1}{%
+        {Elsevier}%
+      }
+      \strng{namehash}{3aaae033c5888513d26e60799d82d244}
+      \strng{fullhash}{ee885bd4b9dd8e24355cd8f99d96e7ec}
+      \strng{bibnamehash}{ee885bd4b9dd8e24355cd8f99d96e7ec}
+      \strng{authorbibnamehash}{ee885bd4b9dd8e24355cd8f99d96e7ec}
+      \strng{authornamehash}{3aaae033c5888513d26e60799d82d244}
+      \strng{authorfullhash}{ee885bd4b9dd8e24355cd8f99d96e7ec}
+      \field{sortinit}{G}
+      \field{sortinithash}{32d67eca0634bf53703493fb1090a2e8}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Maturitas}
+      \field{title}{From A to Z: Wearable technology explained}
+      \field{volume}{113}
+      \field{year}{2018}
+      \field{pages}{40\bibrangedash 47}
+      \range{pages}{8}
+    \endentry
+    \entry{hofmann2007gnss}{book}{}
+      \name{author}{3}{}{%
+        {{un=0,uniquepart=base,hash=04b7ad2fc0fa6201bb36195a662b2d0a}{%
+           family={Hofmann-Wellenhof},
+           familyi={H\bibinithyphendelim W\bibinitperiod},
+           given={Bernhard},
+           giveni={B\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=f3930c8eb25ab5b9cefdaaefeb5154c8}{%
+           family={Lichtenegger},
+           familyi={L\bibinitperiod},
+           given={Herbert},
+           giveni={H\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=4a16723f9266282332bb3f591143aaea}{%
+           family={Wasle},
+           familyi={W\bibinitperiod},
+           given={Elmar},
+           giveni={E\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{publisher}{1}{%
+        {Springer Science \& Business Media}%
+      }
+      \strng{namehash}{6de389c6a865d440510963b288ca97f0}
+      \strng{fullhash}{6de389c6a865d440510963b288ca97f0}
+      \strng{bibnamehash}{6de389c6a865d440510963b288ca97f0}
+      \strng{authorbibnamehash}{6de389c6a865d440510963b288ca97f0}
+      \strng{authornamehash}{6de389c6a865d440510963b288ca97f0}
+      \strng{authorfullhash}{6de389c6a865d440510963b288ca97f0}
+      \field{sortinit}{H}
+      \field{sortinithash}{23a3aa7c24e56cfa16945d55545109b5}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{GNSS--global navigation satellite systems: GPS, GLONASS, Galileo, and more}
+      \field{year}{2007}
+    \endentry
+    \entry{jakicic_effect_2016}{article}{}
+      \name{author}{9}{}{%
+        {{un=0,uniquepart=base,hash=952774b7fd21adfd60ad7dda92bb1608}{%
+           family={Jakicic},
+           familyi={J\bibinitperiod},
+           given={John\bibnamedelima M.},
+           giveni={J\bibinitperiod\bibinitdelim M\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=bc8d5ab4a37c3db977c3b4f8171015ae}{%
+           family={Davis},
+           familyi={D\bibinitperiod},
+           given={Kelliann\bibnamedelima K.},
+           giveni={K\bibinitperiod\bibinitdelim K\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=2970ee2d26dd19438a108ae77c8c13cb}{%
+           family={Rogers},
+           familyi={R\bibinitperiod},
+           given={Renee\bibnamedelima J.},
+           giveni={R\bibinitperiod\bibinitdelim J\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=28ea41c3d074b1fa13f2d6fb2f19b3af}{%
+           family={King},
+           familyi={K\bibinitperiod},
+           given={Wendy\bibnamedelima C.},
+           giveni={W\bibinitperiod\bibinitdelim C\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=b466d721d6685da114770f111a6d2498}{%
+           family={Marcus},
+           familyi={M\bibinitperiod},
+           given={Marsha\bibnamedelima D.},
+           giveni={M\bibinitperiod\bibinitdelim D\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=b05cb595a64ecbf0a0895910a1333134}{%
+           family={Helsel},
+           familyi={H\bibinitperiod},
+           given={Diane},
+           giveni={D\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=5031363dfe967ea8460dbbb5892a6dd5}{%
+           family={Rickman},
+           familyi={R\bibinitperiod},
+           given={Amy\bibnamedelima D.},
+           giveni={A\bibinitperiod\bibinitdelim D\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=47ee633adf26e86dca93a7aaad4af7de}{%
+           family={Wahed},
+           familyi={W\bibinitperiod},
+           given={Abdus\bibnamedelima S.},
+           giveni={A\bibinitperiod\bibinitdelim S\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=630e0ac19910fc8da5a92f15832fd371}{%
+           family={Belle},
+           familyi={B\bibinitperiod},
+           given={Steven\bibnamedelima H.},
+           giveni={S\bibinitperiod\bibinitdelim H\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{7202e18e517ab21f4917e7d6a186f5f9}
+      \strng{fullhash}{491163c58dce7040cc45748d83f29af0}
+      \strng{bibnamehash}{491163c58dce7040cc45748d83f29af0}
+      \strng{authorbibnamehash}{491163c58dce7040cc45748d83f29af0}
+      \strng{authornamehash}{7202e18e517ab21f4917e7d6a186f5f9}
+      \strng{authorfullhash}{491163c58dce7040cc45748d83f29af0}
+      \field{sortinit}{J}
+      \field{sortinithash}{b2f54a9081ace9966a7cb9413811edb4}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{shorttitle}
+      \field{abstract}{Effective long-term treatments are needed to address the obesity epidemic. Numerous wearable technologies specific to physical activity and diet are available, but it is unclear if these are effective at improving weight loss.To test the hypothesis that, compared with a standard behavioral weight loss intervention (standard intervention), a technology-enhanced weight loss intervention (enhanced intervention) would result in greater weight loss.Randomized clinical trial conducted at the University of Pittsburgh and enrolling 471 adult participants between October 2010 and October 2012, with data collection completed by December 2014.Participants were placed on a low-calorie diet, prescribed increases in physical activity, and had group counseling sessions. At 6 months, the interventions added telephone counseling sessions, text message prompts, and access to study materials on a website. At 6 months, participants randomized to the standard intervention group initiated self-monitoring of diet and physical activity using a website, and those randomized to the enhanced intervention group were provided with a wearable device and accompanying web interface to monitor diet and physical activity.The primary outcome of weight was measured over 24 months at 6-month intervals, and the primary hypothesis tested the change in weight between 2 groups at 24 months. Secondary outcomes included body composition, fitness, physical activity, and dietary intake.Among the 471 participants randomized (body mass index [BMI], 25 to \&lt;40; age range, 18-35 years; 28.9\% nonwhite, 77.2\% women), 470 (233 in the standard intervention group, 237 in the enhanced intervention group) initiated the interventions as randomized, and 74.5\% completed the study. For the enhanced intervention group, mean baseline weight was 96.3 kg (95\% CI, 94.2-98.5) and 24-month weight 92.8 kg (95\% CI, 90.6-95.0). For the standard intervention group, mean baseline weight was 95.2 kg (95\% CI, 93.0-97.3) and 24-month weight was 89.3 kg (95\% CI, 87.1-91.5). Weight change at 24 months differed significantly by intervention group (estimated mean weight loss, 3.5 kg [95\% CI, 2.6-4.5\vphantom{\{}\} in the enhanced intervention group and 5.9 kg [95\% CI, 5.0-6.8] in the standard intervention group; difference, 2.4 kg [95\% CI, 1.0-3.7]; P = .002). Both groups had significant improvements in body composition, fitness, physical activity, and diet, with no significant difference between groups.Among young adults with a BMI between 25 and less than 40, the addition of a wearable technology device to a standard behavioral intervention resulted in less weight loss over 24 months. Devices that monitor and provide feedback on physical activity may not offer an advantage over standard behavioral weight loss approaches.clinicaltrials.gov Identifier: NCT01131871}
+      \field{issn}{0098-7484}
+      \field{journaltitle}{JAMA}
+      \field{month}{9}
+      \field{number}{11}
+      \field{shorttitle}{Effect of {Wearable} {Technology} {Combined} {With} a {Lifestyle} {Intervention} on {Long}-term {Weight} {Loss}}
+      \field{title}{Effect of {Wearable} {Technology} {Combined} {With} a {Lifestyle} {Intervention} on {Long}-term {Weight} {Loss}: {The} {IDEA} {Randomized} {Clinical} {Trial}}
+      \field{urlday}{26}
+      \field{urlmonth}{1}
+      \field{urlyear}{2023}
+      \field{volume}{316}
+      \field{year}{2016}
+      \field{urldateera}{ce}
+      \field{pages}{1161\bibrangedash 1171}
+      \range{pages}{11}
+      \verb{doi}
+      \verb 10.1001/jama.2016.12858
+      \endverb
+      \verb{file}
+      \verb Full Text:/Users/ronikoskinen/Zotero/storage/RXTIL7CQ/Jakicic et al. - 2016 - Effect of Wearable Technology Combined With a Life.pdf:application/pdf;Snapshot:/Users/ronikoskinen/Zotero/storage/UK226TFY/2553448.html:text/html
+      \endverb
+      \verb{urlraw}
+      \verb https://doi.org/10.1001/jama.2016.12858
+      \endverb
+      \verb{url}
+      \verb https://doi.org/10.1001/jama.2016.12858
+      \endverb
+    \endentry
+    \entry{johansson_accuracy_2020}{article}{}
+      \name{author}{4}{}{%
+        {{un=0,uniquepart=base,hash=5e6200e637e44cf86a33db49713ca99f}{%
+           family={Johansson},
+           familyi={J\bibinitperiod},
+           given={Rebecca\bibnamedelima E},
+           giveni={R\bibinitperiod\bibinitdelim E\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=32140c15a7952fb794a7fdd339c765ef}{%
+           family={Adolph},
+           familyi={A\bibinitperiod},
+           given={Steffen\bibnamedelima T},
+           giveni={S\bibinitperiod\bibinitdelim T\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=af89760df4c5adc4439d842ab4817095}{%
+           family={Swart},
+           familyi={S\bibinitperiod},
+           given={Jeroen},
+           giveni={J\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=067841749be3127232836082fa642c19}{%
+           family={Lambert},
+           familyi={L\bibinitperiod},
+           given={Mike\bibnamedelima I},
+           giveni={M\bibinitperiod\bibinitdelim I\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{language}{1}{%
+        {en}%
+      }
+      \strng{namehash}{6fcbcadf1a6dad5a347bbe3bf2935f68}
+      \strng{fullhash}{17cba7a2f2b05372219124c93a141a89}
+      \strng{bibnamehash}{17cba7a2f2b05372219124c93a141a89}
+      \strng{authorbibnamehash}{17cba7a2f2b05372219124c93a141a89}
+      \strng{authornamehash}{6fcbcadf1a6dad5a347bbe3bf2935f68}
+      \strng{authorfullhash}{17cba7a2f2b05372219124c93a141a89}
+      \field{sortinit}{J}
+      \field{sortinithash}{b2f54a9081ace9966a7cb9413811edb4}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{issn}{1747-9541}
+      \field{journaltitle}{International Journal of Sports Science \& Coaching}
+      \field{month}{4}
+      \field{note}{Publisher: SAGE Publications}
+      \field{number}{2}
+      \field{title}{Accuracy of {GPS} sport watches in measuring distance in an ultramarathon running race}
+      \field{urlday}{21}
+      \field{urlmonth}{2}
+      \field{urlyear}{2023}
+      \field{volume}{15}
+      \field{year}{2020}
+      \field{urldateera}{ce}
+      \field{pages}{212\bibrangedash 219}
+      \range{pages}{8}
+      \verb{doi}
+      \verb 10.1177/1747954119899880
+      \endverb
+      \verb{file}
+      \verb SAGE PDF Full Text:/Users/ronikoskinen/Zotero/storage/7Z29QYP8/Johansson et al. - 2020 - Accuracy of GPS sport watches in measuring distanc.pdf:application/pdf
+      \endverb
+      \verb{urlraw}
+      \verb https://doi.org/10.1177/1747954119899880
+      \endverb
+      \verb{url}
+      \verb https://doi.org/10.1177/1747954119899880
+      \endverb
+    \endentry
+    \entry{petrusevski_interventions_2021}{article}{}
+      \name{author}{5}{}{%
+        {{un=0,uniquepart=base,hash=84fe889e1fe1f571ff0b777a8b9e0c99}{%
+           family={Petrusevski},
+           familyi={P\bibinitperiod},
+           given={Celeste},
+           giveni={C\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=08e08e680e627c33b8409c4f95c35fd0}{%
+           family={Choo},
+           familyi={C\bibinitperiod},
+           given={Silvana},
+           giveni={S\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=787fc08539979052119961b89b38f29f}{%
+           family={Wilson},
+           familyi={W\bibinitperiod},
+           given={Michael},
+           giveni={M\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=740ddabfdc989912c01539b9a492307b}{%
+           family={MacDermid},
+           familyi={M\bibinitperiod},
+           given={Joy},
+           giveni={J\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=deba164d0d681bb39396301de9cf5f47}{%
+           family={Richardson},
+           familyi={R\bibinitperiod},
+           given={Julie},
+           giveni={J\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{ad75517eeb082e7a448c220dd0a77f4f}
+      \strng{fullhash}{50f484d3bc0741928e8831228fc83b7a}
+      \strng{bibnamehash}{50f484d3bc0741928e8831228fc83b7a}
+      \strng{authorbibnamehash}{50f484d3bc0741928e8831228fc83b7a}
+      \strng{authornamehash}{ad75517eeb082e7a448c220dd0a77f4f}
+      \strng{authorfullhash}{50f484d3bc0741928e8831228fc83b7a}
+      \field{sortinit}{P}
+      \field{sortinithash}{ff3bcf24f47321b42cb156c2cc8a8422}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{shorttitle}
+      \field{abstract}{Purpose Sedentary behaviour is associated with increased risk for lower health status and all-cause mortality. Older adults spend up to 75\%, on average, of their day sedentary, however little is known about interventions designed to decrease sitting time for this population.Methods A scoping review was conducted to broadly determine what is known about sedentary behaviour interventions for older adults. Electronic databases were searched for articles with eligibility criteria including: (1) interventions containing strategies to decrease sedentary behaviour, (2) adults ≥60 years of age, and (3) reported outcome measures related to sedentary behaviour.Results A total of 32 articles met the inclusion criteria. While methodological quality and intervention characteristics varied among the studies, the majority of interventions used a multi-component approach. Interventions involved a variety of behavioural change strategies with goal setting, information and self-monitoring the most frequently used. Of the 20 studies reporting results, 80\% (n = 16) found at least one significant change in sedentary behaviour.Conclusion Findings from this scoping review suggest that sedentary behaviour can be reduced in community-dwelling older adults through multi-component targeted interventions. Future work is needed to examine sedentary behaviour interventions for adults {>}75 years and for persons living in long-term care institutions.IMPLICATIONS FOR REHABILITATIONOlder adults spend up to 75\% of their day sedentary and are at an increased risk for chronic conditions, functional limitations, and mortality.Multi-component sedentary behaviour interventions, such as education, physical activity, and activity monitoring should be implemented for older adults.When designing interventions, incorporating goal-setting, self-monitoring and other behaviour change strategies can reduce sitting time for older adults.}
+      \field{issn}{0963-8288}
+      \field{journaltitle}{Disability and Rehabilitation}
+      \field{month}{10}
+      \field{note}{Publisher: Taylor \& Francis \_eprint: https://doi.org/10.1080/09638288.2020.1725156}
+      \field{number}{21}
+      \field{shorttitle}{Interventions to address sedentary behaviour for older adults}
+      \field{title}{Interventions to address sedentary behaviour for older adults: a scoping review}
+      \field{urlday}{20}
+      \field{urlmonth}{2}
+      \field{urlyear}{2023}
+      \field{volume}{43}
+      \field{year}{2021}
+      \field{urldateera}{ce}
+      \field{pages}{3090\bibrangedash 3101}
+      \range{pages}{12}
+      \verb{doi}
+      \verb 10.1080/09638288.2020.1725156
+      \endverb
+      \verb{file}
+      \verb Full Text PDF:/Users/ronikoskinen/Zotero/storage/TKLW5GJQ/Petrusevski et al. - 2021 - Interventions to address sedentary behaviour for o.pdf:application/pdf
+      \endverb
+      \verb{urlraw}
+      \verb https://doi.org/10.1080/09638288.2020.1725156
+      \endverb
+      \verb{url}
+      \verb https://doi.org/10.1080/09638288.2020.1725156
+      \endverb
+      \keyw{behaviour change,intervention,older adults,scoping review,Sedentary behaviour,sitting time}
+    \endentry
+    \entry{rawassizadeh_wearables_2014}{article}{}
+      \name{author}{3}{}{%
+        {{un=0,uniquepart=base,hash=e05d44a861372f1e77ef4a0d5e33b953}{%
+           family={Rawassizadeh},
+           familyi={R\bibinitperiod},
+           given={Reza},
+           giveni={R\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=a8bb921765bacf84d182784492463f60}{%
+           family={Price},
+           familyi={P\bibinitperiod},
+           given={Blaine\bibnamedelima A.},
+           giveni={B\bibinitperiod\bibinitdelim A\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=4f0e5169c48e02fa91be6f820f2eccb9}{%
+           family={Petre},
+           familyi={P\bibinitperiod},
+           given={Marian},
+           giveni={M\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{a823974d6d56acf043431ca382db692e}
+      \strng{fullhash}{a823974d6d56acf043431ca382db692e}
+      \strng{bibnamehash}{a823974d6d56acf043431ca382db692e}
+      \strng{authorbibnamehash}{a823974d6d56acf043431ca382db692e}
+      \strng{authornamehash}{a823974d6d56acf043431ca382db692e}
+      \strng{authorfullhash}{a823974d6d56acf043431ca382db692e}
+      \field{sortinit}{R}
+      \field{sortinithash}{5e1c39a9d46ffb6bebd8f801023a9486}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{shorttitle}
+      \field{abstract}{Time will tell if smartwatches will find their niche.}
+      \field{issn}{0001-0782}
+      \field{journaltitle}{Communications of the ACM}
+      \field{month}{12}
+      \field{number}{1}
+      \field{shorttitle}{Wearables}
+      \field{title}{Wearables: has the age of smartwatches finally arrived?}
+      \field{urlday}{10}
+      \field{urlmonth}{2}
+      \field{urlyear}{2023}
+      \field{volume}{58}
+      \field{year}{2014}
+      \field{urldateera}{ce}
+      \field{pages}{45\bibrangedash 47}
+      \range{pages}{3}
+      \verb{doi}
+      \verb 10.1145/2629633
+      \endverb
+      \verb{file}
+      \verb Full Text PDF:/Users/ronikoskinen/Zotero/storage/ZQRSYSSU/Rawassizadeh et al. - 2014 - Wearables has the age of smartwatches finally arr.pdf:application/pdf
+      \endverb
+      \verb{urlraw}
+      \verb https://doi.org/10.1145/2629633
+      \endverb
+      \verb{url}
+      \verb https://doi.org/10.1145/2629633
+      \endverb
+    \endentry
+    \entry{shin2015understanding}{article}{}
+      \name{author}{3}{}{%
+        {{un=0,uniquepart=base,hash=ba83f648b25ff62644f0784a249188c1}{%
+           family={Shin},
+           familyi={S\bibinitperiod},
+           given={Grace},
+           giveni={G\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=3db030c6a7a57d5bbf82c95bbe265e73}{%
+           family={Cheon},
+           familyi={C\bibinitperiod},
+           given={Eun\bibnamedelima Jeong},
+           giveni={E\bibinitperiod\bibinitdelim J\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=17fbdc37781ec2284392ad0fd905f13c}{%
+           family={Jarrahi},
+           familyi={J\bibinitperiod},
+           given={Mohammad\bibnamedelima Hossein},
+           giveni={M\bibinitperiod\bibinitdelim H\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{publisher}{1}{%
+        {iSchools}%
+      }
+      \strng{namehash}{74e751f815adb8e08c7cdf47cde47969}
+      \strng{fullhash}{74e751f815adb8e08c7cdf47cde47969}
+      \strng{bibnamehash}{74e751f815adb8e08c7cdf47cde47969}
+      \strng{authorbibnamehash}{74e751f815adb8e08c7cdf47cde47969}
+      \strng{authornamehash}{74e751f815adb8e08c7cdf47cde47969}
+      \strng{authorfullhash}{74e751f815adb8e08c7cdf47cde47969}
+      \field{sortinit}{S}
+      \field{sortinithash}{b164b07b29984b41daf1e85279fbc5ab}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{IConference 2015 Proceedings}
+      \field{title}{Understanding quantified-selfers' interplay between intrinsic and extrinsic motivation in the use of activity-tracking devices}
+      \field{year}{2015}
+    \endentry
+    \entry{siepmann_understanding_2021}{article}{}
+      \name{author}{2}{}{%
+        {{un=0,uniquepart=base,hash=e3c8058650932425306fc6c03a2d12cc}{%
+           family={Siepmann},
+           familyi={S\bibinitperiod},
+           given={Carolin},
+           giveni={C\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=967952a1e3b3164a5ffc15f36532da94}{%
+           family={Kowalczuk},
+           familyi={K\bibinitperiod},
+           given={Pascal},
+           giveni={P\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{language}{1}{%
+        {en}%
+      }
+      \strng{namehash}{5d89781ede155a2b76cabe2e60b70703}
+      \strng{fullhash}{5d89781ede155a2b76cabe2e60b70703}
+      \strng{bibnamehash}{5d89781ede155a2b76cabe2e60b70703}
+      \strng{authorbibnamehash}{5d89781ede155a2b76cabe2e60b70703}
+      \strng{authornamehash}{5d89781ede155a2b76cabe2e60b70703}
+      \strng{authorfullhash}{5d89781ede155a2b76cabe2e60b70703}
+      \field{sortinit}{S}
+      \field{sortinithash}{b164b07b29984b41daf1e85279fbc5ab}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{shorttitle}
+      \field{abstract}{Smartwatches are the most popular wearable device and increasingly subject to empirical research. In recent years, the focus has shifted from revealing determinants of smartwatch adoption to understanding factors that cause long-term usage. Despite their importance for personal fitness, health monitoring, and for achieving health and fitness goals, extant research on the continuous use intention of smartwatches mostly disregards health and fitness factors. Grounding on self-determination theory, this study addresses this gap and investigates the impact of health and fitness as well as positive and negative emotional factors encouraging or impeding consumers to continuously use smartwatches. We build upon the expectation-confirmation model (ECM) and extend it with emotional (device annoyance and enjoyment) as well as health and fitness factors (goal pursuit motivation and self-quantification behavior). We use structural equation modeling to validate our model based on 335 responses from actual smartwatch users. Results prove the applicability of the ECM to the smartwatch context and highlight the importance of self-quantification as a focal construct for explaining goal pursuit motivation, perceived usefulness, confirmation and device annoyance. Further, we identify device annoyance as an important barrier to continuous smartwatch use. Based on our results, we finally derive implications for researchers and practitioners alike.}
+      \field{issn}{1422-8890}
+      \field{journaltitle}{Electronic Markets}
+      \field{month}{12}
+      \field{note}{Company: Springer Distributor: Springer Institution: Springer Label: Springer Number: 4 Publisher: Springer Berlin Heidelberg}
+      \field{number}{4}
+      \field{shorttitle}{Understanding continued smartwatch usage}
+      \field{title}{Understanding continued smartwatch usage: the role of emotional as well as health and fitness factors}
+      \field{urlday}{12}
+      \field{urlmonth}{1}
+      \field{urlyear}{2023}
+      \field{volume}{31}
+      \field{year}{2021}
+      \field{urldateera}{ce}
+      \field{pages}{795\bibrangedash 809}
+      \range{pages}{15}
+      \verb{doi}
+      \verb 10.1007/s12525-021-00458-3
+      \endverb
+      \verb{file}
+      \verb Full Text PDF:/Users/ronikoskinen/Zotero/storage/3NYWZK4B/Siepmann and Kowalczuk - 2021 - Understanding continued smartwatch usage the role.pdf:application/pdf
+      \endverb
+      \verb{urlraw}
+      \verb https://link.springer.com/article/10.1007/s12525-021-00458-3
+      \endverb
+      \verb{url}
+      \verb https://link.springer.com/article/10.1007/s12525-021-00458-3
+      \endverb
+    \endentry
+    \entry{sportswatch_tfd}{misc}{}
+      \field{sortinit}{T}
+      \field{sortinithash}{9af77f0292593c26bde9a56e688eaee9}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{url}
+      \field{labeltitlesource}{title}
+      \field{abstract}{Encyclopedia article about sports watch by The Free Dictionary}
+      \field{journaltitle}{TheFreeDictionary.com}
+      \field{note}{Luettu 10-02-2023}
+      \field{title}{sports watch}
+      \field{urlday}{10}
+      \field{urlmonth}{2}
+      \field{urlyear}{2023}
+      \field{urldateera}{ce}
+      \verb{file}
+      \verb Snapshot:/Users/ronikoskinen/Zotero/storage/FNGTLSN5/sports+watch.html:text/html
+      \endverb
+      \verb{urlraw}
+      \verb https://encyclopedia2.thefreedictionary.com/sports+watch
+      \endverb
+      \verb{url}
+      \verb https://encyclopedia2.thefreedictionary.com/sports+watch
+      \endverb
+    \endentry
+    \entry{wang_accuracy_2017}{article}{}
+      \name{author}{7}{}{%
+        {{un=0,uniquepart=base,hash=9fd5d548e26986f54114ea468ce954de}{%
+           family={Wang},
+           familyi={W\bibinitperiod},
+           given={Robert},
+           giveni={R\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=a66cdbdb866e24d22703a1a0b9aab487}{%
+           family={Blackburn},
+           familyi={B\bibinitperiod},
+           given={Gordon},
+           giveni={G\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=a057b58311cf0e6a20932db6e6f75e24}{%
+           family={Desai},
+           familyi={D\bibinitperiod},
+           given={Milind},
+           giveni={M\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=fe8570e1214bec192ce55f422e942c98}{%
+           family={Phelan},
+           familyi={P\bibinitperiod},
+           given={Dermot},
+           giveni={D\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=2c873e7a21c29f6426b56a9a0ca5b211}{%
+           family={Gillinov},
+           familyi={G\bibinitperiod},
+           given={Lauren},
+           giveni={L\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=12ffe397de1cfcd7f18eda8951a2317b}{%
+           family={Houghtaling},
+           familyi={H\bibinitperiod},
+           given={Penny},
+           giveni={P\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=261a8ae8d791d85924ce41d7d75d597a}{%
+           family={Gillinov},
+           familyi={G\bibinitperiod},
+           given={Marc},
+           giveni={M\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{c5c6f1a8e9748967a007bd853269acf6}
+      \strng{fullhash}{b39541224085d470c7c92e18efe8bfa9}
+      \strng{bibnamehash}{b39541224085d470c7c92e18efe8bfa9}
+      \strng{authorbibnamehash}{b39541224085d470c7c92e18efe8bfa9}
+      \strng{authornamehash}{c5c6f1a8e9748967a007bd853269acf6}
+      \strng{authorfullhash}{b39541224085d470c7c92e18efe8bfa9}
+      \field{sortinit}{W}
+      \field{sortinithash}{afb52128e5b4dc4b843768c0113d673b}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{Wrist-worn fitness and heart rate (HR) monitors are popular. While the accuracy of chest strap, electrode-based HR monitors has been confirmed, the accuracy of wrist-worn, optically based HR monitors is uncertain. Assessment of the monitors’ accuracy is important for individuals who use them to guide their physical activity and for physicians to whom these individuals report HR readings. The objective of this study was to assess the accuracy of 4 popular wrist-worn HR monitors under conditions of varying physical exertion.}
+      \field{annotation}{TÄMÄ ON ISO LÄHDE KÄYTÄ ISOSTI}
+      \field{issn}{2380-6583}
+      \field{journaltitle}{JAMA Cardiology}
+      \field{month}{1}
+      \field{number}{1}
+      \field{title}{Accuracy of {Wrist}-{Worn} {Heart} {Rate} {Monitors}}
+      \field{urlday}{28}
+      \field{urlmonth}{2}
+      \field{urlyear}{2023}
+      \field{volume}{2}
+      \field{year}{2017}
+      \field{urldateera}{ce}
+      \field{pages}{104\bibrangedash 106}
+      \range{pages}{3}
+      \verb{doi}
+      \verb 10.1001/jamacardio.2016.3340
+      \endverb
+      \verb{file}
+      \verb Full Text:/Users/ronikoskinen/Zotero/storage/RHRVWAIU/Wang et al. - 2017 - Accuracy of Wrist-Worn Heart Rate Monitors.pdf:application/pdf;Snapshot:/Users/ronikoskinen/Zotero/storage/GTSN3S3G/2566167.html:text/html
+      \endverb
+      \verb{urlraw}
+      \verb https://doi.org/10.1001/jamacardio.2016.3340
+      \endverb
+      \verb{url}
+      \verb https://doi.org/10.1001/jamacardio.2016.3340
+      \endverb
+    \endentry
+    \entry{Gregersen_watch_2023}{misc}{}
+      \list{language}{1}{%
+        {en}%
+      }
+      \field{sortinit}{W}
+      \field{sortinithash}{afb52128e5b4dc4b843768c0113d673b}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \field{labeltitlesource}{title}
+      \field{abstract}{smartwatch, a small smartphonelike device worn on the wrist. Many smartwatches are connected to a smartphone that notifies the user of incoming calls, e-mail messages, and notifications from applications. Some smartwatches can even make telephone calls. Many smartwatches have colour displays, but some inexpensive models use a black-and-white “e-paper” display. The user can operate the smartwatch through a touch screen, physical buttons, or a combination of the two. Some smartwatches come with pedometers and heart-rate monitors to help users track their health. As computers shrank in size in the 20th century, electronic equipment became small enough to fit into a}
+      \field{month}{1}
+      \field{note}{Luettu 10-02-2023}
+      \field{title}{Watch - {Electric}-powered and electronic watches {|} {Britannica}}
+      \field{urlday}{10}
+      \field{urlmonth}{2}
+      \field{urlyear}{2023}
+      \field{year}{2023}
+      \field{urldateera}{ce}
+      \verb{file}
+      \verb Snapshot:/Users/ronikoskinen/Zotero/storage/B3LBV8NZ/Electric-powered-and-electronic-watches.html:text/html
+      \endverb
+      \verb{urlraw}
+      \verb https://www.britannica.com/technology/smartwatch
+      \endverb
+      \verb{url}
+      \verb https://www.britannica.com/technology/smartwatch
+      \endverb
+    \endentry
+    \entry{watson_sleep_2017}{article}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=70f44cba333e2e50f07652387eb6af63}{%
+           family={Watson},
+           familyi={W\bibinitperiod},
+           given={Andrew\bibnamedelima M.},
+           giveni={A\bibinitperiod\bibinitdelim M\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{language}{1}{%
+        {en-US}%
+      }
+      \strng{namehash}{70f44cba333e2e50f07652387eb6af63}
+      \strng{fullhash}{70f44cba333e2e50f07652387eb6af63}
+      \strng{bibnamehash}{70f44cba333e2e50f07652387eb6af63}
+      \strng{authorbibnamehash}{70f44cba333e2e50f07652387eb6af63}
+      \strng{authornamehash}{70f44cba333e2e50f07652387eb6af63}
+      \strng{authorfullhash}{70f44cba333e2e50f07652387eb6af63}
+      \field{sortinit}{W}
+      \field{sortinithash}{afb52128e5b4dc4b843768c0113d673b}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{Sleep is an essential component of health and well-being, with significant impacts on physical development, emotional regulation, cognitive performance, and quality of life. Along with being an integral part of the recovery and adaptive process between bouts of exercise, accumulating evidence suggests that increased sleep duration and improved sleep quality in athletes are associated with improved performance and competitive success. In addition, better sleep may reduce the risk of both injury and illness in athletes, not only optimizing health but also potentially enhancing performance through increased participation in training. Despite this, most studies have found that athletes fail to obtain the recommended amount of sleep, threatening both performance and health. Athletes face a number of obstacles that can reduce the likelihood of obtaining proper sleep, such as training and competition schedules, travel, stress, academic demands, and overtraining. In addition, athletes have been found to demonstrate poor self-assessment of their sleep duration and quality. In light of this, athletes may require more careful monitoring and intervention to identify individuals at risk and promote proper sleep to improve both performance and overall health. This review attempts to highlight the recent literature regarding sleep issues in athletes, the effects of sleep on athletic performance, and interventions to enhance proper sleep in athletes.}
+      \field{issn}{1537-8918}
+      \field{journaltitle}{Current Sports Medicine Reports}
+      \field{month}{12}
+      \field{number}{6}
+      \field{title}{Sleep and {Athletic} {Performance}}
+      \field{urlday}{27}
+      \field{urlmonth}{2}
+      \field{urlyear}{2023}
+      \field{volume}{16}
+      \field{year}{2017}
+      \field{urldateera}{ce}
+      \field{pages}{413}
+      \range{pages}{1}
+      \verb{doi}
+      \verb 10.1249/JSR.0000000000000418
+      \endverb
+      \verb{file}
+      \verb Snapshot:/Users/ronikoskinen/Zotero/storage/IATKZJ7L/sleep_and_athletic_performance.11.html:text/html
+      \endverb
+      \verb{urlraw}
+      \verb https://journals.lww.com/acsm-csmr/fulltext/2017/11000/sleep_and_athletic_performance.11.aspx
+      \endverb
+      \verb{url}
+      \verb https://journals.lww.com/acsm-csmr/fulltext/2017/11000/sleep_and_athletic_performance.11.aspx
+      \endverb
+    \endentry
+    \entry{Yasar_what_wearable}{online}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=adfd79848d4e204a10542fc5148d9f63}{%
+           family={Yasar},
+           familyi={Y\bibinitperiod}}}%
+      }
+      \list{language}{1}{%
+        {en}%
+      }
+      \strng{namehash}{adfd79848d4e204a10542fc5148d9f63}
+      \strng{fullhash}{adfd79848d4e204a10542fc5148d9f63}
+      \strng{bibnamehash}{adfd79848d4e204a10542fc5148d9f63}
+      \strng{authorbibnamehash}{adfd79848d4e204a10542fc5148d9f63}
+      \strng{authornamehash}{adfd79848d4e204a10542fc5148d9f63}
+      \strng{authorfullhash}{adfd79848d4e204a10542fc5148d9f63}
+      \field{sortinit}{Y}
+      \field{sortinithash}{fd67ad5a9ef0f7456bdd9aab10fe1495}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{shorttitle}
+      \field{abstract}{Learn about wearable technology and its various applications. Also, delve into the history and take a peek at the future of wearable technology.}
+      \field{journaltitle}{Mobile Computing}
+      \field{note}{Luettu: 10-02-2023}
+      \field{shorttitle}{What is {Wearable} {Technology}?}
+      \field{title}{What is {Wearable} {Technology}? {Definition}, {Uses} and {Examples}}
+      \field{urlday}{10}
+      \field{urlmonth}{2}
+      \field{urlyear}{2023}
+      \field{year}{2022}
+      \field{urldateera}{ce}
+      \verb{file}
+      \verb Snapshot:/Users/ronikoskinen/Zotero/storage/5K7MPT7Q/wearable-technology.html:text/html
+      \endverb
+      \verb{urlraw}
+      \verb https://www.techtarget.com/searchmobilecomputing/definition/wearable-technology
+      \endverb
+      \verb{url}
+      \verb https://www.techtarget.com/searchmobilecomputing/definition/wearable-technology
+      \endverb
+    \endentry
+  \enddatalist
+\endrefsection
+\endinput
+

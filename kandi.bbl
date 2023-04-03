@@ -19,6 +19,70 @@
 
 \refsection{0}
   \datalist[entry]{cms/global//global/global}
+    \entry{ahanathapillai_preliminary_2015}{article}{}
+      \name{author}{4}{}{%
+        {{un=0,uniquepart=base,hash=0e6df73bc5f105b1c93f00c2f9a7e72f}{%
+           family={Ahanathapillai},
+           familyi={A\bibinitperiod},
+           given={Vijayalakshmi},
+           giveni={V\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=82128d285f7f0a80cc852855c26d94e0}{%
+           family={Amor},
+           familyi={A\bibinitperiod},
+           given={James\bibnamedelima D.},
+           giveni={J\bibinitperiod\bibinitdelim D\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=cbc3db49673dec27cff399692c6cde02}{%
+           family={Goodwin},
+           familyi={G\bibinitperiod},
+           given={Zoe},
+           giveni={Z\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=33b51844bd5d885bc770c4ed9ff6f661}{%
+           family={James},
+           familyi={J\bibinitperiod},
+           given={Christopher\bibnamedelima J.},
+           giveni={C\bibinitperiod\bibinitdelim J\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{language}{1}{%
+        {en}%
+      }
+      \strng{namehash}{e8cfd2997bf02e67330469640ad7afc0}
+      \strng{fullhash}{9e151c52145c380c247d245a42b2dfb0}
+      \strng{bibnamehash}{9e151c52145c380c247d245a42b2dfb0}
+      \strng{authorbibnamehash}{9e151c52145c380c247d245a42b2dfb0}
+      \strng{authornamehash}{e8cfd2997bf02e67330469640ad7afc0}
+      \strng{authorfullhash}{9e151c52145c380c247d245a42b2dfb0}
+      \field{sortinit}{A}
+      \field{sortinithash}{2f401846e2029bad6b3ecc16d50031e2}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{The global trend for increasing life expectancy is resulting in aging populations in a number of countries. This brings to bear a pressure to provide effective care for the older population with increasing constraints on available resources. Providing care for and maintaining the independence of an older person in their own home is one way that this problem can be addressed. The EU Funded Unobtrusive Smart Environments for Independent Living (USEFIL) project is an assistive technology tool being developed to enhance independent living. As part of USEFIL, a wrist wearable unit (WWU) is being developed to monitor the physical activity (PA) of the user and integrate with the USEFIL system. The WWU is a novel application of an existing technology to the assisted living problem domain. It combines existing technologies and new algorithms to extract PA parameters for activity monitoring. The parameters that are extracted include: activity level, step count and worn state. The WWU, the algorithms that have been developed and a preliminary validation are presented. The results show that activity level can be successfully extracted, that worn state can be correctly identified and that step counts in walking data can be estimated within 3\% error, using the controlled dataset.}
+      \field{issn}{2053-3713}
+      \field{journaltitle}{Healthcare Technology Letters}
+      \field{note}{\_eprint: https://onlinelibrary.wiley.com/doi/pdf/10.1049/htl.2014.0091}
+      \field{number}{1}
+      \field{title}{Preliminary study on activity monitoring using an android smart-watch}
+      \field{urlday}{30}
+      \field{urlmonth}{3}
+      \field{urlyear}{2023}
+      \field{volume}{2}
+      \field{year}{2015}
+      \field{urldateera}{ce}
+      \field{pages}{34\bibrangedash 39}
+      \range{pages}{6}
+      \verb{doi}
+      \verb 10.1049/htl.2014.0091
+      \endverb
+      \verb{file}
+      \verb Full Text PDF:/Users/ronikoskinen/Zotero/storage/YC6JR96S/Ahanathapillai et al. - 2015 - Preliminary study on activity monitoring using an .pdf:application/pdf;Snapshot:/Users/ronikoskinen/Zotero/storage/87HUXPI5/htl.2014.html:text/html
+      \endverb
+      \keyw{activity level,activity monitoring,android smart-watch,assisted living,assistive technology,health care,independent living project,mobile computing,PA parameter,patient monitoring,unobtrusive smart environments-for-independent living project,USEFIL project,wrist wearable unit,WWU}
+    \endentry
     \entry{ammann_accuracy_2016}{article}{}
       \name{author}{4}{}{%
         {{un=0,uniquepart=base,hash=6ff0cb731665b06ff84e294dbecd2ab5}{%
@@ -184,13 +248,131 @@
       \verb{file}
       \verb Full Text PDF:/Users/ronikoskinen/Zotero/storage/IF2IV6RP/Baranski and Strumillo - 2012 - Enhancing Positioning Accuracy in Urban Terrain by.pdf:application/pdf
       \endverb
-      \verb{urlraw}
-      \verb https://www.mdpi.com/1424-8220/12/6/6764
-      \endverb
-      \verb{url}
-      \verb https://www.mdpi.com/1424-8220/12/6/6764
-      \endverb
       \keyw{dead reckoning,digital maps,GPS,Monte Carlo,particle filtering,stereovision}
+    \endentry
+    \entry{bent_investigating_2020}{article}{}
+      \name{author}{4}{}{%
+        {{un=0,uniquepart=base,hash=d739345532c6759ce4fb59852ee63a6a}{%
+           family={Bent},
+           familyi={B\bibinitperiod},
+           given={Brinnae},
+           giveni={B\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=35ca5e404a1b3fa59733792f17363d4c}{%
+           family={Goldstein},
+           familyi={G\bibinitperiod},
+           given={Benjamin\bibnamedelima A.},
+           giveni={B\bibinitperiod\bibinitdelim A\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=f4ec5e20d3afd274d9eb3a34fbb9400e}{%
+           family={Kibbe},
+           familyi={K\bibinitperiod},
+           given={Warren\bibnamedelima A.},
+           giveni={W\bibinitperiod\bibinitdelim A\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=cf9059f48e888cd7445e8430d13e7d10}{%
+           family={Dunn},
+           familyi={D\bibinitperiod},
+           given={Jessilyn\bibnamedelima P.},
+           giveni={J\bibinitperiod\bibinitdelim P\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{language}{1}{%
+        {en}%
+      }
+      \strng{namehash}{28a230178324f6dc7232b3999d6aa1fd}
+      \strng{fullhash}{5d28b56dcd3080283867b82f4111c18a}
+      \strng{bibnamehash}{5d28b56dcd3080283867b82f4111c18a}
+      \strng{authorbibnamehash}{5d28b56dcd3080283867b82f4111c18a}
+      \strng{authornamehash}{28a230178324f6dc7232b3999d6aa1fd}
+      \strng{authorfullhash}{5d28b56dcd3080283867b82f4111c18a}
+      \field{sortinit}{B}
+      \field{sortinithash}{d7095fff47cda75ca2589920aae98399}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{As wearable technologies are being increasingly used for clinical research and healthcare, it is critical to understand their accuracy and determine how measurement errors may affect research conclusions and impact healthcare decision-making. Accuracy of wearable technologies has been a hotly debated topic in both the research and popular science literature. Currently, wearable technology companies are responsible for assessing and reporting the accuracy of their products, but little information about the evaluation method is made publicly available. Heart rate measurements from wearables are derived from photoplethysmography (PPG), an optical method for measuring changes in blood volume under the skin. Potential inaccuracies in PPG stem from three major areas, includes (1) diverse skin types, (2) motion artifacts, and (3) signal crossover. To date, no study has systematically explored the accuracy of wearables across the full range of skin tones. Here, we explored heart rate and PPG data from consumer- and research-grade wearables under multiple circumstances to test whether and to what extent these inaccuracies exist. We saw no statistically significant difference in accuracy across skin tones, but we saw significant differences between devices, and between activity types, notably, that absolute error during activity was, on average, 30\% higher than during rest. Our conclusions indicate that different wearables are all reasonably accurate at resting and prolonged elevated heart rate, but that differences exist between devices in responding to changes in activity. This has implications for researchers, clinicians, and consumers in drawing study conclusions, combining study results, and making health-related decisions using these devices.}
+      \field{issn}{2398-6352}
+      \field{journaltitle}{npj Digital Medicine}
+      \field{month}{2}
+      \field{note}{Number: 1 Publisher: Nature Publishing Group}
+      \field{number}{1}
+      \field{title}{Investigating sources of inaccuracy in wearable optical heart rate sensors}
+      \field{urlday}{31}
+      \field{urlmonth}{3}
+      \field{urlyear}{2023}
+      \field{volume}{3}
+      \field{year}{2020}
+      \field{urldateera}{ce}
+      \field{pages}{1\bibrangedash 9}
+      \range{pages}{9}
+      \verb{doi}
+      \verb 10.1038/s41746-020-0226-6
+      \endverb
+      \verb{file}
+      \verb Full Text PDF:/Users/ronikoskinen/Zotero/storage/MZJMIVJI/Bent et al. - 2020 - Investigating sources of inaccuracy in wearable op.pdf:application/pdf
+      \endverb
+      \keyw{Biomedical engineering,Imaging and sensing,Technology}
+    \endentry
+    \entry{chinoy_performance_2022}{article}{}
+      \name{author}{4}{}{%
+        {{un=0,uniquepart=base,hash=deb59ab55fa98a7eda8d40929768a64f}{%
+           family={Chinoy},
+           familyi={C\bibinitperiod},
+           given={Evan\bibnamedelima D},
+           giveni={E\bibinitperiod\bibinitdelim D\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=2090b30b9e93a74ffa9239d92e5e8518}{%
+           family={Cuellar},
+           familyi={C\bibinitperiod},
+           given={Joseph\bibnamedelima A},
+           giveni={J\bibinitperiod\bibinitdelim A\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=51e82a7458403d34afd5f40ec7355b40}{%
+           family={Jameson},
+           familyi={J\bibinitperiod},
+           given={Jason\bibnamedelima T},
+           giveni={J\bibinitperiod\bibinitdelim T\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=6cafc4023cc29e31249fcc2c50abaa23}{%
+           family={Markwald},
+           familyi={M\bibinitperiod},
+           given={Rachel\bibnamedelima R},
+           giveni={R\bibinitperiod\bibinitdelim R\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{d7c56e0421e9f7c95afaaa53708075c4}
+      \strng{fullhash}{219dca413e646064b986b1f2d1d2086c}
+      \strng{bibnamehash}{219dca413e646064b986b1f2d1d2086c}
+      \strng{authorbibnamehash}{219dca413e646064b986b1f2d1d2086c}
+      \strng{authornamehash}{d7c56e0421e9f7c95afaaa53708075c4}
+      \strng{authorfullhash}{219dca413e646064b986b1f2d1d2086c}
+      \field{sortinit}{C}
+      \field{sortinithash}{4d103a86280481745c9c897c925753c0}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{Purpose Commercial wearable sleep-tracking devices are growing in popularity and in recent studies have performed well against gold standard sleep measurement techniques. However, most studies were conducted in controlled laboratory conditions. We therefore aimed to test the performance of devices under naturalistic unrestricted home sleep conditions. Participants and Methods Healthy young adults (n = 21; 12 women, 9 men; 29.0 ± 5.0 years, mean ± SD) slept at home under unrestricted conditions for 1 week using a set of commercial wearable sleep-tracking devices and completed daily sleep diaries. Devices included the Fatigue Science Readiband, Fitbit Inspire HR, Oura ring, and Polar Vantage V Titan. Participants also wore a research-grade actigraphy watch (Philips Respironics Actiwatch 2) for comparison. To assess performance, all devices were compared with a high performing mobile sleep electroencephalography headband device (Dreem 2). Analyses included epoch-by-epoch and sleep summary agreement comparisons. Results Devices accurately tracked sleep-wake summary metrics (ie, time in bed, total sleep time, sleep efficiency, sleep latency, wake after sleep onset) on most nights but performed best on nights with higher sleep efficiency. Epoch-by-epoch sensitivity (for sleep) and specificity (for wake), respectively, were as follows: Actiwatch (0.95, 0.35), Fatigue Science (0.94, 0.40), Fitbit (0.93, 0.45), Oura (0.94, 0.41), and Polar (0.96, 0.35). Sleep stage-tracking performance was mixed, with high variability. Conclusion As in previous studies, all devices were better at detecting sleep than wake, and most devices compared favorably to actigraphy in wake detection. Devices performed best on nights with more consolidated sleep patterns. Unrestricted sleep TIB differences were accurately tracked on most nights. High variability in sleep stage-tracking performance suggests that these devices, in their current form, are still best utilized for tracking sleep-wake outcomes and not sleep stages. Most commercial wearables exhibited promising performance for tracking sleep-wake in real-world conditions, further supporting their consideration as an alternative to actigraphy.}
+      \field{issn}{1179-1608}
+      \field{journaltitle}{Nature and Science of Sleep}
+      \field{month}{3}
+      \field{title}{Performance of {Four} {Commercial} {Wearable} {Sleep}-{Tracking} {Devices} {Tested} {Under} {Unrestricted} {Conditions} at {Home} in {Healthy} {Young} {Adults}}
+      \field{urlday}{3}
+      \field{urlmonth}{2}
+      \field{urlyear}{2023}
+      \field{volume}{14}
+      \field{year}{2022}
+      \field{urldateera}{ce}
+      \field{pages}{493\bibrangedash 516}
+      \range{pages}{24}
+      \verb{doi}
+      \verb 10.2147/NSS.S348795
+      \endverb
+      \verb{file}
+      \verb PubMed Central Full Text PDF:/Users/ronikoskinen/Zotero/storage/ZU8L5DD5/Chinoy et al. - 2022 - Performance of Four Commercial Wearable Sleep-Trac.pdf:application/pdf
+      \endverb
     \endentry
     \entry{noauthor_heart_nodate}{misc}{}
       \list{language}{1}{%
@@ -284,12 +466,6 @@
       \verb{file}
       \verb Full Text PDF:/Users/ronikoskinen/Zotero/storage/FVCJEKC8/Cummins et al. - 2013 - Global Positioning Systems (GPS) and Microtechnolo.pdf:application/pdf
       \endverb
-      \verb{urlraw}
-      \verb https://doi.org/10.1007/s40279-013-0069-2
-      \endverb
-      \verb{url}
-      \verb https://doi.org/10.1007/s40279-013-0069-2
-      \endverb
     \endentry
     \entry{garmin_site}{misc}{}
       \field{sortinit}{G}
@@ -314,6 +490,89 @@
       \verb{url}
       \verb https://www.garmin.com/en-US/c/wearables-smartwatches/
       \endverb
+    \endentry
+    \entry{gaz_determining_2018}{article}{}
+      \name{author}{8}{}{%
+        {{un=0,uniquepart=base,hash=103b603e3e425ea9da8d80d27dfb3671}{%
+           family={Gaz},
+           familyi={G\bibinitperiod},
+           given={D.V.},
+           giveni={D\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=c46f7f7651d9fbee4d8916a8d9682a18}{%
+           family={Rieck},
+           familyi={R\bibinitperiod},
+           given={T.M.},
+           giveni={T\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=d6b0d18201085c45c590bec14c5c4591}{%
+           family={Peterson},
+           familyi={P\bibinitperiod},
+           given={N.W.},
+           giveni={N\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=38c67ae0b8c4d5c4a64b9f7d31683916}{%
+           family={Ferguson},
+           familyi={F\bibinitperiod},
+           given={J.A.},
+           giveni={J\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=7dfccc487c02c8a799b4740b87234c56}{%
+           family={Schroeder},
+           familyi={S\bibinitperiod},
+           given={D.R.},
+           giveni={D\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=09cd5486ed6ba1c98d5119ba4208548e}{%
+           family={Dunfee},
+           familyi={D\bibinitperiod},
+           given={H.A.},
+           giveni={H\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=bfe942e23fdd1cbc47759dc274461ada}{%
+           family={Henderzahs-Mason},
+           familyi={H\bibinithyphendelim M\bibinitperiod},
+           given={J.M.},
+           giveni={J\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=0897589693d1f71f6ea837fcb69d1b4e}{%
+           family={Hagen},
+           familyi={H\bibinitperiod},
+           given={P.T.},
+           giveni={P\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{language}{1}{%
+        {English}%
+      }
+      \strng{namehash}{8df9d32c9a7a6ee71398139efef2060a}
+      \strng{fullhash}{32b8098c4313958c33ea8b3ba90cb00f}
+      \strng{bibnamehash}{32b8098c4313958c33ea8b3ba90cb00f}
+      \strng{authorbibnamehash}{32b8098c4313958c33ea8b3ba90cb00f}
+      \strng{authornamehash}{8df9d32c9a7a6ee71398139efef2060a}
+      \strng{authorfullhash}{32b8098c4313958c33ea8b3ba90cb00f}
+      \field{sortinit}{G}
+      \field{sortinithash}{32d67eca0634bf53703493fb1090a2e8}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{annotation}{Cited By :13}
+      \field{issn}{0890-1171}
+      \field{journaltitle}{American Journal of Health Promotion}
+      \field{number}{8}
+      \field{title}{Determining the {Validity} and {Accuracy} of {Multiple} {Activity}-{Tracking} {Devices} in {Controlled} and {Free}-{Walking} {Conditions}}
+      \field{volume}{32}
+      \field{year}{2018}
+      \field{pages}{1671\bibrangedash 1678}
+      \range{pages}{8}
+      \verb{doi}
+      \verb 10.1177/0890117118763273
+      \endverb
+      \verb{file}
+      \verb Snapshot:/Users/ronikoskinen/Zotero/storage/7TN42927/display.html:text/html
+      \endverb
+      \keyw{accelerometer activity tracking,pedometer}
     \endentry
     \entry{gilgen-ammann_rr_2019}{article}{}
       \name{author}{3}{}{%
@@ -372,12 +631,6 @@
       \verb{file}
       \verb Full Text PDF:/Users/ronikoskinen/Zotero/storage/HMZYAXV6/Gilgen-Ammann et al. - 2019 - RR interval signal quality of a heart rate monitor.pdf:application/pdf
       \endverb
-      \verb{urlraw}
-      \verb https://doi.org/10.1007/s00421-019-04142-5
-      \endverb
-      \verb{url}
-      \verb https://doi.org/10.1007/s00421-019-04142-5
-      \endverb
       \keyw{Gold standard,Heart rate measurement,Low- to high-intensity activities,Validity}
     \endentry
     \entry{gilgen-ammann_accuracy_2020}{article}{}
@@ -434,12 +687,6 @@
       \endverb
       \verb{file}
       \verb Full Text:/Users/ronikoskinen/Zotero/storage/VRGWILPZ/Gilgen-Ammann et al. - 2020 - Accuracy of Distance Recordings in Eight Positioni.pdf:application/pdf
-      \endverb
-      \verb{urlraw}
-      \verb https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7381051/
-      \endverb
-      \verb{url}
-      \verb https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7381051/
       \endverb
     \endentry
     \entry{godfrey2018z}{article}{}
@@ -503,6 +750,104 @@
       \field{pages}{40\bibrangedash 47}
       \range{pages}{8}
     \endentry
+    \entry{hochstadt_continuous_2020}{article}{}
+      \name{author}{10}{}{%
+        {{un=0,uniquepart=base,hash=e81662f99dcb9d4581717922dc02a05a}{%
+           family={Hochstadt},
+           familyi={H\bibinitperiod},
+           given={Aviram},
+           giveni={A\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=06ace30e624a120ef81fc21c20e1184b}{%
+           family={Havakuk},
+           familyi={H\bibinitperiod},
+           given={Ofer},
+           giveni={O\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=15a0b767d855e3f7cf54a2b925c8b325}{%
+           family={Chorin},
+           familyi={C\bibinitperiod},
+           given={Ehud},
+           giveni={E\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=75e1d3527432a5e76bcbbf87f856c06c}{%
+           family={Schwartz},
+           familyi={S\bibinitperiod},
+           given={Arie\bibnamedelima Lorin},
+           giveni={A\bibinitperiod\bibinitdelim L\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=ba124fa0732e870e576b1fdd33c229a7}{%
+           family={Merdler},
+           familyi={M\bibinitperiod},
+           given={Ilan},
+           giveni={I\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=046eb362699b926d61105867aac6ccc5}{%
+           family={Laufer},
+           familyi={L\bibinitperiod},
+           given={Michal},
+           giveni={M\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=03d01c7666ba43229a770f54a6485173}{%
+           family={Lubman},
+           familyi={L\bibinitperiod},
+           given={Natan},
+           giveni={N\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=0e66a006cf7afdb378ea12ce2bae4ad9}{%
+           family={Ghantous},
+           familyi={G\bibinitperiod},
+           given={Eihab},
+           giveni={E\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=57504b77fad994ff3478d906f6d7c0ef}{%
+           family={Viskin},
+           familyi={V\bibinitperiod},
+           given={Sami},
+           giveni={S\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=cb35fa15aad944cda215b69b36619485}{%
+           family={Rosso},
+           familyi={R\bibinitperiod},
+           given={Raphael},
+           giveni={R\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{language}{1}{%
+        {en}%
+      }
+      \strng{namehash}{f30bac268477cbbbb94d3fbbdbe9bfbc}
+      \strng{fullhash}{d0fe7a38bcfe568d134da5351978d418}
+      \strng{bibnamehash}{d0fe7a38bcfe568d134da5351978d418}
+      \strng{authorbibnamehash}{d0fe7a38bcfe568d134da5351978d418}
+      \strng{authornamehash}{f30bac268477cbbbb94d3fbbdbe9bfbc}
+      \strng{authorfullhash}{d0fe7a38bcfe568d134da5351978d418}
+      \field{sortinit}{H}
+      \field{sortinithash}{23a3aa7c24e56cfa16945d55545109b5}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{issn}{0022-0736}
+      \field{journaltitle}{Journal of Electrocardiology}
+      \field{month}{5}
+      \field{title}{Continuous heart rhythm monitoring using mobile photoplethysmography in ambulatory patients}
+      \field{urlday}{30}
+      \field{urlmonth}{3}
+      \field{urlyear}{2023}
+      \field{volume}{60}
+      \field{year}{2020}
+      \field{urldateera}{ce}
+      \field{pages}{138\bibrangedash 141}
+      \range{pages}{4}
+      \verb{doi}
+      \verb 10.1016/j.jelectrocard.2020.04.017
+      \endverb
+      \verb{file}
+      \verb ScienceDirect Full Text PDF:/Users/ronikoskinen/Zotero/storage/PMWVZVBU/Hochstadt et al. - 2020 - Continuous heart rhythm monitoring using mobile ph.pdf:application/pdf;ScienceDirect Snapshot:/Users/ronikoskinen/Zotero/storage/7HHUAG6P/S0022073620301898.html:text/html
+      \endverb
+      \keyw{Atrial fibrillation,Continuous monitoring,Photoplethysmography,Wearable diagnostics}
+    \endentry
     \entry{hofmann2007gnss}{book}{}
       \name{author}{3}{}{%
         {{un=0,uniquepart=base,hash=04b7ad2fc0fa6201bb36195a662b2d0a}{%
@@ -541,103 +886,6 @@
       \field{labeltitlesource}{title}
       \field{title}{GNSS--global navigation satellite systems: GPS, GLONASS, Galileo, and more}
       \field{year}{2007}
-    \endentry
-    \entry{jakicic_effect_2016}{article}{}
-      \name{author}{9}{}{%
-        {{un=0,uniquepart=base,hash=952774b7fd21adfd60ad7dda92bb1608}{%
-           family={Jakicic},
-           familyi={J\bibinitperiod},
-           given={John\bibnamedelima M.},
-           giveni={J\bibinitperiod\bibinitdelim M\bibinitperiod},
-           givenun=0}}%
-        {{un=0,uniquepart=base,hash=bc8d5ab4a37c3db977c3b4f8171015ae}{%
-           family={Davis},
-           familyi={D\bibinitperiod},
-           given={Kelliann\bibnamedelima K.},
-           giveni={K\bibinitperiod\bibinitdelim K\bibinitperiod},
-           givenun=0}}%
-        {{un=0,uniquepart=base,hash=2970ee2d26dd19438a108ae77c8c13cb}{%
-           family={Rogers},
-           familyi={R\bibinitperiod},
-           given={Renee\bibnamedelima J.},
-           giveni={R\bibinitperiod\bibinitdelim J\bibinitperiod},
-           givenun=0}}%
-        {{un=0,uniquepart=base,hash=28ea41c3d074b1fa13f2d6fb2f19b3af}{%
-           family={King},
-           familyi={K\bibinitperiod},
-           given={Wendy\bibnamedelima C.},
-           giveni={W\bibinitperiod\bibinitdelim C\bibinitperiod},
-           givenun=0}}%
-        {{un=0,uniquepart=base,hash=b466d721d6685da114770f111a6d2498}{%
-           family={Marcus},
-           familyi={M\bibinitperiod},
-           given={Marsha\bibnamedelima D.},
-           giveni={M\bibinitperiod\bibinitdelim D\bibinitperiod},
-           givenun=0}}%
-        {{un=0,uniquepart=base,hash=b05cb595a64ecbf0a0895910a1333134}{%
-           family={Helsel},
-           familyi={H\bibinitperiod},
-           given={Diane},
-           giveni={D\bibinitperiod},
-           givenun=0}}%
-        {{un=0,uniquepart=base,hash=5031363dfe967ea8460dbbb5892a6dd5}{%
-           family={Rickman},
-           familyi={R\bibinitperiod},
-           given={Amy\bibnamedelima D.},
-           giveni={A\bibinitperiod\bibinitdelim D\bibinitperiod},
-           givenun=0}}%
-        {{un=0,uniquepart=base,hash=47ee633adf26e86dca93a7aaad4af7de}{%
-           family={Wahed},
-           familyi={W\bibinitperiod},
-           given={Abdus\bibnamedelima S.},
-           giveni={A\bibinitperiod\bibinitdelim S\bibinitperiod},
-           givenun=0}}%
-        {{un=0,uniquepart=base,hash=630e0ac19910fc8da5a92f15832fd371}{%
-           family={Belle},
-           familyi={B\bibinitperiod},
-           given={Steven\bibnamedelima H.},
-           giveni={S\bibinitperiod\bibinitdelim H\bibinitperiod},
-           givenun=0}}%
-      }
-      \strng{namehash}{7202e18e517ab21f4917e7d6a186f5f9}
-      \strng{fullhash}{491163c58dce7040cc45748d83f29af0}
-      \strng{bibnamehash}{491163c58dce7040cc45748d83f29af0}
-      \strng{authorbibnamehash}{491163c58dce7040cc45748d83f29af0}
-      \strng{authornamehash}{7202e18e517ab21f4917e7d6a186f5f9}
-      \strng{authorfullhash}{491163c58dce7040cc45748d83f29af0}
-      \field{sortinit}{J}
-      \field{sortinithash}{b2f54a9081ace9966a7cb9413811edb4}
-      \field{extradatescope}{labelyear}
-      \field{labeldatesource}{year}
-      \field{labelnamesource}{author}
-      \field{labeltitlesource}{shorttitle}
-      \field{abstract}{Effective long-term treatments are needed to address the obesity epidemic. Numerous wearable technologies specific to physical activity and diet are available, but it is unclear if these are effective at improving weight loss.To test the hypothesis that, compared with a standard behavioral weight loss intervention (standard intervention), a technology-enhanced weight loss intervention (enhanced intervention) would result in greater weight loss.Randomized clinical trial conducted at the University of Pittsburgh and enrolling 471 adult participants between October 2010 and October 2012, with data collection completed by December 2014.Participants were placed on a low-calorie diet, prescribed increases in physical activity, and had group counseling sessions. At 6 months, the interventions added telephone counseling sessions, text message prompts, and access to study materials on a website. At 6 months, participants randomized to the standard intervention group initiated self-monitoring of diet and physical activity using a website, and those randomized to the enhanced intervention group were provided with a wearable device and accompanying web interface to monitor diet and physical activity.The primary outcome of weight was measured over 24 months at 6-month intervals, and the primary hypothesis tested the change in weight between 2 groups at 24 months. Secondary outcomes included body composition, fitness, physical activity, and dietary intake.Among the 471 participants randomized (body mass index [BMI], 25 to \&lt;40; age range, 18-35 years; 28.9\% nonwhite, 77.2\% women), 470 (233 in the standard intervention group, 237 in the enhanced intervention group) initiated the interventions as randomized, and 74.5\% completed the study. For the enhanced intervention group, mean baseline weight was 96.3 kg (95\% CI, 94.2-98.5) and 24-month weight 92.8 kg (95\% CI, 90.6-95.0). For the standard intervention group, mean baseline weight was 95.2 kg (95\% CI, 93.0-97.3) and 24-month weight was 89.3 kg (95\% CI, 87.1-91.5). Weight change at 24 months differed significantly by intervention group (estimated mean weight loss, 3.5 kg [95\% CI, 2.6-4.5\vphantom{\{}\} in the enhanced intervention group and 5.9 kg [95\% CI, 5.0-6.8] in the standard intervention group; difference, 2.4 kg [95\% CI, 1.0-3.7]; P = .002). Both groups had significant improvements in body composition, fitness, physical activity, and diet, with no significant difference between groups.Among young adults with a BMI between 25 and less than 40, the addition of a wearable technology device to a standard behavioral intervention resulted in less weight loss over 24 months. Devices that monitor and provide feedback on physical activity may not offer an advantage over standard behavioral weight loss approaches.clinicaltrials.gov Identifier: NCT01131871}
-      \field{issn}{0098-7484}
-      \field{journaltitle}{JAMA}
-      \field{month}{9}
-      \field{number}{11}
-      \field{shorttitle}{Effect of {Wearable} {Technology} {Combined} {With} a {Lifestyle} {Intervention} on {Long}-term {Weight} {Loss}}
-      \field{title}{Effect of {Wearable} {Technology} {Combined} {With} a {Lifestyle} {Intervention} on {Long}-term {Weight} {Loss}: {The} {IDEA} {Randomized} {Clinical} {Trial}}
-      \field{urlday}{26}
-      \field{urlmonth}{1}
-      \field{urlyear}{2023}
-      \field{volume}{316}
-      \field{year}{2016}
-      \field{urldateera}{ce}
-      \field{pages}{1161\bibrangedash 1171}
-      \range{pages}{11}
-      \verb{doi}
-      \verb 10.1001/jama.2016.12858
-      \endverb
-      \verb{file}
-      \verb Full Text:/Users/ronikoskinen/Zotero/storage/RXTIL7CQ/Jakicic et al. - 2016 - Effect of Wearable Technology Combined With a Life.pdf:application/pdf;Snapshot:/Users/ronikoskinen/Zotero/storage/UK226TFY/2553448.html:text/html
-      \endverb
-      \verb{urlraw}
-      \verb https://doi.org/10.1001/jama.2016.12858
-      \endverb
-      \verb{url}
-      \verb https://doi.org/10.1001/jama.2016.12858
-      \endverb
     \endentry
     \entry{johansson_accuracy_2020}{article}{}
       \name{author}{4}{}{%
@@ -701,11 +949,365 @@
       \verb{file}
       \verb SAGE PDF Full Text:/Users/ronikoskinen/Zotero/storage/7Z29QYP8/Johansson et al. - 2020 - Accuracy of GPS sport watches in measuring distanc.pdf:application/pdf
       \endverb
-      \verb{urlraw}
-      \verb https://doi.org/10.1177/1747954119899880
+    \endentry
+    \entry{koerber_accuracy_2022}{article}{}
+      \name{author}{5}{}{%
+        {{un=0,uniquepart=base,hash=34e078856f7af502f2f6af18e6197db9}{%
+           family={Koerber},
+           familyi={K\bibinitperiod},
+           given={Daniel},
+           giveni={D\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=9f114b8b13c488b7120327077206d0f1}{%
+           family={Khan},
+           familyi={K\bibinitperiod},
+           given={Shawn},
+           giveni={S\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=324cf3b2c891c328eb20b6a42ece4c40}{%
+           family={Shamsheri},
+           familyi={S\bibinitperiod},
+           given={Tahmina},
+           giveni={T\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=d34f38184299d8175b2ad1f47a8d80e6}{%
+           family={Kirubarajan},
+           familyi={K\bibinitperiod},
+           given={Abirami},
+           giveni={A\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=49abeb5096d42c5aae7d0611ce1bb03e}{%
+           family={Mehta},
+           familyi={M\bibinitperiod},
+           given={Sangeeta},
+           giveni={S\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{language}{1}{%
+        {en}%
+      }
+      \strng{namehash}{dcce43fc4142124db1af85ea82b48e7c}
+      \strng{fullhash}{9913d60af69cf833fe2ff0297d5054a8}
+      \strng{bibnamehash}{9913d60af69cf833fe2ff0297d5054a8}
+      \strng{authorbibnamehash}{9913d60af69cf833fe2ff0297d5054a8}
+      \strng{authornamehash}{dcce43fc4142124db1af85ea82b48e7c}
+      \strng{authorfullhash}{9913d60af69cf833fe2ff0297d5054a8}
+      \field{sortinit}{K}
+      \field{sortinithash}{c02bf6bff1c488450c352b40f5d853ab}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{shorttitle}
+      \field{abstract}{Background Wearable consumer technology allows for the collection of a growing amount of personal health data. Through the analysis of reflected LED light on the skin, heart rate measurement and arrhythmia detection can be performed. Given that melanin alters skin light absorption, this study seeks to summarize the accuracy of cardiac data from wrist-worn wearable devices for participants of varying skin tones. Methods We conducted a systematic review, searching Embase, MEDLINE, CINAHL, and Cochrane for original studies that stratified heart rate and rhythm data for consumer wearable technology according to participant race and/or skin tone. Results A total of 10 studies involving 469 participants met inclusion criteria. The frequency-weighted Fitzpatrick score for skin tone was reported in six studies (n = 293), with a mean participant score of 3.5 (range 1–6). Overall, four of the ten studies reported a significant reduction in accuracy of heart rate measurement with wearable devices in darker-skinned individuals, compared to participants with lighter skin tones. Four studies noted no effect of user skin tone on accuracy. The remaining two studies showed mixed results. Conclusions Preliminary evidence is inconclusive, but some studies suggest that wearable devices may be less accurate for detecting heart rate in participants with darker skin tones. Higher quality evidence is necessary, with larger sample sizes and more objective stratification of participants by skin tone, in order to characterize potential racial bias in consumer devices.}
+      \field{issn}{2196-8837}
+      \field{journaltitle}{Journal of Racial and Ethnic Health Disparities}
+      \field{month}{11}
+      \field{note}{Company: Springer Distributor: Springer Institution: Springer Label: Springer Publisher: Springer International Publishing}
+      \field{shorttitle}{Accuracy of {Heart} {Rate} {Measurement} with {Wrist}-{Worn} {Wearable} {Devices} in {Various} {Skin} {Tones}}
+      \field{title}{Accuracy of {Heart} {Rate} {Measurement} with {Wrist}-{Worn} {Wearable} {Devices} in {Various} {Skin} {Tones}: a {Systematic} {Review}}
+      \field{urlday}{12}
+      \field{urlmonth}{1}
+      \field{urlyear}{2023}
+      \field{year}{2022}
+      \field{urldateera}{ce}
+      \field{pages}{1\bibrangedash 9}
+      \range{pages}{9}
+      \verb{doi}
+      \verb 10.1007/s40615-022-01446-9
       \endverb
-      \verb{url}
-      \verb https://doi.org/10.1177/1747954119899880
+      \verb{file}
+      \verb Full Text PDF:/Users/ronikoskinen/Zotero/storage/W58JWQRW/Koerber et al. - 2022 - Accuracy of Heart Rate Measurement with Wrist-Worn.pdf:application/pdf
+      \endverb
+    \endentry
+    \entry{liang2018validity}{article}{}
+      \name{author}{2}{}{%
+        {{un=0,uniquepart=base,hash=e4f70f1886f312a306c1dc2d12d115e7}{%
+           family={Liang},
+           familyi={L\bibinitperiod},
+           given={Zilu},
+           giveni={Z\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=e62998b0ac6597c6e685173ca9f87675}{%
+           family={Chapa\bibnamedelima Martell},
+           familyi={C\bibinitperiod\bibinitdelim M\bibinitperiod},
+           given={Mario\bibnamedelima Alberto},
+           giveni={M\bibinitperiod\bibinitdelim A\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{publisher}{1}{%
+        {Springer}%
+      }
+      \strng{namehash}{2655200f8e5bae4e3076d1a77175890a}
+      \strng{fullhash}{2655200f8e5bae4e3076d1a77175890a}
+      \strng{bibnamehash}{2655200f8e5bae4e3076d1a77175890a}
+      \strng{authorbibnamehash}{2655200f8e5bae4e3076d1a77175890a}
+      \strng{authornamehash}{2655200f8e5bae4e3076d1a77175890a}
+      \strng{authorfullhash}{2655200f8e5bae4e3076d1a77175890a}
+      \field{sortinit}{L}
+      \field{sortinithash}{7c47d417cecb1f4bd38d1825c427a61a}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Journal of Healthcare Informatics Research}
+      \field{number}{1-2}
+      \field{title}{Validity of consumer activity wristbands and wearable EEG for measuring overall sleep parameters and sleep structure in free-living conditions}
+      \field{volume}{2}
+      \field{year}{2018}
+      \field{pages}{152\bibrangedash 178}
+      \range{pages}{27}
+    \endentry
+    \entry{manivannan_challenges_2020}{article}{}
+      \name{author}{4}{}{%
+        {{un=0,uniquepart=base,hash=843d06df1924066654eff48551805f53}{%
+           family={Manivannan},
+           familyi={M\bibinitperiod},
+           given={Ajaykumar},
+           giveni={A\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=cbe7d3ef541baf6f8eefcc9d176ab322}{%
+           family={Chin},
+           familyi={C\bibinitperiod},
+           given={Wei\bibnamedelimb Chien\bibnamedelima Benny},
+           giveni={W\bibinitperiod\bibinitdelim C\bibinitperiod\bibinitdelim B\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=c068c2d1d3e5f1a31c85e847bede1b17}{%
+           family={Barrat},
+           familyi={B\bibinitperiod},
+           given={Alain},
+           giveni={A\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=0ef768a0f70c70e07476a88f403f2051}{%
+           family={Bouffanais},
+           familyi={B\bibinitperiod},
+           given={Roland},
+           giveni={R\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{b2cb078bd392cbd7b8e7c5338858d305}
+      \strng{fullhash}{3eae3cbab0dd319536687452a6c42cf7}
+      \strng{bibnamehash}{3eae3cbab0dd319536687452a6c42cf7}
+      \strng{authorbibnamehash}{3eae3cbab0dd319536687452a6c42cf7}
+      \strng{authornamehash}{b2cb078bd392cbd7b8e7c5338858d305}
+      \strng{authorfullhash}{3eae3cbab0dd319536687452a6c42cf7}
+      \field{sortinit}{M}
+      \field{sortinithash}{4625c616857f13d17ce56f7d4f97d451}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{Barometers are among the oldest engineered sensors. Historically, they have been primarily used either as environmental sensors to measure the atmospheric pressure for weather forecasts or as altimeters for aircrafts. With the advent of microelectromechanical system (MEMS)-based barometers and their systematic embedding in smartphones and wearable devices, a vast breadth of new applications for the use of barometers has emerged. For instance, it is now possible to use barometers in conjunction with other sensors to track and identify a wide range of human activity classes. However, the effectiveness of barometers in the growing field of human activity recognition critically hinges on our understanding of the numerous factors affecting the atmospheric pressure, as well as on the properties of the sensor itself—sensitivity, accuracy, variability, etc. This review article thoroughly details all these factors and presents a comprehensive report of the numerous studies dealing with one or more of these factors in the particular framework of human activity tracking and recognition. In addition, we specifically collected some experimental data to illustrate the effects of these factors, which we observed to be in good agreement with the findings in the literature. We conclude this review with some suggestions on some possible future uses of barometric sensors for the specific purpose of tracking human activities.}
+      \field{issn}{1424-8220}
+      \field{journaltitle}{Sensors (Basel, Switzerland)}
+      \field{month}{11}
+      \field{number}{23}
+      \field{title}{On the {Challenges} and {Potential} of {Using} {Barometric} {Sensors} to {Track} {Human} {Activity}}
+      \field{volume}{20}
+      \field{year}{2020}
+      \field{pages}{6786}
+      \range{pages}{1}
+      \verb{doi}
+      \verb 10.3390/s20236786
+      \endverb
+      \verb{file}
+      \verb PubMed Central Full Text PDF:/Users/ronikoskinen/Zotero/storage/Y5HF3W3B/Manivannan et al. - 2020 - On the Challenges and Potential of Using Barometri.pdf:application/pdf
+      \endverb
+    \endentry
+    \entry{miller_validation_2022}{article}{}
+      \name{author}{3}{}{%
+        {{un=0,uniquepart=base,hash=7d9505790da9b172a9d1c20382273f67}{%
+           family={Miller},
+           familyi={M\bibinitperiod},
+           given={Dean\bibnamedelima J.},
+           giveni={D\bibinitperiod\bibinitdelim J\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=318737c9c577e400d2964c3e465b4187}{%
+           family={Sargent},
+           familyi={S\bibinitperiod},
+           given={Charli},
+           giveni={C\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=53569317c38b3addb356e34aa5dc7b10}{%
+           family={Roach},
+           familyi={R\bibinitperiod},
+           given={Gregory\bibnamedelima D.},
+           giveni={G\bibinitperiod\bibinitdelim D\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{language}{1}{%
+        {en}%
+      }
+      \strng{namehash}{138f887b9d307ba4bb4b4349acbd6f67}
+      \strng{fullhash}{138f887b9d307ba4bb4b4349acbd6f67}
+      \strng{bibnamehash}{138f887b9d307ba4bb4b4349acbd6f67}
+      \strng{authorbibnamehash}{138f887b9d307ba4bb4b4349acbd6f67}
+      \strng{authornamehash}{138f887b9d307ba4bb4b4349acbd6f67}
+      \strng{authorfullhash}{138f887b9d307ba4bb4b4349acbd6f67}
+      \field{sortinit}{M}
+      \field{sortinithash}{4625c616857f13d17ce56f7d4f97d451}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{The primary aim of this study was to examine the validity of six commonly used wearable devices, i.e., Apple Watch S6, Garmin Forerunner 245 Music, Polar Vantage V, Oura Ring Generation 2, WHOOP 3.0 and Somfit, for assessing sleep. The secondary aim was to examine the validity of the six devices for assessing heart rate and heart rate variability during, or just prior to, night-time sleep. Fifty-three adults (26 F, 27 M, aged 25.4 ± 5.9 years) spent a single night in a sleep laboratory with 9 h in bed (23:00–08:00 h). Participants were fitted with all six wearable devices—and with polysomnography and electrocardiography for gold-standard assessment of sleep and heart rate, respectively. Compared with polysomnography, agreement (and Cohen’s kappa) for two-state categorisation of sleep periods (as sleep or wake) was 88\% (κ = 0.30) for Apple Watch; 89\% (κ = 0.35) for Garmin; 87\% (κ = 0.44) for Polar; 89\% (κ = 0.51) for Oura; 86\% (κ = 0.44) for WHOOP and 87\% (κ = 0.48) for Somfit. Compared with polysomnography, agreement (and Cohen’s kappa) for multi-state categorisation of sleep periods (as a specific sleep stage or wake) was 53\% (κ = 0.20) for Apple Watch; 50\% (κ = 0.25) for Garmin; 51\% (κ = 0.28) for Polar; 61\% (κ = 0.43) for Oura; 60\% (κ = 0.44) for WHOOP and 65\% (κ = 0.52) for Somfit. Analyses regarding the two-state categorisation of sleep indicate that all six devices are valid for the field-based assessment of the timing and duration of sleep. However, analyses regarding the multi-state categorisation of sleep indicate that all six devices require improvement for the assessment of specific sleep stages. As the use of wearable devices that are valid for the assessment of sleep increases in the general community, so too does the potential to answer research questions that were previously impractical or impossible to address—in some way, we could consider that the whole world is becoming a sleep laboratory.}
+      \field{issn}{1424-8220}
+      \field{journaltitle}{Sensors}
+      \field{month}{1}
+      \field{note}{Number: 16 Publisher: Multidisciplinary Digital Publishing Institute}
+      \field{number}{16}
+      \field{title}{A {Validation} of {Six} {Wearable} {Devices} for {Estimating} {Sleep}, {Heart} {Rate} and {Heart} {Rate} {Variability} in {Healthy} {Adults}}
+      \field{urlday}{25}
+      \field{urlmonth}{3}
+      \field{urlyear}{2023}
+      \field{volume}{22}
+      \field{year}{2022}
+      \field{urldateera}{ce}
+      \field{pages}{6317}
+      \range{pages}{1}
+      \verb{doi}
+      \verb 10.3390/s22166317
+      \endverb
+      \verb{file}
+      \verb Full Text PDF:/Users/ronikoskinen/Zotero/storage/7C2JNUDB/Miller et al. - 2022 - A Validation of Six Wearable Devices for Estimatin.pdf:application/pdf
+      \endverb
+      \keyw{autonomic modulation,autonomic nervous system,cardiovascular health,consumer sleep technology,photoplethysmography,sleep quality,sleep quantity,sleep staging,wearable sleep monitor}
+    \endentry
+    \entry{nelson_accuracy_2019}{article}{}
+      \name{author}{2}{}{%
+        {{un=0,uniquepart=base,hash=2ff41dc6b5c43151b4f9a47a40b8183d}{%
+           family={Nelson},
+           familyi={N\bibinitperiod},
+           given={Benjamin\bibnamedelima W.},
+           giveni={B\bibinitperiod\bibinitdelim W\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=1fb3e08941ba88617b91c62307fed0f6}{%
+           family={Allen},
+           familyi={A\bibinitperiod},
+           given={Nicholas\bibnamedelima B.},
+           giveni={N\bibinitperiod\bibinitdelim B\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{language}{1}{%
+        {EN}%
+      }
+      \strng{namehash}{9dba5435d94811668f368892e904b6fd}
+      \strng{fullhash}{9dba5435d94811668f368892e904b6fd}
+      \strng{bibnamehash}{9dba5435d94811668f368892e904b6fd}
+      \strng{authorbibnamehash}{9dba5435d94811668f368892e904b6fd}
+      \strng{authornamehash}{9dba5435d94811668f368892e904b6fd}
+      \strng{authorfullhash}{9dba5435d94811668f368892e904b6fd}
+      \field{sortinit}{N}
+      \field{sortinithash}{22369a73d5f88983a108b63f07f37084}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{shorttitle}
+      \field{abstract}{Background: Wrist-worn smart watches and fitness monitors (ie, wearables) have become widely adopted by consumers and are gaining increased attention from researchers for their potential contribution to naturalistic digital measurement of health in a scalable, mobile, and unobtrusive way. Various studies have examined the accuracy of these devices in controlled laboratory settings (eg, treadmill and stationary bike); however, no studies have investigated the heart rate accuracy of wearables during a continuous and ecologically valid 24-hour period of actual consumer device use conditions. Objective: The aim of this study was to determine the heart rate accuracy of 2 popular wearable devices, the Apple Watch 3 and Fitbit Charge 2, as compared with the gold standard reference method, an ambulatory electrocardiogram (ECG), during consumer device use conditions in an individual. Data were collected across 5 daily conditions, including sitting, walking, running, activities of daily living (ADL; eg, chores, brushing teeth), and sleeping. Methods: One participant, (first author; 29-year-old Caucasian male) completed a 24-hour ecologically valid protocol by wearing 2 popular wrist wearable devices (Apple Watch 3 and Fitbit Charge 2). In addition, an ambulatory ECG (Vrije Universiteit Ambulatory Monitoring System) was used as the gold standard reference method, which resulted in the collection of 102,740 individual heartbeats. A single-subject design was used to keep all variables constant except for wearable devices while providing a rapid response design to provide initial assessment of wearable accuracy for allowing the research cycle to keep pace with technological advancements. Accuracy of these devices compared with the gold standard ECG was assessed using mean error, mean absolute error, and mean absolute percent error. These data were supplemented with Bland-Altman analyses and concordance class correlation to assess agreement between devices. Results: The Apple Watch 3 and Fitbit Charge 2 were generally highly accurate across the 24-hour condition. Specifically, the Apple Watch 3 had a mean difference of −1.80 beats per minute (bpm), a mean absolute error percent of 5.86\%, and a mean agreement of 95\% when compared with the ECG across 24 hours. The Fitbit Charge 2 had a mean difference of −3.47 bpm, a mean absolute error of 5.96\%, and a mean agreement of 91\% when compared with the ECG across 24 hours. These findings varied by condition. Conclusions: The Apple Watch 3 and the Fitbit Charge 2 provided acceptable heart rate accuracy ({<}±10\%) across the 24 hour and during each activity, except for the Apple Watch 3 during the daily activities condition. Overall, these findings provide preliminary support that these devices appear to be useful for implementing ambulatory measurement of cardiac activity in research studies, especially those where the specific advantages of these methods (eg, scalability, low participant burden) are particularly suited to the population or research question.}
+      \field{annotation}{Cited: 123}
+      \field{journaltitle}{JMIR mHealth and uHealth}
+      \field{month}{3}
+      \field{note}{Company: JMIR mHealth and uHealth Distributor: JMIR mHealth and uHealth Institution: JMIR mHealth and uHealth Label: JMIR mHealth and uHealth Publisher: JMIR Publications Inc., Toronto, Canada}
+      \field{number}{3}
+      \field{shorttitle}{Accuracy of {Consumer} {Wearable} {Heart} {Rate} {Measurement} {During} an {Ecologically} {Valid} 24-{Hour} {Period}}
+      \field{title}{Accuracy of {Consumer} {Wearable} {Heart} {Rate} {Measurement} {During} an {Ecologically} {Valid} 24-{Hour} {Period}: {Intraindividual} {Validation} {Study}}
+      \field{urlday}{10}
+      \field{urlmonth}{3}
+      \field{urlyear}{2023}
+      \field{volume}{7}
+      \field{year}{2019}
+      \field{urldateera}{ce}
+      \field{pages}{e10828}
+      \range{pages}{-1}
+      \verb{doi}
+      \verb 10.2196/10828
+      \endverb
+      \verb{file}
+      \verb Full Text:/Users/ronikoskinen/Zotero/storage/A9XEYSDL/Nelson and Allen - 2019 - Accuracy of Consumer Wearable Heart Rate Measureme.pdf:application/pdf;Snapshot:/Users/ronikoskinen/Zotero/storage/7V4NP6CN/e10828.html:text/html
+      \endverb
+    \endentry
+    \entry{pasadyn_accuracy_2019}{article}{}
+      \name{author}{8}{}{%
+        {{un=0,uniquepart=base,hash=335763c0fad39fd1bd4ba2f5a06b6c7b}{%
+           family={Pasadyn},
+           familyi={P\bibinitperiod},
+           given={Selena\bibnamedelima R.},
+           giveni={S\bibinitperiod\bibinitdelim R\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=6d8f3b8a1c758bbf15e0952d35e6f6d1}{%
+           family={Soudan},
+           familyi={S\bibinitperiod},
+           given={Mohamad},
+           giveni={M\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=261a8ae8d791d85924ce41d7d75d597a}{%
+           family={Gillinov},
+           familyi={G\bibinitperiod},
+           given={Marc},
+           giveni={M\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=12ffe397de1cfcd7f18eda8951a2317b}{%
+           family={Houghtaling},
+           familyi={H\bibinitperiod},
+           given={Penny},
+           giveni={P\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=fe8570e1214bec192ce55f422e942c98}{%
+           family={Phelan},
+           familyi={P\bibinitperiod},
+           given={Dermot},
+           giveni={D\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=fa4aea607702ceb21c603d657e0be120}{%
+           family={Gillinov},
+           familyi={G\bibinitperiod},
+           given={Nicole},
+           giveni={N\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=98500de65e87be6cbd0575b5aff3bc30}{%
+           family={Bittel},
+           familyi={B\bibinitperiod},
+           given={Barbara},
+           giveni={B\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=5487d272f42e4df5da2fb07dcaf856d9}{%
+           family={Desai},
+           familyi={D\bibinitperiod},
+           given={Milind\bibnamedelima Y.},
+           giveni={M\bibinitperiod\bibinitdelim Y\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{79f25189d33826a20cd13d286a715621}
+      \strng{fullhash}{cb594d9bfab21ee5f8744dd1b6ba0251}
+      \strng{bibnamehash}{cb594d9bfab21ee5f8744dd1b6ba0251}
+      \strng{authorbibnamehash}{cb594d9bfab21ee5f8744dd1b6ba0251}
+      \strng{authornamehash}{79f25189d33826a20cd13d286a715621}
+      \strng{authorfullhash}{cb594d9bfab21ee5f8744dd1b6ba0251}
+      \field{sortinit}{P}
+      \field{sortinithash}{ff3bcf24f47321b42cb156c2cc8a8422}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{shorttitle}
+      \field{abstract}{Endurance athletes, particularly competitive runners, are using wrist worn devices with the heart rate (HR) feature to guide their training. However, few studies have assessed the effectiveness of these at high levels of exertion. The purpose of this study was to measure the accuracy of the HR monitor feature in four watches at six different treadmill speeds. This prospective study recruited 50 healthy, athletic adults (68\% male, mean age of 29, and mean BMI of 23 kg/m2). All subjects wore a three lead ECG and Polar H7 chest strap monitor and two different randomly assigned wrist worn HR monitors. These included the Apple Watch III, Fitbit Iconic, Garmin Vivosmart HR, and Tom Tom Spark 3. Once all devices were on, they were asked to run at the following speeds on a treadmill (in mph): 4, 5, 6, 7, 8, and 9 for two min. HR was assessed on all devices and agreement among measurements determined with Lin’s concordance correlation coefficient (CCC) (rc). The Polar H7 chest strap had the greatest agreement with the ECG (rc=98). This was followed by the Apple Watch III (rc=96). The Fitbit Iconic, Garmin Vivosmart HR, and Tom Tom Spark 3 all had the same level of agreement (rc=89). The Polar H7 chest strap was the most accurate, and the Apple Watch was superior among watches. For endurance athletes and their coaches, a chest strap device or Apple Watch may be the best choice for guiding workouts and performance.}
+      \field{issn}{2223-3652}
+      \field{journaltitle}{Cardiovascular Diagnosis and Therapy}
+      \field{month}{8}
+      \field{number}{4}
+      \field{shorttitle}{Accuracy of commercially available heart rate monitors in athletes}
+      \field{title}{Accuracy of commercially available heart rate monitors in athletes: a prospective study}
+      \field{urlday}{9}
+      \field{urlmonth}{3}
+      \field{urlyear}{2023}
+      \field{volume}{9}
+      \field{year}{2019}
+      \field{urldateera}{ce}
+      \field{pages}{379\bibrangedash 385}
+      \range{pages}{7}
+      \verb{doi}
+      \verb 10.21037/cdt.2019.06.05
+      \endverb
+      \verb{file}
+      \verb PubMed Central Full Text PDF:/Users/ronikoskinen/Zotero/storage/EC93KBAF/Pasadyn et al. - 2019 - Accuracy of commercially available heart rate moni.pdf:application/pdf
       \endverb
     \endentry
     \entry{petrusevski_interventions_2021}{article}{}
@@ -753,7 +1355,7 @@
       \field{labeldatesource}{year}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{shorttitle}
-      \field{abstract}{Purpose Sedentary behaviour is associated with increased risk for lower health status and all-cause mortality. Older adults spend up to 75\%, on average, of their day sedentary, however little is known about interventions designed to decrease sitting time for this population.Methods A scoping review was conducted to broadly determine what is known about sedentary behaviour interventions for older adults. Electronic databases were searched for articles with eligibility criteria including: (1) interventions containing strategies to decrease sedentary behaviour, (2) adults ≥60 years of age, and (3) reported outcome measures related to sedentary behaviour.Results A total of 32 articles met the inclusion criteria. While methodological quality and intervention characteristics varied among the studies, the majority of interventions used a multi-component approach. Interventions involved a variety of behavioural change strategies with goal setting, information and self-monitoring the most frequently used. Of the 20 studies reporting results, 80\% (n = 16) found at least one significant change in sedentary behaviour.Conclusion Findings from this scoping review suggest that sedentary behaviour can be reduced in community-dwelling older adults through multi-component targeted interventions. Future work is needed to examine sedentary behaviour interventions for adults {>}75 years and for persons living in long-term care institutions.IMPLICATIONS FOR REHABILITATIONOlder adults spend up to 75\% of their day sedentary and are at an increased risk for chronic conditions, functional limitations, and mortality.Multi-component sedentary behaviour interventions, such as education, physical activity, and activity monitoring should be implemented for older adults.When designing interventions, incorporating goal-setting, self-monitoring and other behaviour change strategies can reduce sitting time for older adults.}
+      \field{abstract}{Purpose Sedentary behaviour is associated with increased risk for lower health status and all-cause mortality. Older adults spend up to 75, on average, of their day sedentary, however little is known about interventions designed to decrease sitting time for this population.Methods A scoping review was conducted to broadly determine what is known about sedentary behaviour interventions for older adults. Electronic databases were searched for articles with eligibility criteria including: (1) interventions containing strategies to decrease sedentary behaviour, (2) adults ≥60 years of age, and (3) reported outcome measures related to sedentary behaviour.Results A total of 32 articles met the inclusion criteria. While methodological quality and intervention characteristics varied among the studies, the majority of interventions used a multi-component approach. Interventions involved a variety of behavioural change strategies with goal setting, information and self-monitoring the most frequently used. Of the 20 studies reporting results, 80 (n = 16) found at least one significant change in sedentary behaviour.Conclusion Findings from this scoping review suggest that sedentary behaviour can be reduced in community-dwelling older adults through multi-component targeted interventions. Future work is needed to examine sedentary behaviour interventions for adults {>}75 years and for persons living in long-term care institutions.IMPLICATIONS FOR REHABILITATIONOlder adults spend up to 75 of their day sedentary and are at an increased risk for chronic conditions, functional limitations, and mortality.Multi-component sedentary behaviour interventions, such as education, physical activity, and activity monitoring should be implemented for older adults.When designing interventions, incorporating goal-setting, self-monitoring and other behaviour change strategies can reduce sitting time for older adults.}
       \field{issn}{0963-8288}
       \field{journaltitle}{Disability and Rehabilitation}
       \field{month}{10}
@@ -774,12 +1376,6 @@
       \endverb
       \verb{file}
       \verb Full Text PDF:/Users/ronikoskinen/Zotero/storage/TKLW5GJQ/Petrusevski et al. - 2021 - Interventions to address sedentary behaviour for o.pdf:application/pdf
-      \endverb
-      \verb{urlraw}
-      \verb https://doi.org/10.1080/09638288.2020.1725156
-      \endverb
-      \verb{url}
-      \verb https://doi.org/10.1080/09638288.2020.1725156
       \endverb
       \keyw{behaviour change,intervention,older adults,scoping review,Sedentary behaviour,sitting time}
     \endentry
@@ -837,12 +1433,234 @@
       \verb{file}
       \verb Full Text PDF:/Users/ronikoskinen/Zotero/storage/ZQRSYSSU/Rawassizadeh et al. - 2014 - Wearables has the age of smartwatches finally arr.pdf:application/pdf
       \endverb
-      \verb{urlraw}
-      \verb https://doi.org/10.1145/2629633
+    \endentry
+    \entry{rundo_chapter_2019}{incollection}{}
+      \name{author}{2}{}{%
+        {{un=0,uniquepart=base,hash=4f8234d6c922044a41f970d4b37137e2}{%
+           family={Rundo},
+           familyi={R\bibinitperiod},
+           given={Jessica\bibnamedelima Vensel},
+           giveni={J\bibinitperiod\bibinitdelim V\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=f5e5c970256bfb082f268b4ad42c1bae}{%
+           family={Downey},
+           familyi={D\bibinitperiod},
+           given={Ralph},
+           giveni={R\bibinitperiod},
+           givenun=0}}%
+      }
+      \name{editor}{2}{}{%
+        {{hash=6f141ff1acae7e354a153bbaa715e491}{%
+           family={Levin},
+           familyi={L\bibinitperiod},
+           given={Kerry\bibnamedelima H.},
+           giveni={K\bibinitperiod\bibinitdelim H\bibinitperiod}}}%
+        {{hash=c21cbe3cd3a48bc1f9be1046bf160e81}{%
+           family={Chauvel},
+           familyi={C\bibinitperiod},
+           given={Patrick},
+           giveni={P\bibinitperiod}}}%
+      }
+      \list{language}{1}{%
+        {en}%
+      }
+      \list{publisher}{1}{%
+        {Elsevier}%
+      }
+      \strng{namehash}{6a9ce677f82850cd74bc17be5f60b7b8}
+      \strng{fullhash}{6a9ce677f82850cd74bc17be5f60b7b8}
+      \strng{bibnamehash}{6a9ce677f82850cd74bc17be5f60b7b8}
+      \strng{authorbibnamehash}{6a9ce677f82850cd74bc17be5f60b7b8}
+      \strng{authornamehash}{6a9ce677f82850cd74bc17be5f60b7b8}
+      \strng{authorfullhash}{6a9ce677f82850cd74bc17be5f60b7b8}
+      \strng{editorbibnamehash}{f7c262dd77dfcb9ef8872701166e3cd0}
+      \strng{editornamehash}{f7c262dd77dfcb9ef8872701166e3cd0}
+      \strng{editorfullhash}{f7c262dd77dfcb9ef8872701166e3cd0}
+      \field{sortinit}{R}
+      \field{sortinithash}{5e1c39a9d46ffb6bebd8f801023a9486}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{Polysomnography refers to a systematic process used to collect physiologic parameters during sleep. A polysomnogram (PSG) is a procedure that utilizes electroencephalogram, electro-oculogram, electromyogram, electrocardiogram, and pulse oximetry, as well as airflow and respiratory effort, to evaluate for underlying causes of sleep disturbances. PSG is considered to be the gold standard for diagnosing sleep-related breathing disorders, which include obstructive sleep apnea (OSA), central sleep apnea, and sleep-related hypoventilation/hypoxia. PSG can also be utilized to evaluate for other sleep disorders, including nocturnal seizures, narcolepsy, periodic limb movement disorder, and rapid eye movement sleep behavior disorder. With recent technological developments, home sleep apnea testing can be done to confirm a diagnosis in patients with a high risk for moderate to severe OSA in the absence of comorbid medical conditions or other suspected sleep disorders.}
+      \field{booktitle}{Handbook of {Clinical} {Neurology}}
+      \field{month}{1}
+      \field{series}{Clinical {Neurophysiology}: {Basis} and {Technical} {Aspects}}
+      \field{title}{Chapter 25 - {Polysomnography}}
+      \field{urlday}{20}
+      \field{urlmonth}{3}
+      \field{urlyear}{2023}
+      \field{volume}{160}
+      \field{year}{2019}
+      \field{urldateera}{ce}
+      \field{pages}{381\bibrangedash 392}
+      \range{pages}{12}
+      \verb{doi}
+      \verb 10.1016/B978-0-444-64032-1.00025-4
       \endverb
-      \verb{url}
-      \verb https://doi.org/10.1145/2629633
+      \verb{file}
+      \verb ScienceDirect Snapshot:/Users/ronikoskinen/Zotero/storage/Z8N5SZG2/B9780444640321000254.html:text/html
       \endverb
+      \keyw{Electro-oculogram (EOG),Electroencephalogram (EEG),Electromyogram (EMG),Home sleep apnea testing (HSAT),Nonrapid eye movement (NREM) sleep,Obstructive sleep apnea (OSA),Polysomnogram,Polysomnography,Rapid eye movement (REM) sleep,Sleep-related breathing disorder (SRBD)}
+    \endentry
+    \entry{sanudo_pilot_2019}{article}{}
+      \name{author}{5}{}{%
+        {{un=0,uniquepart=base,hash=3d17b405c9756e91a8c5d3eb5148ce9b}{%
+           family={Sañudo},
+           familyi={S\bibinitperiod},
+           given={Borja},
+           giveni={B\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=333085901159a05ab55a618d16585ca0}{%
+           family={De\bibnamedelima Hoyo},
+           familyi={D\bibinitperiod\bibinitdelim H\bibinitperiod},
+           given={Moisés},
+           giveni={M\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=9e6f5f0ce931f4915842b575a3ac5c50}{%
+           family={Muñoz-López},
+           familyi={M\bibinithyphendelim L\bibinitperiod},
+           given={Alejandro},
+           giveni={A\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=52b3f9610c459b75fa4025c213c5d4e8}{%
+           family={Perry},
+           familyi={P\bibinitperiod},
+           given={John},
+           giveni={J\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=bb86123d629a267c43683bdb7b8e3c69}{%
+           family={Abt},
+           familyi={A\bibinitperiod},
+           given={Grant},
+           giveni={G\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{language}{1}{%
+        {en}%
+      }
+      \strng{namehash}{48bad4b02a604874ef88069102bb29b5}
+      \strng{fullhash}{b2e9ab585c83f31606a33c203c5fa9fe}
+      \strng{bibnamehash}{b2e9ab585c83f31606a33c203c5fa9fe}
+      \strng{authorbibnamehash}{b2e9ab585c83f31606a33c203c5fa9fe}
+      \strng{authornamehash}{48bad4b02a604874ef88069102bb29b5}
+      \strng{authorfullhash}{b2e9ab585c83f31606a33c203c5fa9fe}
+      \field{sortinit}{S}
+      \field{sortinithash}{b164b07b29984b41daf1e85279fbc5ab}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{Photoplethysmographic imaging (PPG) is currently used to measure heart rate (HR) and the accuracy of PPG can be influenced by pigmentation of the skin; however, the effects of skin color-related artifacts on PPG during exercise remain unclear. This study aimed to assess the agreement between the Apple Watch photoplethysmography sensor and a criterion, for measuring heart rate across a range of intensities during exercise and to determine the influence of skin type on the accuracy of the measure. Forty-five males (20–43 y) completed the Fitzpatrick Skin Scale and were classified into three different skin type groups: a) types II (n = 15), III (n = 15) and IV (n = 15). Participants performed a graded incremental cycle-ergometer test while simultaneously wearing the Apple Watch and a Polar monitor as a criterion measure. Data from both devices were collected in 5-s epochs. Correlations between devices were very good (0.96–0.99 [95\%CI: 0.94 to 0.99]). Significant differences were observed between skin types II and III when the intensity of the exercise was increased, albeit with trivial to small effect sizes (ES: 0.05 to 0.28). All significant differences corresponded to {<}2\% of relative difference between both devices. Bland-Altman analyses showed a trivial but systematic underestimation of HR in the Apple Watch compared to Polar for all skin types during exercise. In conclusion, the Apple Watch accurately measures HR when cycling at different intensities and certain types of skin seem not to influence these measures, which may have important implications for controlling the intensity of exercise.}
+      \field{issn}{1573-689X}
+      \field{journaltitle}{Journal of Medical Systems}
+      \field{month}{5}
+      \field{number}{7}
+      \field{title}{Pilot {Study} {Assessing} the {Influence} of {Skin} {Type} on the {Heart} {Rate} {Measurements} {Obtained} by {Photoplethysmography} with the {Apple} {Watch}}
+      \field{urlday}{31}
+      \field{urlmonth}{3}
+      \field{urlyear}{2023}
+      \field{volume}{43}
+      \field{year}{2019}
+      \field{urldateera}{ce}
+      \field{pages}{195}
+      \range{pages}{1}
+      \verb{doi}
+      \verb 10.1007/s10916-019-1325-2
+      \endverb
+      \verb{file}
+      \verb Full Text PDF:/Users/ronikoskinen/Zotero/storage/CAKYKT62/Sañudo et al. - 2019 - Pilot Study Assessing the Influence of Skin Type o.pdf:application/pdf
+      \endverb
+      \keyw{Agreement,Exercise,Heart rate,Skin type,Wearable sensors}
+    \endentry
+    \entry{shcherbina_accuracy_2017}{article}{}
+      \name{author}{8}{}{%
+        {{un=0,uniquepart=base,hash=ed88a5f7d83b730dcf2657f26f4baf27}{%
+           family={Shcherbina},
+           familyi={S\bibinitperiod},
+           given={Anna},
+           giveni={A\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=28a20e3ac6a3423afdc8f1797cf2deb8}{%
+           family={Mattsson},
+           familyi={M\bibinitperiod},
+           given={C.\bibnamedelimi Mikael},
+           giveni={C\bibinitperiod\bibinitdelim M\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=91989bcab21476336e3c9049e294e01f}{%
+           family={Waggott},
+           familyi={W\bibinitperiod},
+           given={Daryl},
+           giveni={D\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=5ad76e302c35472b04cc859e91b563fe}{%
+           family={Salisbury},
+           familyi={S\bibinitperiod},
+           given={Heidi},
+           giveni={H\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=21b6ff09390f81efe13634518def0fb0}{%
+           family={Christle},
+           familyi={C\bibinitperiod},
+           given={Jeffrey\bibnamedelima W.},
+           giveni={J\bibinitperiod\bibinitdelim W\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=0cb8fe4210baa81c4b0e67913b4d2768}{%
+           family={Hastie},
+           familyi={H\bibinitperiod},
+           given={Trevor},
+           giveni={T\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=0119eafe5a150664fecd462266bdbc9e}{%
+           family={Wheeler},
+           familyi={W\bibinitperiod},
+           given={Matthew\bibnamedelima T.},
+           giveni={M\bibinitperiod\bibinitdelim T\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=0aee7f0d947f47fca0cf4de3b78318e8}{%
+           family={Ashley},
+           familyi={A\bibinitperiod},
+           given={Euan\bibnamedelima A.},
+           giveni={E\bibinitperiod\bibinitdelim A\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{language}{1}{%
+        {en}%
+      }
+      \strng{namehash}{2a259375d909c5ba5369c13f0b2d69c4}
+      \strng{fullhash}{8886af7947120b9f7c069e3ec8ac0456}
+      \strng{bibnamehash}{8886af7947120b9f7c069e3ec8ac0456}
+      \strng{authorbibnamehash}{8886af7947120b9f7c069e3ec8ac0456}
+      \strng{authornamehash}{2a259375d909c5ba5369c13f0b2d69c4}
+      \strng{authorfullhash}{8886af7947120b9f7c069e3ec8ac0456}
+      \field{sortinit}{S}
+      \field{sortinithash}{b164b07b29984b41daf1e85279fbc5ab}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{The ability to measure physical activity through wrist-worn devices provides an opportunity for cardiovascular medicine.}
+      \field{issn}{2075-4426}
+      \field{journaltitle}{Journal of Personalized Medicine}
+      \field{month}{6}
+      \field{note}{Number: 2 Publisher: Multidisciplinary Digital Publishing Institute}
+      \field{number}{2}
+      \field{title}{Accuracy in {Wrist}-{Worn}, {Sensor}-{Based} {Measurements} of {Heart} {Rate} and {Energy} {Expenditure} in a {Diverse} {Cohort}}
+      \field{urlday}{30}
+      \field{urlmonth}{3}
+      \field{urlyear}{2023}
+      \field{volume}{7}
+      \field{year}{2017}
+      \field{urldateera}{ce}
+      \field{pages}{3}
+      \range{pages}{1}
+      \verb{doi}
+      \verb 10.3390/jpm7020003
+      \endverb
+      \verb{file}
+      \verb Full Text PDF:/Users/ronikoskinen/Zotero/storage/HF9MXTZ5/Shcherbina et al. - 2017 - Accuracy in Wrist-Worn, Sensor-Based Measurements .pdf:application/pdf
+      \endverb
+      \keyw{activity monitors,energy expenditure,fitness trackers,heart rate,mobile health,validation}
     \endentry
     \entry{shin2015understanding}{article}{}
       \name{author}{3}{}{%
@@ -883,65 +1701,6 @@
       \field{journaltitle}{IConference 2015 Proceedings}
       \field{title}{Understanding quantified-selfers' interplay between intrinsic and extrinsic motivation in the use of activity-tracking devices}
       \field{year}{2015}
-    \endentry
-    \entry{siepmann_understanding_2021}{article}{}
-      \name{author}{2}{}{%
-        {{un=0,uniquepart=base,hash=e3c8058650932425306fc6c03a2d12cc}{%
-           family={Siepmann},
-           familyi={S\bibinitperiod},
-           given={Carolin},
-           giveni={C\bibinitperiod},
-           givenun=0}}%
-        {{un=0,uniquepart=base,hash=967952a1e3b3164a5ffc15f36532da94}{%
-           family={Kowalczuk},
-           familyi={K\bibinitperiod},
-           given={Pascal},
-           giveni={P\bibinitperiod},
-           givenun=0}}%
-      }
-      \list{language}{1}{%
-        {en}%
-      }
-      \strng{namehash}{5d89781ede155a2b76cabe2e60b70703}
-      \strng{fullhash}{5d89781ede155a2b76cabe2e60b70703}
-      \strng{bibnamehash}{5d89781ede155a2b76cabe2e60b70703}
-      \strng{authorbibnamehash}{5d89781ede155a2b76cabe2e60b70703}
-      \strng{authornamehash}{5d89781ede155a2b76cabe2e60b70703}
-      \strng{authorfullhash}{5d89781ede155a2b76cabe2e60b70703}
-      \field{sortinit}{S}
-      \field{sortinithash}{b164b07b29984b41daf1e85279fbc5ab}
-      \field{extradatescope}{labelyear}
-      \field{labeldatesource}{year}
-      \field{labelnamesource}{author}
-      \field{labeltitlesource}{shorttitle}
-      \field{abstract}{Smartwatches are the most popular wearable device and increasingly subject to empirical research. In recent years, the focus has shifted from revealing determinants of smartwatch adoption to understanding factors that cause long-term usage. Despite their importance for personal fitness, health monitoring, and for achieving health and fitness goals, extant research on the continuous use intention of smartwatches mostly disregards health and fitness factors. Grounding on self-determination theory, this study addresses this gap and investigates the impact of health and fitness as well as positive and negative emotional factors encouraging or impeding consumers to continuously use smartwatches. We build upon the expectation-confirmation model (ECM) and extend it with emotional (device annoyance and enjoyment) as well as health and fitness factors (goal pursuit motivation and self-quantification behavior). We use structural equation modeling to validate our model based on 335 responses from actual smartwatch users. Results prove the applicability of the ECM to the smartwatch context and highlight the importance of self-quantification as a focal construct for explaining goal pursuit motivation, perceived usefulness, confirmation and device annoyance. Further, we identify device annoyance as an important barrier to continuous smartwatch use. Based on our results, we finally derive implications for researchers and practitioners alike.}
-      \field{issn}{1422-8890}
-      \field{journaltitle}{Electronic Markets}
-      \field{month}{12}
-      \field{note}{Company: Springer Distributor: Springer Institution: Springer Label: Springer Number: 4 Publisher: Springer Berlin Heidelberg}
-      \field{number}{4}
-      \field{shorttitle}{Understanding continued smartwatch usage}
-      \field{title}{Understanding continued smartwatch usage: the role of emotional as well as health and fitness factors}
-      \field{urlday}{12}
-      \field{urlmonth}{1}
-      \field{urlyear}{2023}
-      \field{volume}{31}
-      \field{year}{2021}
-      \field{urldateera}{ce}
-      \field{pages}{795\bibrangedash 809}
-      \range{pages}{15}
-      \verb{doi}
-      \verb 10.1007/s12525-021-00458-3
-      \endverb
-      \verb{file}
-      \verb Full Text PDF:/Users/ronikoskinen/Zotero/storage/3NYWZK4B/Siepmann and Kowalczuk - 2021 - Understanding continued smartwatch usage the role.pdf:application/pdf
-      \endverb
-      \verb{urlraw}
-      \verb https://link.springer.com/article/10.1007/s12525-021-00458-3
-      \endverb
-      \verb{url}
-      \verb https://link.springer.com/article/10.1007/s12525-021-00458-3
-      \endverb
     \endentry
     \entry{sportswatch_tfd}{misc}{}
       \field{sortinit}{T}
@@ -1045,12 +1804,6 @@
       \verb{file}
       \verb Full Text:/Users/ronikoskinen/Zotero/storage/RHRVWAIU/Wang et al. - 2017 - Accuracy of Wrist-Worn Heart Rate Monitors.pdf:application/pdf;Snapshot:/Users/ronikoskinen/Zotero/storage/GTSN3S3G/2566167.html:text/html
       \endverb
-      \verb{urlraw}
-      \verb https://doi.org/10.1001/jamacardio.2016.3340
-      \endverb
-      \verb{url}
-      \verb https://doi.org/10.1001/jamacardio.2016.3340
-      \endverb
     \endentry
     \entry{Gregersen_watch_2023}{misc}{}
       \list{language}{1}{%
@@ -1124,12 +1877,6 @@
       \verb{file}
       \verb Snapshot:/Users/ronikoskinen/Zotero/storage/IATKZJ7L/sleep_and_athletic_performance.11.html:text/html
       \endverb
-      \verb{urlraw}
-      \verb https://journals.lww.com/acsm-csmr/fulltext/2017/11000/sleep_and_athletic_performance.11.aspx
-      \endverb
-      \verb{url}
-      \verb https://journals.lww.com/acsm-csmr/fulltext/2017/11000/sleep_and_athletic_performance.11.aspx
-      \endverb
     \endentry
     \entry{Yasar_what_wearable}{online}{}
       \name{author}{1}{}{%
@@ -1171,6 +1918,90 @@
       \verb{url}
       \verb https://www.techtarget.com/searchmobilecomputing/definition/wearable-technology
       \endverb
+    \endentry
+    \entry{de_zambotti_measures_2016}{article}{}
+      \name{author}{7}{}{%
+        {{un=0,uniquepart=base,hash=bac1d0b09c8a24e5fe0e602b1ae62259}{%
+           family={Zambotti},
+           familyi={Z\bibinitperiod},
+           given={Massimiliano},
+           giveni={M\bibinitperiod},
+           givenun=0,
+           prefix={de},
+           prefixi={d\bibinitperiod},
+           prefixun=0}}%
+        {{un=0,uniquepart=base,hash=0663db626e360b06230a12300ac1b7d1}{%
+           family={Baker},
+           familyi={B\bibinitperiod},
+           given={Fiona\bibnamedelima C.},
+           giveni={F\bibinitperiod\bibinitdelim C\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=3da02851fa8aadba772ab085f25fc0ad}{%
+           family={Willoughby},
+           familyi={W\bibinitperiod},
+           given={Adrian\bibnamedelima R.},
+           giveni={A\bibinitperiod\bibinitdelim R\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=dab977a2f712e417898f244d0fac27e6}{%
+           family={Godino},
+           familyi={G\bibinitperiod},
+           given={Job\bibnamedelima G.},
+           giveni={J\bibinitperiod\bibinitdelim G\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=c46c0bce13c7070746994a69a2e8db77}{%
+           family={Wing},
+           familyi={W\bibinitperiod},
+           given={David},
+           giveni={D\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=e4735efbef525c7d3b6bfc45b47761b5}{%
+           family={Patrick},
+           familyi={P\bibinitperiod},
+           given={Kevin},
+           giveni={K\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=7dbdc969d7725dc61d19cb0da8fc9e21}{%
+           family={Colrain},
+           familyi={C\bibinitperiod},
+           given={Ian\bibnamedelima M.},
+           giveni={I\bibinitperiod\bibinitdelim M\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{language}{1}{%
+        {en}%
+      }
+      \strng{namehash}{18c4bf66be6bcf7544f28e5efcbbb48a}
+      \strng{fullhash}{a43b464d8b7f4cb8c1e568ae82ed0845}
+      \strng{bibnamehash}{a43b464d8b7f4cb8c1e568ae82ed0845}
+      \strng{authorbibnamehash}{a43b464d8b7f4cb8c1e568ae82ed0845}
+      \strng{authornamehash}{18c4bf66be6bcf7544f28e5efcbbb48a}
+      \strng{authorfullhash}{a43b464d8b7f4cb8c1e568ae82ed0845}
+      \field{sortinit}{Z}
+      \field{sortinithash}{96892c0b0a36bb8557c40c49813d48b3}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{To validate measures of sleep and heart rate (HR) during sleep generated by a commercially-available activity tracker against those derived from polysomnography (PSG) in healthy adolescents. Sleep data were concurrently recorded using FitbitChargeHR™ and PSG, including electrocardiography (ECG), during an overnight laboratory sleep recording in 32 healthy adolescents (15 females; age, mean±SD: 17.3±2.5years). Sleep and HR measures were compared between FitbitChargeHR™ and PSG using paired t-tests and Bland-Altman plots. Epoch-by-epoch analysis showed that FitbitChargeHR™ had high overall accuracy (91\%), high sensitivity (97\%) in detecting sleep, and poor specificity (42\%) in detecting wake on a min-to-min basis. On average, FitbitChargeHR™ significantly but negligibly overestimated total sleep time by 8min and sleep efficiency by 1.8\%, and underestimated wake after sleep onset by 5.6min (p{<}0.05). Within FitbitChargeHR™ epochs of sleep, the average HR was 59.3±7.5bpm, which was significantly but negligibly lower than that calculated from ECG (60.2±7.6bpm, p{<}0.001), with no change in mean discrepancies throughout the night. FitbitChargeHR™ showed good agreement with PSG and ECG in measuring sleep and HR during sleep, supporting its use in assessing sleep and cardiac function in healthy adolescents. Further validation is needed to assess its reliability over prolonged periods of time in ecological settings and in clinical populations.}
+      \field{issn}{0031-9384}
+      \field{journaltitle}{Physiology \& Behavior}
+      \field{month}{5}
+      \field{title}{Measures of sleep and cardiac functioning during sleep using a multi-sensory commercially-available wristband in adolescents}
+      \field{urlday}{2}
+      \field{urlmonth}{2}
+      \field{urlyear}{2023}
+      \field{volume}{158}
+      \field{year}{2016}
+      \field{urldateera}{ce}
+      \field{pages}{143\bibrangedash 149}
+      \range{pages}{7}
+      \verb{doi}
+      \verb 10.1016/j.physbeh.2016.03.006
+      \endverb
+      \verb{file}
+      \verb ScienceDirect Full Text PDF:/Users/ronikoskinen/Zotero/storage/UJ47E3XR/de Zambotti et al. - 2016 - Measures of sleep and cardiac functioning during s.pdf:application/pdf;ScienceDirect Snapshot:/Users/ronikoskinen/Zotero/storage/Z8EPFZMV/S0031938416300932.html:text/html
+      \endverb
+      \keyw{Heart rate,Actigraphy,Adolescence,Fitbit,Polysomnography,Wearables}
     \endentry
   \enddatalist
 \endrefsection

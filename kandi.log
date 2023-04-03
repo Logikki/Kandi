@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.24 (TeX Live 2022) (preloaded format=pdflatex 2023.1.19)  10 MAR 2023 12:32
+This is pdfTeX, Version 3.141592653-2.6-1.40.24 (TeX Live 2022) (preloaded format=pdflatex 2023.1.19)  3 APR 2023 10:33
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -714,13 +714,20 @@ Package uniquecounter Info: New unique counter `rerunfilecheck' on input line 2
 86.
 )
 \Hy@SectionHShift=\skip77
+) (/usr/local/texlive/2022/texmf-dist/tex/latex/float/float.sty
+Package: float 2001/11/08 v1.3d Float enhancements (AL)
+\c@float@type=\count438
+\float@exts=\toks26
+\float@box=\box62
+\@float@everytoks=\toks27
+\@floatcapt=\box63
 )
 
 Package biblatex Warning: 'babel/polyglossia' detected but 'csquotes' missing.
 (biblatex)                Loading 'csquotes' recommended.
 
-\@quotelevel=\count438
-\@quotereset=\count439
+\@quotelevel=\count439
+\@quotereset=\count440
 LaTeX Font Info:    Trying to load font information for T1+ptm on input line 20
 .
 (/usr/local/texlive/2022/texmf-dist/tex/latex/psnfss/t1ptm.fd
@@ -833,17 +840,17 @@ Package biblatex Info: Reference segment=0 on input line 20.
 
 (/usr/local/texlive/2022/texmf-dist/tex/context/base/mkii/supp-pdf.mkii
 [Loading MPS to PDF converter (version 2006.09.02).]
-\scratchcounter=\count440
+\scratchcounter=\count441
 \scratchdimen=\dimen183
-\scratchbox=\box62
-\nofMPsegments=\count441
-\nofMParguments=\count442
-\everyMPshowfont=\toks26
-\MPscratchCnt=\count443
+\scratchbox=\box64
+\nofMPsegments=\count442
+\nofMParguments=\count443
+\everyMPshowfont=\toks28
+\MPscratchCnt=\count444
 \MPscratchDim=\dimen184
-\MPnumerator=\count444
-\makeMPintoPDFobject=\count445
-\everyMPtoPDFconversion=\toks27
+\MPnumerator=\count445
+\makeMPintoPDFobject=\count446
+\everyMPtoPDFconversion=\toks29
 ) (/usr/local/texlive/2022/texmf-dist/tex/latex/epstopdf-pkg/epstopdf-base.sty
 Package: epstopdf-base 2020-01-24 v2.11 Base part for package epstopdf
 Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 4
@@ -937,13 +944,23 @@ File: t1pcr.fd 2001/06/04 font definitions for T1/pcr.
  [2
 
 ] (./kandi.toc
-Overfull \hbox (1.20001pt too wide) detected at line 18
- [][]\T1/ptm/m/n/12 10[]
+Overfull \hbox (1.20001pt too wide) detected at line 12
+ [][]\T1/ptm/m/n/12 11[]
  []
 
 
-Overfull \hbox (1.20001pt too wide) detected at line 19
+Overfull \hbox (1.20001pt too wide) detected at line 13
  [][]\T1/ptm/m/n/12 11[]
+ []
+
+
+Overfull \hbox (1.20001pt too wide) detected at line 14
+ [][]\T1/ptm/m/n/12 12[]
+ []
+
+
+Overfull \hbox (1.20001pt too wide) detected at line 15
+ [][]\T1/ptm/m/n/12 13[]
  []
 
 )
@@ -970,17 +987,17 @@ Underfull \hbox (badness 10000) in paragraph at lines 72--75
 ]
 Luku 2.
 
-Underfull \hbox (badness 10000) in paragraph at lines 92--96
+Underfull \hbox (badness 10000) in paragraph at lines 89--93
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 98--101
+Underfull \hbox (badness 10000) in paragraph at lines 95--98
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 102--106
+Underfull \hbox (badness 10000) in paragraph at lines 99--103
 
  []
 
@@ -989,119 +1006,175 @@ Underfull \hbox (badness 10000) in paragraph at lines 102--106
 ] [3]
 Luku 3.
 
-Underfull \hbox (badness 10000) in paragraph at lines 119--123
+Underfull \hbox (badness 10000) in paragraph at lines 117--126
 
  []
 
 
-Overfull \hbox (20.87431pt too wide) in paragraph at lines 124--128
-[]\T1/ptm/m/n/12 Riitt‰v‰ unen-saan-ti on t‰r-ke‰ ter-vey-den ja hy-vin-voin-ni
-n yl-l‰-pi-t‰-mi-sek-si. Wat-so-nin se-k‰ Andrewin
+Underfull \hbox (badness 10000) in paragraph at lines 127--131
+
  []
 
 
-Overfull \hbox (16.40793pt too wide) in paragraph at lines 134--138
-\T1/ptm/m/n/12 seen Glo-bal na-vi-ga-tion sa-tel-li-te sys-tem (GNSS) ni-mis-t‰
- sa-tel-liit-ti-na-vi-goin-ti-ver-kos-toa. GNSS:‰‰n
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 134--138
+Underfull \hbox (badness 10000) in paragraph at lines 133--138
 
  []
 
 [4
 
 ]
-Underfull \hbox (badness 10000) in paragraph at lines 140--143
+Underfull \hbox (badness 10000) in paragraph at lines 153--156
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 144--149
+Underfull \hbox (badness 10000) in paragraph at lines 157--160
+
+ []
+
+[5
+pdfTeX warning (ext4): destination with the same identifier (name{table.3.1}) h
+as been already used, duplicate ignored
+<argument> ...shipout:D \box_use:N \l_shipout_box 
+                                                  \__shipout_drop_firstpage_...
+l.181 
+      ]
+Underfull \hbox (badness 10000) in paragraph at lines 182--185
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 150--153
+Underfull \hbox (badness 10000) in paragraph at lines 186--191
+
+ []
+
+[6
+pdfTeX warning (ext4): destination with the same identifier (name{table.3.2}) h
+as been already used, duplicate ignored
+<argument> ...shipout:D \box_use:N \l_shipout_box 
+                                                  \__shipout_drop_firstpage_...
+l.195 
+      ]
+Overfull \hbox (58.09721pt too wide) in paragraph at lines 199--204
+\T1/ptm/m/n/12 suus. Unen seu-ran-nan tark-kuut-ta tut-ki-taan ver-taa-mal-la t
+u-lok-sia "gold stan-dard"unenmittausmenetelm‰‰n,
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 199--204
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 156--161
-
- []
-
-[5]
-Underfull \hbox (badness 10000) in paragraph at lines 162--163
-
+Overfull \hbox (7.69522pt too wide) in paragraph at lines 205--209
+\T1/ptm/m/n/12 ten-kaan tun-nis-ta-nut he-reil-l‰-oloai-kaa ko-vin tar-kas-ti n
+u-kah-ta-mi-sen j‰l-keen ([]Zam-bot-ti ym. []2016[]). 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 164--169
+Underfull \hbox (badness 10000) in paragraph at lines 205--209
 
  []
 
 
-Overfull \hbox (3.21596pt too wide) in paragraph at lines 170--174
+Underfull \hbox (badness 10000) in paragraph at lines 210--215
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 216--220
+
+ []
+
+[7]
+Underfull \hbox (badness 10000) in paragraph at lines 228--232
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 233--239
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 240--243
+
+ []
+
+[8]
+Underfull \hbox (badness 10000) in paragraph at lines 244--247
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 248--251
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 256--263
+
+ []
+
+[9]
+Underfull \hbox (badness 10000) in paragraph at lines 264--271
+
+ []
+
+
+Overfull \hbox (3.21596pt too wide) in paragraph at lines 272--276
 \T1/ptm/m/n/12 ero-si-vat to-del-li-siin nousu-met-rei-hin ta-sai-sel-la rei-ti
 l-l‰ alim-mil-laan 0,0% ja suu-rim-mil-laan 0,4%,
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 170--174
-
- []
-
-[6]
-Underfull \hbox (badness 10000) in paragraph at lines 178--185
+Underfull \hbox (badness 10000) in paragraph at lines 272--276
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 186--192
+Underfull \hbox (badness 10000) in paragraph at lines 277--280
 
  []
 
-[7]
-Underfull \hbox (badness 10000) in paragraph at lines 206--209
+[10]
+Underfull \hbox (badness 10000) in paragraph at lines 282--287
 
  []
 
-[8]
+
+Underfull \hbox (badness 10000) in paragraph at lines 288--292
+
+ []
+
+[11]
 Luku 4.
-[9
+[12
 
 ]
-Luku 5.
-[10
-
-] [11
-
-]
-Overfull \hbox (1.52185pt too wide) in paragraph at lines 250--250
-\T1/ptm/m/n/12 Recor-dings in Eight Positioning-Enabled Sport Watc-hes: In-stru
--ment Va-li-da-tion Stu-dy''. \T1/ptm/m/it/12 JMIR
+Overfull \hbox (8.59782pt too wide) in paragraph at lines 325--325
+\T1/ptm/m/n/12 ``Pre-li-mi-na-ry stu-dy on ac-ti-vi-ty mo-ni-to-ring using an a
+ndroid smart-watch'' [kie-lel-l‰ en]. _Eprint:
  []
 
-[12]
-Overfull \hbox (15.33977pt too wide) in paragraph at lines 250--250
+[13
+
+] [14] [15] [16]
+Overfull \hbox (15.33977pt too wide) in paragraph at lines 325--325
 [][]\T1/ptm/m/n/12 Shin, Grace, Eun Jeong Cheon ja Mo-ham-mad Hos-sein Jar-ra-h
 i. 2015. ``Un-ders-tan-ding quantified-
  []
 
 
-Overfull \hbox (1.62518pt too wide) in paragraph at lines 250--250
+Overfull \hbox (1.62518pt too wide) in paragraph at lines 325--325
 [][]\T1/ptm/m/n/12 Watson, Andrew M. 2017. ``Sleep and Ath-le-tic Per-for-mance
 '' [kie-lel-l‰ en-US]. \T1/ptm/m/it/12 Cur-rent Sports
  []
 
-[13] [14] (./kandi.aux)
-
-LaTeX Warning: There were undefined references.
-
+[17] [18] (./kandi.aux)
 Package rerunfilecheck Info: File `kandi.out' has not changed.
-(rerunfilecheck)             Checksum: 25B78E5C567777E3A5ED8D44B1DA46EB;2550.
+(rerunfilecheck)             Checksum: DEBC8AFAFDCF2817FE413A321C0155DB;1844.
+
 
 Package biblatex Warning: Please rerun LaTeX.
 (biblatex)                Page breaks have changed.
@@ -1111,13 +1184,13 @@ Package logreq Info: Writing requests to 'kandi.run.xml'.
 
  ) 
 Here is how much of TeX's memory you used:
- 24331 strings out of 478268
- 483064 string characters out of 5846347
- 1525486 words of memory out of 5000000
- 42188 multiletter control sequences out of 15000+600000
+ 24607 strings out of 478268
+ 489602 string characters out of 5846347
+ 1525184 words of memory out of 5000000
+ 42446 multiletter control sequences out of 15000+600000
  509833 words of font info for 83 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 97i,8n,104p,2960b,4675s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ 97i,8n,104p,3156b,4691s stack positions out of 10000i,1000n,20000p,200000b,200000s
 {/usr/local/texlive/2022/texmf-dist/fonts/enc/dvips/base/8r.enc}</usr/local/t
 exlive/2022/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi10.pfb></usr/local/te
 xlive/2022/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb></usr/local/tex
@@ -1125,10 +1198,10 @@ live/2022/texmf-dist/fonts/type1/urw/courier/ucrr8a.pfb></usr/local/texlive/202
 2/texmf-dist/fonts/type1/urw/times/utmb8a.pfb></usr/local/texlive/2022/texmf-di
 st/fonts/type1/urw/times/utmr8a.pfb></usr/local/texlive/2022/texmf-dist/fonts/t
 ype1/urw/times/utmri8a.pfb>
-Output written on kandi.pdf (18 pages, 108268 bytes).
+Output written on kandi.pdf (22 pages, 121988 bytes).
 PDF statistics:
- 323 PDF objects out of 1000 (max. 8388607)
- 287 compressed objects within 3 object streams
- 59 named destinations out of 1000 (max. 500000)
- 137 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 417 PDF objects out of 1000 (max. 8388607)
+ 375 compressed objects within 4 object streams
+ 73 named destinations out of 1000 (max. 500000)
+ 105 words of extra memory for PDF output out of 10000 (max. 10000000)
 

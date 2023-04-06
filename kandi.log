@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.24 (TeX Live 2022) (preloaded format=pdflatex 2023.1.19)  3 APR 2023 10:33
+This is pdfTeX, Version 3.141592653-2.6-1.40.24 (TeX Live 2022) (preloaded format=pdflatex 2023.1.19)  6 APR 2023 09:33
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -944,23 +944,28 @@ File: t1pcr.fd 2001/06/04 font definitions for T1/pcr.
  [2
 
 ] (./kandi.toc
+Overfull \hbox (1.20001pt too wide) detected at line 11
+ [][]\T1/ptm/m/n/12 10[]
+ []
+
+
 Overfull \hbox (1.20001pt too wide) detected at line 12
  [][]\T1/ptm/m/n/12 11[]
  []
 
 
 Overfull \hbox (1.20001pt too wide) detected at line 13
- [][]\T1/ptm/m/n/12 11[]
- []
-
-
-Overfull \hbox (1.20001pt too wide) detected at line 14
  [][]\T1/ptm/m/n/12 12[]
  []
 
 
-Overfull \hbox (1.20001pt too wide) detected at line 15
+Overfull \hbox (1.20001pt too wide) detected at line 14
  [][]\T1/ptm/m/n/12 13[]
+ []
+
+
+Overfull \hbox (1.20001pt too wide) detected at line 15
+ [][]\T1/ptm/m/n/12 14[]
  []
 
 )
@@ -972,12 +977,12 @@ Overfull \hbox (1.20001pt too wide) detected at line 15
 ]
 Luku 1.
 
-Underfull \hbox (badness 10000) in paragraph at lines 65--71
+Underfull \hbox (badness 10000) in paragraph at lines 65--72
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 72--75
+Underfull \hbox (badness 10000) in paragraph at lines 73--76
 
  []
 
@@ -987,17 +992,17 @@ Underfull \hbox (badness 10000) in paragraph at lines 72--75
 ]
 Luku 2.
 
-Underfull \hbox (badness 10000) in paragraph at lines 89--93
+Underfull \hbox (badness 10000) in paragraph at lines 93--97
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 95--98
+Underfull \hbox (badness 10000) in paragraph at lines 99--102
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 99--103
+Underfull \hbox (badness 10000) in paragraph at lines 103--107
 
  []
 
@@ -1006,29 +1011,34 @@ Underfull \hbox (badness 10000) in paragraph at lines 99--103
 ] [3]
 Luku 3.
 
-Underfull \hbox (badness 10000) in paragraph at lines 117--126
+Underfull \hbox (badness 10000) in paragraph at lines 109--111
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 127--131
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 133--138
+Underfull \hbox (badness 10000) in paragraph at lines 126--130
 
  []
 
 [4
 
 ]
-Underfull \hbox (badness 10000) in paragraph at lines 153--156
+Underfull \hbox (badness 10000) in paragraph at lines 133--137
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 157--160
+Underfull \hbox (badness 10000) in paragraph at lines 139--144
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 159--162
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 163--166
 
  []
 
@@ -1037,14 +1047,14 @@ pdfTeX warning (ext4): destination with the same identifier (name{table.3.1}) h
 as been already used, duplicate ignored
 <argument> ...shipout:D \box_use:N \l_shipout_box 
                                                   \__shipout_drop_firstpage_...
-l.181 
+l.166 
       ]
-Underfull \hbox (badness 10000) in paragraph at lines 182--185
+Underfull \hbox (badness 10000) in paragraph at lines 188--191
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 186--191
+Underfull \hbox (badness 10000) in paragraph at lines 192--197
 
  []
 
@@ -1053,128 +1063,132 @@ pdfTeX warning (ext4): destination with the same identifier (name{table.3.2}) h
 as been already used, duplicate ignored
 <argument> ...shipout:D \box_use:N \l_shipout_box 
                                                   \__shipout_drop_firstpage_...
-l.195 
+l.207 
       ]
-Overfull \hbox (58.09721pt too wide) in paragraph at lines 199--204
-\T1/ptm/m/n/12 suus. Unen seu-ran-nan tark-kuut-ta tut-ki-taan ver-taa-mal-la t
-u-lok-sia "gold stan-dard"unenmittausmenetelmään,
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 199--204
+Underfull \hbox (badness 10000) in paragraph at lines 211--216
 
  []
 
 
-Overfull \hbox (7.69522pt too wide) in paragraph at lines 205--209
-\T1/ptm/m/n/12 ten-kaan tun-nis-ta-nut he-reil-lä-oloai-kaa ko-vin tar-kas-ti n
-u-kah-ta-mi-sen jäl-keen ([]Zam-bot-ti ym. []2016[]). 
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 205--209
+Underfull \hbox (badness 10000) in paragraph at lines 220--224
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 210--215
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 216--220
+Underfull \hbox (badness 10000) in paragraph at lines 225--230
 
  []
 
 [7]
-Underfull \hbox (badness 10000) in paragraph at lines 228--232
+Underfull \hbox (badness 10000) in paragraph at lines 231--235
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 233--239
+Underfull \hbox (badness 10000) in paragraph at lines 243--246
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 240--243
+Underfull \hbox (badness 10000) in paragraph at lines 247--253
 
  []
 
 [8]
-Underfull \hbox (badness 10000) in paragraph at lines 244--247
+Underfull \hbox (badness 10000) in paragraph at lines 254--257
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 248--251
+Underfull \hbox (badness 10000) in paragraph at lines 258--261
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 256--263
+Underfull \hbox (badness 10000) in paragraph at lines 262--265
 
  []
 
 [9]
-Underfull \hbox (badness 10000) in paragraph at lines 264--271
+Underfull \hbox (badness 10000) in paragraph at lines 271--276
 
  []
 
 
-Overfull \hbox (3.21596pt too wide) in paragraph at lines 272--276
-\T1/ptm/m/n/12 ero-si-vat to-del-li-siin nousu-met-rei-hin ta-sai-sel-la rei-ti
-l-lä alim-mil-laan 0,0% ja suu-rim-mil-laan 0,4%,
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 272--276
+Underfull \hbox (badness 10000) in paragraph at lines 277--281
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 277--280
+Underfull \hbox (badness 10000) in paragraph at lines 282--288
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 289--293
 
  []
 
 [10]
-Underfull \hbox (badness 10000) in paragraph at lines 282--287
+Underfull \hbox (badness 10000) in paragraph at lines 294--297
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 288--292
+Underfull \hbox (badness 10000) in paragraph at lines 299--304
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 305--309
 
  []
 
 [11]
-Luku 4.
-[12
+Underfull \hbox (badness 10000) in paragraph at lines 316--318
 
-]
-Overfull \hbox (8.59782pt too wide) in paragraph at lines 325--325
-\T1/ptm/m/n/12 ``Pre-li-mi-na-ry stu-dy on ac-ti-vi-ty mo-ni-to-ring using an a
-ndroid smart-watch'' [kie-lel-lä en]. _Eprint:
+ []
+
+[12]
+Luku 4.
+
+Underfull \hbox (badness 10000) in paragraph at lines 338--343
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 344--348
+
  []
 
 [13
 
-] [14] [15] [16]
-Overfull \hbox (15.33977pt too wide) in paragraph at lines 325--325
+]
+Overfull \hbox (8.59782pt too wide) in paragraph at lines 371--371
+\T1/ptm/m/n/12 ``Pre-li-mi-na-ry stu-dy on ac-ti-vi-ty mo-ni-to-ring using an a
+ndroid smart-watch'' [kie-lel-lä en]. _Eprint:
+ []
+
+[14
+
+] [15] [16] [17]
+Overfull \hbox (15.33977pt too wide) in paragraph at lines 371--371
 [][]\T1/ptm/m/n/12 Shin, Grace, Eun Jeong Cheon ja Mo-ham-mad Hos-sein Jar-ra-h
 i. 2015. ``Un-ders-tan-ding quantified-
  []
 
-
-Overfull \hbox (1.62518pt too wide) in paragraph at lines 325--325
+[18]
+Overfull \hbox (1.62518pt too wide) in paragraph at lines 371--371
 [][]\T1/ptm/m/n/12 Watson, Andrew M. 2017. ``Sleep and Ath-le-tic Per-for-mance
 '' [kie-lel-lä en-US]. \T1/ptm/m/it/12 Cur-rent Sports
  []
 
-[17] [18] (./kandi.aux)
-Package rerunfilecheck Info: File `kandi.out' has not changed.
-(rerunfilecheck)             Checksum: DEBC8AFAFDCF2817FE413A321C0155DB;1844.
+[19] (./kandi.aux)
 
+LaTeX Warning: There were undefined references.
+
+Package rerunfilecheck Info: File `kandi.out' has not changed.
+(rerunfilecheck)             Checksum: 7D94244670CF499CF3E91C9D228F9BE4;1937.
 
 Package biblatex Warning: Please rerun LaTeX.
 (biblatex)                Page breaks have changed.
@@ -1184,10 +1198,10 @@ Package logreq Info: Writing requests to 'kandi.run.xml'.
 
  ) 
 Here is how much of TeX's memory you used:
- 24607 strings out of 478268
- 489602 string characters out of 5846347
- 1525184 words of memory out of 5000000
- 42446 multiletter control sequences out of 15000+600000
+ 24652 strings out of 478268
+ 491117 string characters out of 5846347
+ 1528481 words of memory out of 5000000
+ 42485 multiletter control sequences out of 15000+600000
  509833 words of font info for 83 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  97i,8n,104p,3156b,4691s stack positions out of 10000i,1000n,20000p,200000b,200000s
@@ -1198,10 +1212,10 @@ live/2022/texmf-dist/fonts/type1/urw/courier/ucrr8a.pfb></usr/local/texlive/202
 2/texmf-dist/fonts/type1/urw/times/utmb8a.pfb></usr/local/texlive/2022/texmf-di
 st/fonts/type1/urw/times/utmr8a.pfb></usr/local/texlive/2022/texmf-dist/fonts/t
 ype1/urw/times/utmri8a.pfb>
-Output written on kandi.pdf (22 pages, 121988 bytes).
+Output written on kandi.pdf (23 pages, 127821 bytes).
 PDF statistics:
- 417 PDF objects out of 1000 (max. 8388607)
- 375 compressed objects within 4 object streams
- 73 named destinations out of 1000 (max. 500000)
+ 435 PDF objects out of 1000 (max. 8388607)
+ 392 compressed objects within 4 object streams
+ 79 named destinations out of 1000 (max. 500000)
  105 words of extra memory for PDF output out of 10000 (max. 10000000)
 

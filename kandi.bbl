@@ -467,13 +467,66 @@
       \verb Full Text PDF:/Users/ronikoskinen/Zotero/storage/FVCJEKC8/Cummins et al. - 2013 - Global Positioning Systems (GPS) and Microtechnolo.pdf:application/pdf
       \endverb
     \endentry
+    \entry{fallow_influence_2013}{article}{}
+      \name{author}{3}{}{%
+        {{un=0,uniquepart=base,hash=a7334d87a2278badc537d6c864944e47}{%
+           family={Fallow},
+           familyi={F\bibinitperiod},
+           given={Bennett\bibnamedelima A.},
+           giveni={B\bibinitperiod\bibinitdelim A\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=5a1bf8ca73cede90de80959d8b261aa3}{%
+           family={Tarumi},
+           familyi={T\bibinitperiod},
+           given={Takashi},
+           giveni={T\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=e4614e768a2fc0c1b73caa822001d537}{%
+           family={Tanaka},
+           familyi={T\bibinitperiod},
+           given={Hirofumi},
+           giveni={H\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{language}{1}{%
+        {eng}%
+      }
+      \strng{namehash}{fb2eeab957b699684de74d406ff0bb7f}
+      \strng{fullhash}{fb2eeab957b699684de74d406ff0bb7f}
+      \strng{bibnamehash}{fb2eeab957b699684de74d406ff0bb7f}
+      \strng{authorbibnamehash}{fb2eeab957b699684de74d406ff0bb7f}
+      \strng{authornamehash}{fb2eeab957b699684de74d406ff0bb7f}
+      \strng{authorfullhash}{fb2eeab957b699684de74d406ff0bb7f}
+      \field{sortinit}{F}
+      \field{sortinithash}{2638baaa20439f1b5a8f80c6c08a13b4}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{PURPOSE: A new application of photoplethysmography (PPG) has emerged recently to provide the possibility of heart rate monitoring without a telemetric chest strap. The aim of this study was to determine if a new device could detect pulsation over a broad range of skin types, and what light wavelength would be most suitable for detecting the signals. A light emitting diode-based PPG system was used to detect changes in pulsatile blood flow on 23 apparently healthy individuals (11 male and 12 female, 20-59 years old) of varying skin types classified according to a questionnaire in combination with digital photographs with a skin type chart. Four different light wavelengths (470, 520, 630, and 880 nm) were tested. Normalized modulation level is calculated as the AC/DC component ratio and represents the change in flow over the underlying constant state of flow or perfusion. RESULTS: In the resting condition, green light wavelength (520 nm) displayed greater modulation (p {<} 0.001) than all the other wavelengths analyzed regardless of skin types. Type V (dark brown) skin type was significantly lower in modulation than all other skin types. In the exercise condition, both blue (470 nm) and green (520 nm) light wavelengths displayed greater signal-to-noise ratios than red (630 nm) or infrared (880 nm) light wavelengths (p {<} 0.001). CONCLUSIONS: We concluded that a PPG-based device can detect pulsation across all skin types and that a greater resolution was obtained using a green light wavelength at rest and a green or blue light wavelength during exercise.}
+      \field{issn}{1573-2614}
+      \field{journaltitle}{Journal of Clinical Monitoring and Computing}
+      \field{month}{6}
+      \field{number}{3}
+      \field{title}{Influence of skin type and wavelength on light wave reflectance}
+      \field{volume}{27}
+      \field{year}{2013}
+      \field{pages}{313\bibrangedash 317}
+      \range{pages}{5}
+      \verb{doi}
+      \verb 10.1007/s10877-013-9436-7
+      \endverb
+      \verb{file}
+      \verb Submitted Version:/Users/ronikoskinen/Zotero/storage/N4A7BFB5/Fallow et al. - 2013 - Influence of skin type and wavelength on light wav.pdf:application/pdf
+      \endverb
+      \keyw{Adult,Exercise,Female,Heart Rate,Humans,Light,Male,Middle Aged,Monitoring,Physiologic,Optical Phenomena,Photoplethysmography,Signal-To-Noise Ratio,Skin,Skin Pigmentation,Young Adult}
+    \endentry
     \entry{garmin_site}{misc}{}
       \field{sortinit}{G}
       \field{sortinithash}{32d67eca0634bf53703493fb1090a2e8}
       \field{extradatescope}{labelyear}
       \field{labeldatesource}{}
       \field{labeltitlesource}{title}
-      \field{note}{Luettu 10-02-2023}
       \field{title}{{Garmin}}
       \field{urlday}{10}
       \field{urlmonth}{2}
@@ -1019,6 +1072,60 @@
       \verb Full Text PDF:/Users/ronikoskinen/Zotero/storage/W58JWQRW/Koerber et al. - 2022 - Accuracy of Heart Rate Measurement with Wrist-Worn.pdf:application/pdf
       \endverb
     \endentry
+    \entry{kohyama_which_2021}{article}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=bec2be675c08c1e994857252bf9750f9}{%
+           family={Kohyama},
+           familyi={K\bibinitperiod},
+           given={Jun},
+           giveni={J\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{language}{1}{%
+        {en}%
+      }
+      \strng{namehash}{bec2be675c08c1e994857252bf9750f9}
+      \strng{fullhash}{bec2be675c08c1e994857252bf9750f9}
+      \strng{bibnamehash}{bec2be675c08c1e994857252bf9750f9}
+      \strng{authorbibnamehash}{bec2be675c08c1e994857252bf9750f9}
+      \strng{authornamehash}{bec2be675c08c1e994857252bf9750f9}
+      \strng{authorfullhash}{bec2be675c08c1e994857252bf9750f9}
+      \field{sortinit}{K}
+      \field{sortinithash}{c02bf6bff1c488450c352b40f5d853ab}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{shorttitle}
+      \field{abstract}{Sleep is one of the basic physiological processes for human survival. Both sleep quantity and sleep quality are fundamental components of sleep. This review looks at both sleep quantity and sleep quality, considering how to manage the complex but probably unavoidable physiological phenomenon of sleep. The need for sleep has marked variations between individuals, in addition to the effects of variable conditions. Studies on sleep quality started later than those on sleep quantity, beginning in 1989 when Ford and Kamerow revealed that insomnia increases the risk of psychiatric disorders. According to the nationwide research team on the quality of sleep (19FA0901), sleep quality is superior to sleep quantity as an index for assessing sleep, and that restfulness obtained through sleep is a useful index for assessing sleep quality. We should pay more attention to obtaining sleep of good quality (restfulness, no sleepiness, no need for more sleep, sufficient objective sleep depth, etc.), although there have not been enough studies on the associations between sleep quality and health or disorders in children and adolescents. Further studies using the deviation from an individual’s optimal sleep quantity may show us another aspect of the effects of sleep quantity on various life issues.}
+      \field{issn}{2227-9067}
+      \field{journaltitle}{Children}
+      \field{month}{7}
+      \field{note}{Number: 7 Publisher: Multidisciplinary Digital Publishing Institute}
+      \field{number}{7}
+      \field{shorttitle}{Which {Is} {More} {Important} for {Health}}
+      \field{title}{Which {Is} {More} {Important} for {Health}: {Sleep} {Quantity} or {Sleep} {Quality}?}
+      \field{urlday}{27}
+      \field{urlmonth}{2}
+      \field{urlyear}{2023}
+      \field{volume}{8}
+      \field{year}{2021}
+      \field{urldateera}{ce}
+      \field{pages}{542}
+      \range{pages}{1}
+      \verb{doi}
+      \verb 10.3390/children8070542
+      \endverb
+      \verb{file}
+      \verb Full Text PDF:/Users/ronikoskinen/Zotero/storage/6M86V35Q/Kohyama - 2021 - Which Is More Important for Health Sleep Quantity.pdf:application/pdf
+      \endverb
+      \verb{urlraw}
+      \verb https://www.mdpi.com/2227-9067/8/7/542
+      \endverb
+      \verb{url}
+      \verb https://www.mdpi.com/2227-9067/8/7/542
+      \endverb
+      \keyw{Epworth Sleepiness Scale (ESS),insufficient sleep syndrome,Pittsburgh Sleep Quality Index (PAQI),restfulness,sleep duration,sleepiness}
+    \endentry
     \entry{liang2018validity}{article}{}
       \name{author}{2}{}{%
         {{un=0,uniquepart=base,hash=e4f70f1886f312a306c1dc2d12d115e7}{%
@@ -1379,6 +1486,167 @@
       \endverb
       \keyw{behaviour change,intervention,older adults,scoping review,Sedentary behaviour,sitting time}
     \endentry
+    \entry{pipek_comparison_2021}{article}{}
+      \name{author}{4}{}{%
+        {{un=0,uniquepart=base,hash=585cbe21281d3bb80503bfedf95d6797}{%
+           family={Pipek},
+           familyi={P\bibinitperiod},
+           given={Leonardo\bibnamedelima Zumerkorn},
+           giveni={L\bibinitperiod\bibinitdelim Z\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=cbd3c674b603770b74df136738a34114}{%
+           family={Nascimento},
+           familyi={N\bibinitperiod},
+           given={Rafaela\bibnamedelimb Farias\bibnamedelima Vidigal},
+           giveni={R\bibinitperiod\bibinitdelim F\bibinitperiod\bibinitdelim V\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=640d073fde37e9dde8d816a72104139d}{%
+           family={Acencio},
+           familyi={A\bibinitperiod},
+           given={Milena\bibnamedelimb Marques\bibnamedelima Pagliarelli},
+           giveni={M\bibinitperiod\bibinitdelim M\bibinitperiod\bibinitdelim P\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=ea235d183e948f7808e333b218976d5c}{%
+           family={Teixeira},
+           familyi={T\bibinitperiod},
+           given={Lisete\bibnamedelima Ribeiro},
+           giveni={L\bibinitperiod\bibinitdelim R\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{language}{1}{%
+        {en}%
+      }
+      \strng{namehash}{f2dd90fb96b2f9589246305c5ebd3c94}
+      \strng{fullhash}{95e3100677479f028e1f75ccfb1a1a8f}
+      \strng{bibnamehash}{95e3100677479f028e1f75ccfb1a1a8f}
+      \strng{authorbibnamehash}{95e3100677479f028e1f75ccfb1a1a8f}
+      \strng{authornamehash}{f2dd90fb96b2f9589246305c5ebd3c94}
+      \strng{authorfullhash}{95e3100677479f028e1f75ccfb1a1a8f}
+      \field{sortinit}{P}
+      \field{sortinithash}{ff3bcf24f47321b42cb156c2cc8a8422}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{Lung diseases have high mortality and morbidity, with an important impact on quality of life. Hypoxemic patients are advised to use oxygen therapy to prolong their survival, but high oxygen saturation (SpO2) levels can also have negative effects. Pulse oximeters are the most common way to assess oxygen levels and guide medical treatment. This study aims to assess whether wearable devices can provide precise SpO2 measurements when compared to commercial pulse oximeters. This is a cross-section study with 100 patients with chronic obstructive pulmonary disease and interstitial lung disease from an outpatient pneumology clinic. SpO2 and heart rate data were collected with an Apple Watch Series 6 (Apple) and compared to two commercial pulse oximeters. The Bland–Altman method and interclass correlation coefficient were used to compare their values. We observed strong positive correlations between the Apple Watch device and commercial oximeters when evaluating heart rate measurements (r = 0.995, p {<} 0.001) and oximetry measurements (r = 0.81, p {<} 0.001). There was no statistical difference in the evaluation of skin color, wrist circumference, presence of wrist hair, and enamel nail for SpO2 and heart rate measurements in Apple Watch or commercial oximeter devices (p {>} 0.05). Apple Watch 6 is a reliable way to obtain heart rate and SpO2 in patients with lung diseases in a controlled environment.}
+      \field{annotation}{23 citations (pää artikkeli mulle)}
+      \field{issn}{2045-2322}
+      \field{journaltitle}{Scientific Reports}
+      \field{month}{9}
+      \field{note}{Number: 1 Publisher: Nature Publishing Group}
+      \field{number}{1}
+      \field{title}{Comparison of {SpO2} and heart rate values on {Apple} {Watch} and conventional commercial oximeters devices in patients with lung disease}
+      \field{urlday}{3}
+      \field{urlmonth}{4}
+      \field{urlyear}{2023}
+      \field{volume}{11}
+      \field{year}{2021}
+      \field{urldateera}{ce}
+      \field{pages}{18901}
+      \range{pages}{1}
+      \verb{doi}
+      \verb 10.1038/s41598-021-98453-3
+      \endverb
+      \verb{file}
+      \verb Full Text PDF:/Users/ronikoskinen/Zotero/storage/Q38TI78K/Pipek et al. - 2021 - Comparison of SpO2 and heart rate values on Apple .pdf:application/pdf
+      \endverb
+      \verb{urlraw}
+      \verb https://www.nature.com/articles/s41598-021-98453-3
+      \endverb
+      \verb{url}
+      \verb https://www.nature.com/articles/s41598-021-98453-3
+      \endverb
+      \keyw{Hypoxia,Respiratory tract diseases}
+    \endentry
+    \entry{patz_accuracy_2023}{article}{}
+      \name{author}{7}{}{%
+        {{un=0,uniquepart=base,hash=48833992444f72cfa87967442158da43}{%
+           family={Pätz},
+           familyi={P\bibinitperiod},
+           given={C.},
+           giveni={C\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=049323e526e0edbc8a520ba6ac471abc}{%
+           family={Michaelis},
+           familyi={M\bibinitperiod},
+           given={A.},
+           giveni={A\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=d9ee4a8507e032675809d49e808697aa}{%
+           family={Markel},
+           familyi={M\bibinitperiod},
+           given={F.},
+           giveni={F\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=de0ea0b4acc14f6066179a47606a4501}{%
+           family={Löffelbein},
+           familyi={L\bibinitperiod},
+           given={F.},
+           giveni={F\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=bd2010338af27d879b38876a0cb9f4fe}{%
+           family={Dähnert},
+           familyi={D\bibinitperiod},
+           given={I.},
+           giveni={I\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=6d119de4610d266d1c2b4b465b08b912}{%
+           family={Gebauer},
+           familyi={G\bibinitperiod},
+           given={R.\bibnamedelimi A.},
+           giveni={R\bibinitperiod\bibinitdelim A\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=b68bce54e584c157c4fbe303aa687e4c}{%
+           family={Paech},
+           familyi={P\bibinitperiod},
+           given={C.},
+           giveni={C\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{language}{1}{%
+        {en}%
+      }
+      \strng{namehash}{60abbe5bae08206975ae72c06488318c}
+      \strng{fullhash}{f5f5f233594c038a4bec0a8bc558401a}
+      \strng{bibnamehash}{f5f5f233594c038a4bec0a8bc558401a}
+      \strng{authorbibnamehash}{f5f5f233594c038a4bec0a8bc558401a}
+      \strng{authornamehash}{60abbe5bae08206975ae72c06488318c}
+      \strng{authorfullhash}{f5f5f233594c038a4bec0a8bc558401a}
+      \field{sortinit}{P}
+      \field{sortinithash}{ff3bcf24f47321b42cb156c2cc8a8422}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{As new customer health devices have been spread throughout the consumer market in recent years, it now needs to be evaluated if they also fulfill the requirements of clinical use. The Apple Watch Series 6 provides a new health feature with its oxygen saturation measurement. The aim of this prospective, investigator-initiated, single-arm study was to compare transcutaneous oxygen saturation measurements using the Apple Watch 6 with the conventional method of pulse oximetry in patients with congenital heart disease. Patients of any age presenting at the Leipzig Heart Center, Department for pediatric cardiology, were included. After obtaining informed consent, the routine oxygen saturation measurement with the pulse oximeter was taken and simultaneously three measurements with the Apple Watch. A total of 508 patients were enrolled. Comparing children and adults in terms of measurement success shows a statistically significant difference with a higher proportion of unsuccessful measurements in children, but no difference concerning correct versus incorrect Apple Watch measurements. Noticeable, strapping on the watch properly around the patient’s wrists significantly improved the measurements compared to a watch only laid on. The study demonstrated that oxygen saturation measurement with the Apple Watch 6 is not yet up to the medical standard of pulse oximetry, too large a proportion of the measurements remain either unsuccessful or incorrect. While a high proportion of unsuccessful measurements in children can be attributed to movement, the cause in adults usually remains unclear. Further influencing factors on a correct, or successful measurement could not be found.}
+      \field{annotation}{2 citataions}
+      \field{issn}{1432-1971}
+      \field{journaltitle}{Pediatric Cardiology}
+      \field{month}{2}
+      \field{number}{2}
+      \field{title}{Accuracy of the {Apple} {Watch} {Oxygen} {Saturation} {Measurement} in {Adults} and {Children} with {Congenital} {Heart} {Disease}}
+      \field{urlday}{3}
+      \field{urlmonth}{4}
+      \field{urlyear}{2023}
+      \field{volume}{44}
+      \field{year}{2023}
+      \field{urldateera}{ce}
+      \field{pages}{333\bibrangedash 343}
+      \range{pages}{11}
+      \verb{doi}
+      \verb 10.1007/s00246-022-02987-w
+      \endverb
+      \verb{file}
+      \verb Full Text PDF:/Users/ronikoskinen/Zotero/storage/VCEFH4CQ/Pätz et al. - 2023 - Accuracy of the Apple Watch Oxygen Saturation Meas.pdf:application/pdf
+      \endverb
+      \verb{urlraw}
+      \verb https://doi.org/10.1007/s00246-022-02987-w
+      \endverb
+      \verb{url}
+      \verb https://doi.org/10.1007/s00246-022-02987-w
+      \endverb
+      \keyw{Apple Watch,Oxygen saturation,Pediatric cardiology,Smart watch,Telemedicine}
+    \endentry
     \entry{rawassizadeh_wearables_2014}{article}{}
       \name{author}{3}{}{%
         {{un=0,uniquepart=base,hash=e05d44a861372f1e77ef4a0d5e33b953}{%
@@ -1701,6 +1969,12 @@
       \field{journaltitle}{IConference 2015 Proceedings}
       \field{title}{Understanding quantified-selfers' interplay between intrinsic and extrinsic motivation in the use of activity-tracking devices}
       \field{year}{2015}
+      \verb{urlraw}
+      \verb http://hdl.handle.net/2142/73740
+      \endverb
+      \verb{url}
+      \verb http://hdl.handle.net/2142/73740
+      \endverb
     \endentry
     \entry{sportswatch_tfd}{misc}{}
       \field{sortinit}{T}
@@ -1710,7 +1984,6 @@
       \field{labeltitlesource}{title}
       \field{abstract}{Encyclopedia article about sports watch by The Free Dictionary}
       \field{journaltitle}{TheFreeDictionary.com}
-      \field{note}{Luettu 10-02-2023}
       \field{title}{sports watch}
       \field{urlday}{10}
       \field{urlmonth}{2}
@@ -1816,7 +2089,6 @@
       \field{labeltitlesource}{title}
       \field{abstract}{smartwatch, a small smartphonelike device worn on the wrist. Many smartwatches are connected to a smartphone that notifies the user of incoming calls, e-mail messages, and notifications from applications. Some smartwatches can even make telephone calls. Many smartwatches have colour displays, but some inexpensive models use a black-and-white “e-paper” display. The user can operate the smartwatch through a touch screen, physical buttons, or a combination of the two. Some smartwatches come with pedometers and heart-rate monitors to help users track their health. As computers shrank in size in the 20th century, electronic equipment became small enough to fit into a}
       \field{month}{1}
-      \field{note}{Luettu 10-02-2023}
       \field{title}{Watch - {Electric}-powered and electronic watches {|} {Britannica}}
       \field{urlday}{10}
       \field{urlmonth}{2}
@@ -1901,7 +2173,6 @@
       \field{labeltitlesource}{shorttitle}
       \field{abstract}{Learn about wearable technology and its various applications. Also, delve into the history and take a peek at the future of wearable technology.}
       \field{journaltitle}{Mobile Computing}
-      \field{note}{Luettu: 10-02-2023}
       \field{shorttitle}{What is {Wearable} {Technology}?}
       \field{title}{What is {Wearable} {Technology}? {Definition}, {Uses} and {Examples}}
       \field{urlday}{10}
@@ -2002,6 +2273,64 @@
       \verb ScienceDirect Full Text PDF:/Users/ronikoskinen/Zotero/storage/UJ47E3XR/de Zambotti et al. - 2016 - Measures of sleep and cardiac functioning during s.pdf:application/pdf;ScienceDirect Snapshot:/Users/ronikoskinen/Zotero/storage/Z8EPFZMV/S0031938416300932.html:text/html
       \endverb
       \keyw{Heart rate,Actigraphy,Adolescence,Fitbit,Polysomnography,Wearables}
+    \endentry
+    \entry{zhang_can_2022}{article}{}
+      \name{author}{2}{}{%
+        {{un=0,uniquepart=base,hash=f5790ea7895c6266fac8b04f6399845b}{%
+           family={Zhang},
+           familyi={Z\bibinitperiod},
+           given={Zhongxing},
+           giveni={Z\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=d4b6cefd696fe4ace79bceacab4f8709}{%
+           family={Khatami},
+           familyi={K\bibinitperiod},
+           given={Ramin},
+           giveni={R\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{language}{1}{%
+        {English}%
+      }
+      \strng{namehash}{b10b291a8119e015b4b15018353281d4}
+      \strng{fullhash}{b10b291a8119e015b4b15018353281d4}
+      \strng{bibnamehash}{b10b291a8119e015b4b15018353281d4}
+      \strng{authorbibnamehash}{b10b291a8119e015b4b15018353281d4}
+      \strng{authornamehash}{b10b291a8119e015b4b15018353281d4}
+      \strng{authorfullhash}{b10b291a8119e015b4b15018353281d4}
+      \field{sortinit}{Z}
+      \field{sortinithash}{96892c0b0a36bb8557c40c49813d48b3}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{annotation}{4 citations}
+      \field{issn}{2213-2600, 2213-2619}
+      \field{journaltitle}{The Lancet Respiratory Medicine}
+      \field{month}{5}
+      \field{note}{Publisher: Elsevier}
+      \field{number}{5}
+      \field{title}{Can we trust the oxygen saturation measured by consumer smartwatches?}
+      \field{urlday}{3}
+      \field{urlmonth}{4}
+      \field{urlyear}{2023}
+      \field{volume}{10}
+      \field{year}{2022}
+      \field{urldateera}{ce}
+      \field{pages}{e47\bibrangedash e48}
+      \range{pages}{-1}
+      \verb{doi}
+      \verb 10.1016/S2213-2600(22)00103-5
+      \endverb
+      \verb{file}
+      \verb Full Text PDF:/Users/ronikoskinen/Zotero/storage/VFGJUBC7/Zhang and Khatami - 2022 - Can we trust the oxygen saturation measured by con.pdf:application/pdf
+      \endverb
+      \verb{urlraw}
+      \verb https://www.thelancet.com/journals/lanres/article/PIIS2213-2600(22)00103-5/fulltext
+      \endverb
+      \verb{url}
+      \verb https://www.thelancet.com/journals/lanres/article/PIIS2213-2600(22)00103-5/fulltext
+      \endverb
     \endentry
   \enddatalist
 \endrefsection

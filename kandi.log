@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.24 (TeX Live 2022) (preloaded format=pdflatex 2023.1.19)  6 APR 2023 14:12
+This is pdfTeX, Version 3.141592653-2.6-1.40.24 (TeX Live 2022) (preloaded format=pdflatex 2023.1.19)  6 APR 2023 15:53
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1033,6 +1033,11 @@ Underfull \hbox (badness 10000) in paragraph at lines 139--144
  []
 
 
+Overfull \hbox (74.52167pt too wide) in paragraph at lines 148--155
+ [] 
+ []
+
+
 Underfull \hbox (badness 10000) in paragraph at lines 159--162
 
  []
@@ -1140,6 +1145,12 @@ Underfull \hbox (badness 10000) in paragraph at lines 304--308
  []
 
 
+Overfull \hbox (8.6416pt too wide) in paragraph at lines 309--312
+\T1/ptm/m/n/12 tea-vat, et-tä mit-tauk-siin saat-toi vai-kut-taa esi-mer-kik-si
+ sää-olo-suh-tei-den muu-tos, tai GPS-signaalin
+ []
+
+
 Underfull \hbox (badness 10000) in paragraph at lines 309--312
 
  []
@@ -1220,7 +1231,7 @@ live/2022/texmf-dist/fonts/type1/urw/courier/ucrr8a.pfb></usr/local/texlive/202
 2/texmf-dist/fonts/type1/urw/times/utmb8a.pfb></usr/local/texlive/2022/texmf-di
 st/fonts/type1/urw/times/utmr8a.pfb></usr/local/texlive/2022/texmf-dist/fonts/t
 ype1/urw/times/utmri8a.pfb>
-Output written on kandi.pdf (26 pages, 132521 bytes).
+Output written on kandi.pdf (26 pages, 132552 bytes).
 PDF statistics:
  469 PDF objects out of 1000 (max. 8388607)
  422 compressed objects within 5 object streams

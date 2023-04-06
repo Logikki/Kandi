@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.24 (TeX Live 2022) (preloaded format=pdflatex 2023.1.19)  6 APR 2023 09:33
+This is pdfTeX, Version 3.141592653-2.6-1.40.24 (TeX Live 2022) (preloaded format=pdflatex 2023.1.19)  6 APR 2023 14:12
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -950,7 +950,7 @@ Overfull \hbox (1.20001pt too wide) detected at line 11
 
 
 Overfull \hbox (1.20001pt too wide) detected at line 12
- [][]\T1/ptm/m/n/12 11[]
+ [][]\T1/ptm/m/n/12 12[]
  []
 
 
@@ -960,12 +960,12 @@ Overfull \hbox (1.20001pt too wide) detected at line 13
 
 
 Overfull \hbox (1.20001pt too wide) detected at line 14
- [][]\T1/ptm/m/n/12 13[]
+ [][]\T1/ptm/m/n/12 14[]
  []
 
 
 Overfull \hbox (1.20001pt too wide) detected at line 15
- [][]\T1/ptm/m/n/12 14[]
+ [][]\T1/ptm/m/n/12 16[]
  []
 
 )
@@ -1070,138 +1070,146 @@ Underfull \hbox (badness 10000) in paragraph at lines 211--216
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 220--224
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 225--230
+Underfull \hbox (badness 10000) in paragraph at lines 217--224
 
  []
 
 [7]
-Underfull \hbox (badness 10000) in paragraph at lines 231--235
+Underfull \hbox (badness 10000) in paragraph at lines 225--231
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 243--246
+Underfull \hbox (badness 10000) in paragraph at lines 234--238
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 247--253
+Underfull \hbox (badness 10000) in paragraph at lines 239--244
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 245--249
 
  []
 
 [8]
-Underfull \hbox (badness 10000) in paragraph at lines 254--257
+Underfull \hbox (badness 10000) in paragraph at lines 257--261
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 258--261
+Underfull \hbox (badness 10000) in paragraph at lines 262--268
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 262--265
+Underfull \hbox (badness 10000) in paragraph at lines 269--272
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 273--276
 
  []
 
 [9]
-Underfull \hbox (badness 10000) in paragraph at lines 271--276
+Underfull \hbox (badness 10000) in paragraph at lines 277--280
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 277--281
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 282--288
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 289--293
+Underfull \hbox (badness 10000) in paragraph at lines 286--291
 
  []
 
 [10]
-Underfull \hbox (badness 10000) in paragraph at lines 294--297
+Underfull \hbox (badness 10000) in paragraph at lines 292--296
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 299--304
+Underfull \hbox (badness 10000) in paragraph at lines 297--303
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 305--309
+Underfull \hbox (badness 10000) in paragraph at lines 304--308
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 309--312
 
  []
 
 [11]
-Underfull \hbox (badness 10000) in paragraph at lines 316--318
+Underfull \hbox (badness 10000) in paragraph at lines 314--319
 
  []
 
-[12]
+
+Underfull \hbox (badness 10000) in paragraph at lines 320--324
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 331--333
+
+ []
+
+[12] [13]
 Luku 4.
 
-Underfull \hbox (badness 10000) in paragraph at lines 338--343
+Underfull \hbox (badness 10000) in paragraph at lines 354--360
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 344--348
+Underfull \hbox (badness 10000) in paragraph at lines 361--366
 
  []
 
-[13
 
-]
-Overfull \hbox (8.59782pt too wide) in paragraph at lines 371--371
-\T1/ptm/m/n/12 ``Pre-li-mi-na-ry stu-dy on ac-ti-vi-ty mo-ni-to-ring using an a
-ndroid smart-watch'' [kie-lel-lä en]. _Eprint:
+Underfull \hbox (badness 10000) in paragraph at lines 367--371
+
  []
 
 [14
 
-] [15] [16] [17]
-Overfull \hbox (15.33977pt too wide) in paragraph at lines 371--371
+] [15]
+Overfull \hbox (8.59782pt too wide) in paragraph at lines 396--396
+\T1/ptm/m/n/12 ``Pre-li-mi-na-ry stu-dy on ac-ti-vi-ty mo-ni-to-ring using an a
+ndroid smart-watch'' [kie-lel-lä en]. _Eprint:
+ []
+
+[16
+
+] [17] [18] [19] [20]
+Overfull \hbox (15.33977pt too wide) in paragraph at lines 396--396
 [][]\T1/ptm/m/n/12 Shin, Grace, Eun Jeong Cheon ja Mo-ham-mad Hos-sein Jar-ra-h
 i. 2015. ``Un-ders-tan-ding quantified-
  []
 
-[18]
-Overfull \hbox (1.62518pt too wide) in paragraph at lines 371--371
+
+Overfull \hbox (1.62518pt too wide) in paragraph at lines 396--396
 [][]\T1/ptm/m/n/12 Watson, Andrew M. 2017. ``Sleep and Ath-le-tic Per-for-mance
 '' [kie-lel-lä en-US]. \T1/ptm/m/it/12 Cur-rent Sports
  []
 
-[19] (./kandi.aux)
-
-LaTeX Warning: There were undefined references.
-
+[21] [22] (./kandi.aux)
 Package rerunfilecheck Info: File `kandi.out' has not changed.
 (rerunfilecheck)             Checksum: 7D94244670CF499CF3E91C9D228F9BE4;1937.
-
-Package biblatex Warning: Please rerun LaTeX.
-(biblatex)                Page breaks have changed.
-
 Package logreq Info: Writing requests to 'kandi.run.xml'.
 \openout1 = `kandi.run.xml'.
 
  ) 
 Here is how much of TeX's memory you used:
- 24652 strings out of 478268
- 491117 string characters out of 5846347
- 1528481 words of memory out of 5000000
- 42485 multiletter control sequences out of 15000+600000
+ 24692 strings out of 478268
+ 492144 string characters out of 5846347
+ 1528779 words of memory out of 5000000
+ 42519 multiletter control sequences out of 15000+600000
  509833 words of font info for 83 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  97i,8n,104p,3156b,4691s stack positions out of 10000i,1000n,20000p,200000b,200000s
@@ -1212,10 +1220,10 @@ live/2022/texmf-dist/fonts/type1/urw/courier/ucrr8a.pfb></usr/local/texlive/202
 2/texmf-dist/fonts/type1/urw/times/utmb8a.pfb></usr/local/texlive/2022/texmf-di
 st/fonts/type1/urw/times/utmr8a.pfb></usr/local/texlive/2022/texmf-dist/fonts/t
 ype1/urw/times/utmri8a.pfb>
-Output written on kandi.pdf (23 pages, 127821 bytes).
+Output written on kandi.pdf (26 pages, 132521 bytes).
 PDF statistics:
- 435 PDF objects out of 1000 (max. 8388607)
- 392 compressed objects within 4 object streams
- 79 named destinations out of 1000 (max. 500000)
+ 469 PDF objects out of 1000 (max. 8388607)
+ 422 compressed objects within 5 object streams
+ 85 named destinations out of 1000 (max. 500000)
  105 words of extra memory for PDF output out of 10000 (max. 10000000)
 

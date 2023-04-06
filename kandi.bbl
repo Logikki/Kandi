@@ -521,6 +521,88 @@
       \endverb
       \keyw{Adult,Exercise,Female,Heart Rate,Humans,Light,Male,Middle Aged,Monitoring,Physiologic,Optical Phenomena,Photoplethysmography,Signal-To-Noise Ratio,Skin,Skin Pigmentation,Young Adult}
     \endentry
+    \entry{fonseca_sleep_2015}{article}{}
+      \name{author}{6}{}{%
+        {{un=0,uniquepart=base,hash=db622d388bff2f2c1f23c1efaa8ca9fb}{%
+           family={Fonseca},
+           familyi={F\bibinitperiod},
+           given={Pedro},
+           giveni={P\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=178bca4f77101ad26b30ccbbf26e2132}{%
+           family={Long},
+           familyi={L\bibinitperiod},
+           given={Xi},
+           giveni={X\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=6d1f78c10ad54a72e101f91fb18c6480}{%
+           family={Radha},
+           familyi={R\bibinitperiod},
+           given={Mustafa},
+           giveni={M\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=60616bf56e79aeddf20c55b71f36719a}{%
+           family={Haakma},
+           familyi={H\bibinitperiod},
+           given={Reinder},
+           giveni={R\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=53c442e05d5bd05bf98a269ec602a8aa}{%
+           family={Aarts},
+           familyi={A\bibinitperiod},
+           given={Ronald\bibnamedelima M.},
+           giveni={R\bibinitperiod\bibinitdelim M\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=1983fd9ac60a1f09b0f42dded5791aff}{%
+           family={Rolink},
+           familyi={R\bibinitperiod},
+           given={Jérôme},
+           giveni={J\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{language}{1}{%
+        {en}%
+      }
+      \strng{namehash}{289551bab64baaaa87163a493aab4a94}
+      \strng{fullhash}{d3e704847c1caa7ee6793cdadbc23058}
+      \strng{bibnamehash}{d3e704847c1caa7ee6793cdadbc23058}
+      \strng{authorbibnamehash}{d3e704847c1caa7ee6793cdadbc23058}
+      \strng{authornamehash}{289551bab64baaaa87163a493aab4a94}
+      \strng{authorfullhash}{d3e704847c1caa7ee6793cdadbc23058}
+      \field{sortinit}{F}
+      \field{sortinithash}{2638baaa20439f1b5a8f80c6c08a13b4}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{Automatic sleep stage classification with cardiorespiratory signals has attracted increasing attention. In contrast to the traditional manual scoring based on polysomnography, these signals can be measured using advanced unobtrusive techniques that are currently available, promising the application for personal and continuous home sleep monitoring. This paper describes a methodology for classifying wake, rapid-eye-movement (REM) sleep, and non-REM (NREM) light and deep sleep on a 30 s epoch basis. A total of 142 features were extracted from electrocardiogram and thoracic respiratory effort measured with respiratory inductance plethysmography. To improve the quality of these features, subject-specific Z-score normalization and spline smoothing were used to reduce between-subject and within-subject variability. A modified sequential forward selection feature selector procedure was applied, yielding 80 features while preventing the introduction of bias in the estimation of cross-validation performance. PSG data from 48 healthy adults were used to validate our methods. Using a linear discriminant classifier and a ten-fold cross-validation, we achieved a Cohen’s kappa coefficient of 0.49 and an accuracy of 69\% in the classification of wake, REM, light, and deep sleep. These values increased to kappa = 0.56 and accuracy = 80\% when the classification problem was reduced to three classes, wake, REM sleep, and NREM sleep.}
+      \field{issn}{0967-3334}
+      \field{journaltitle}{Physiological Measurement}
+      \field{month}{8}
+      \field{note}{Publisher: IOP Publishing}
+      \field{number}{10}
+      \field{title}{Sleep stage classification with {ECG} and respiratory effort}
+      \field{urlday}{6}
+      \field{urlmonth}{4}
+      \field{urlyear}{2023}
+      \field{volume}{36}
+      \field{year}{2015}
+      \field{urldateera}{ce}
+      \field{pages}{2027}
+      \range{pages}{1}
+      \verb{doi}
+      \verb 10.1088/0967-3334/36/10/2027
+      \endverb
+      \verb{file}
+      \verb IOP Full Text PDF:/Users/ronikoskinen/Zotero/storage/VKMNP8G5/Fonseca et al. - 2015 - Sleep stage classification with ECG and respirator.pdf:application/pdf
+      \endverb
+      \verb{urlraw}
+      \verb https://dx.doi.org/10.1088/0967-3334/36/10/2027
+      \endverb
+      \verb{url}
+      \verb https://dx.doi.org/10.1088/0967-3334/36/10/2027
+      \endverb
+    \endentry
     \entry{garmin_site}{misc}{}
       \field{sortinit}{G}
       \field{sortinithash}{32d67eca0634bf53703493fb1090a2e8}
@@ -802,6 +884,47 @@
       \field{year}{2018}
       \field{pages}{40\bibrangedash 47}
       \range{pages}{8}
+    \endentry
+    \entry{grifantini_hows_2014}{article}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=3790e97681819f4e7bab2220d39124be}{%
+           family={Grifantini},
+           familyi={G\bibinitperiod},
+           given={Kristina},
+           giveni={K\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{3790e97681819f4e7bab2220d39124be}
+      \strng{fullhash}{3790e97681819f4e7bab2220d39124be}
+      \strng{bibnamehash}{3790e97681819f4e7bab2220d39124be}
+      \strng{authorbibnamehash}{3790e97681819f4e7bab2220d39124be}
+      \strng{authornamehash}{3790e97681819f4e7bab2220d39124be}
+      \strng{authorfullhash}{3790e97681819f4e7bab2220d39124be}
+      \field{sortinit}{G}
+      \field{sortinithash}{32d67eca0634bf53703493fb1090a2e8}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{shorttitle}
+      \field{abstract}{When it comes to health and fitness, there?s an app for just about everything. Want to track how many steps you?ve taken today? There?s an app for that. Want to track the calories you?ve consumed? There?s an app for that, too. And, if you want to know if you got a good night?s sleep last night, well, now there?s also an app for that.}
+      \field{issn}{2154-2317}
+      \field{journaltitle}{IEEE Pulse}
+      \field{month}{9}
+      \field{note}{Conference Name: IEEE Pulse}
+      \field{number}{5}
+      \field{shorttitle}{How's {My} {Sleep}?}
+      \field{title}{How's {My} {Sleep}?: {Personal} sleep trackers are gaining in popularity, but their accuracy is still open to debate}
+      \field{volume}{5}
+      \field{year}{2014}
+      \field{pages}{14\bibrangedash 18}
+      \range{pages}{5}
+      \verb{doi}
+      \verb 10.1109/MPUL.2014.2339252
+      \endverb
+      \verb{file}
+      \verb IEEE Xplore Full Text PDF:/Users/ronikoskinen/Zotero/storage/UBKRYLIV/Grifantini - 2014 - How's My Sleep Personal sleep trackers are gaini.pdf:application/pdf
+      \endverb
+      \keyw{Biomedical monitoring,Heart rate,Sleep,Sleep apnea,Accelerometers,Accuracy,Medical conditions,Tracking}
     \endentry
     \entry{hochstadt_continuous_2020}{article}{}
       \name{author}{10}{}{%
@@ -1125,6 +1248,64 @@
       \verb https://www.mdpi.com/2227-9067/8/7/542
       \endverb
       \keyw{Epworth Sleepiness Scale (ESS),insufficient sleep syndrome,Pittsburgh Sleep Quality Index (PAQI),restfulness,sleep duration,sleepiness}
+    \endentry
+    \entry{krystal_measuring_2008}{article}{}
+      \name{author}{2}{}{%
+        {{un=0,uniquepart=base,hash=d472999ad2f5e11b4d3229518d0a66d4}{%
+           family={Krystal},
+           familyi={K\bibinitperiod},
+           given={Andrew\bibnamedelima D.},
+           giveni={A\bibinitperiod\bibinitdelim D\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=5d2feaec86445ad422cd699e4368490a}{%
+           family={Edinger},
+           familyi={E\bibinitperiod},
+           given={Jack\bibnamedelima D.},
+           giveni={J\bibinitperiod\bibinitdelim D\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{language}{1}{%
+        {en}%
+      }
+      \strng{namehash}{a0320fcc5d2e060ea6f5aac4821d0a0e}
+      \strng{fullhash}{a0320fcc5d2e060ea6f5aac4821d0a0e}
+      \strng{bibnamehash}{a0320fcc5d2e060ea6f5aac4821d0a0e}
+      \strng{authorbibnamehash}{a0320fcc5d2e060ea6f5aac4821d0a0e}
+      \strng{authornamehash}{a0320fcc5d2e060ea6f5aac4821d0a0e}
+      \strng{authorfullhash}{a0320fcc5d2e060ea6f5aac4821d0a0e}
+      \field{sortinit}{K}
+      \field{sortinithash}{c02bf6bff1c488450c352b40f5d853ab}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{Despite being used commonly in sleep medicine, the term “sleep quality” has not been rigorously defined. The purpose of this article is to consider objective measures of the subjective “sleep quality” experience. In order to do so, it was necessary to choose a definition of “sleep quality” as a basis for discussion. We have chosen to employ the simple Likert-style rating of (the previous night's) sleep quality, commonly included as an item on sleep diaries, as the core sleep quality indicator and focus of this article. The potential objective measures discussed include polysomnography, cyclic alternating pattern and actigraphy. We review the strengths and weaknesses of these measures as well as discuss challenges facing the development of an objective correlate of “sleep quality” ratings, including that such ratings may reflect non-sleep phenomena such as mood or health status and the possibility that “sleep quality” may reflect different aspects of sleep among people. We also discuss new approaches intended to address these challenges, including: (1) combining different types of measures; (2) sub-grouping individuals based on clinical or physiological characteristics and developing different measures in these subgroups; and (3) sub-grouping based on the association of potential measures and quality ratings over nights.}
+      \field{issn}{1389-9457}
+      \field{journaltitle}{Sleep Medicine}
+      \field{month}{9}
+      \field{series}{The {Art} of {Good} {Sleep} {Proceedings} from the 5 {International} {Sleep} {Disorders} {Forum}: {Novel} {Outcome} {Measures} of {Sleep}, {Sleep} {Loss} and {Insomnia}}
+      \field{title}{Measuring sleep quality}
+      \field{urlday}{6}
+      \field{urlmonth}{4}
+      \field{urlyear}{2023}
+      \field{volume}{9}
+      \field{year}{2008}
+      \field{urldateera}{ce}
+      \field{pages}{S10\bibrangedash S17}
+      \range{pages}{-1}
+      \verb{doi}
+      \verb 10.1016/S1389-9457(08)70011-X
+      \endverb
+      \verb{file}
+      \verb ScienceDirect Full Text PDF:/Users/ronikoskinen/Zotero/storage/EFKZDQ8H/Krystal and Edinger - 2008 - Measuring sleep quality.pdf:application/pdf;ScienceDirect Snapshot:/Users/ronikoskinen/Zotero/storage/7RJNHYTZ/S138994570870011X.html:text/html
+      \endverb
+      \verb{urlraw}
+      \verb https://www.sciencedirect.com/science/article/pii/S138994570870011X
+      \endverb
+      \verb{url}
+      \verb https://www.sciencedirect.com/science/article/pii/S138994570870011X
+      \endverb
+      \keyw{Electroencephalogram,Objective measures,Polysomnography,Sleep diary,Sleep quality,Subjective measures}
     \endentry
     \entry{liang2018validity}{article}{}
       \name{author}{2}{}{%

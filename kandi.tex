@@ -9,7 +9,6 @@
   separate-uncertainty = true,
   multi-part-units = repeat
 ]{siunitx}
-
 \usepackage{booktabs} % good for beautiful tables
 
 % NOTE: This must be the last \usepackage in the whole document!
@@ -143,14 +142,22 @@ Roni Koskinen
         Tutkimuksen mukaan laitteet korreloivat elektrodiagrammin mittauksiin seuraavan kaavion mukaisesti.\\
 
 
-  \begin{table}[h]
+  \begin{table}[H]
     \begin{center}
-      \begin{tabular}{||c c c c c||} 
+      \begin{tabular}{||c c||} 
        \hline
-       Polar H7 & Apple Watch & Mio Fuse & Fitbit Charge HR & Basis Peak \\ [0.5ex] 
+       Älykello & Korrelaatio\\
        \hline\hline
-       0,99 (0,987-0,991) & 0,91 (0,884-0,929) & 0,91 (0,882-0,929)& 0,84 (0,791-0,872)& 0,83 (0,779-0,865)\\
+       Polar H7 & 0,99 (0,987-0,991)\\
        \hline
+      Apple Watch & 0,91 (0,884-0,929)\\
+      \hline
+      Mio Fuse & 0,91 (0,882-0,929)\\
+      \hline
+      Fitbit Charge HR & 0,84 (0,791-0,872)\\
+      \hline
+      Basis Peak & 0,83 (0,779-0,865)\\[0.5ex]
+      \hline
       \end{tabular}
     \caption{Älykellojen sykemittauksen tarkkuuden korrelaatio elektrodiagrammin sykemittaukseen \parencite{wang_accuracy_2017}}
       \end{center}
@@ -369,9 +376,17 @@ Unen mittauksen tarkkuus riippuu siitä, mitä arvoja halutaan mitata. Unen pitu
   ja unen laatu on erittäin tärkeä arvo arvioidessa unta sen pituuden ohella \parencite{kohyama_which_2021}. Unen vaiheiden
    tarkempi arviointi olisi siis tärkeää unen arvioimisen laadukkuuden kannalta.\\
   
-SpO2 mittaus ei älykelloissa ollut niin tarkka, että voitaisiin sanoa sen olevan tarkka, tai varsinkaan valmis käytettäväksi lääketieteessä.
+SpO2 mittaus ei älykelloissa ollut niin tarkka, että voitaisiin sanoa älykellojen suoriutuvan mittauksesta hyvin.
  \textcite{patz_accuracy_2023} mukaan mittauksista noin 85\% oli oikein. Tulokset voivat siis antaa arviota SpO2 arvosta, mutta niitä ei tule ottaa
-  täysin totena.
+  täysin totena.\\
+
+Tässä kandidaatintutkielmassa on vahvuutena se, että tutkielman laatimiseen on hyödynnetty useita eri tutkimuksia, ja yhdistelty näiden tuloksia toisiinsa.
+ Tutkimukset mittauksien tarkkuuksista ovat olleet myös suhteellisen tuoreita, sillä ne on julkaistu vuonna 2016 tai sen jälkeen.
+  Heikkouksina tutkielmassa on se, että tekniikka kehittyy nopeasti, ja tutkimuksia ei ole saatavilla uusimmista äly- tai urheilukelloista.
+   Tämä on rajoite senkin vuoksi, että melkein joka vuosi tulee uusia malleja, ja tutkimusten tekemisen tekeminen kestää, joten uusista malleista
+    ei vielä voikaan olla tarkkaa tietoa saatavilla.
+     Toinen heikkous on se, että tutkielman teknologinen rajaus on laaja. Tutkielmaan otettiin mukaan monen eri valmistajan laitteita, ja niissä
+      on keskenään suuriakin tarkkuus eroja. Rajauksen vuoksi tutkielma voitaisiin tehdä ainoastaan käyttäen tiettyä äly- tai urheilukello mallia.
 
 
 % The last chapter of a thesis is the Conclusion (some authors use

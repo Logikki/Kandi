@@ -1,15 +1,15 @@
 [0] Config.pm:307> INFO - This is Biber 2.17
 [0] Config.pm:310> INFO - Logfile is 'kandi.blg'
-[68] biber-darwin:340> INFO - === Thu Apr  6, 2023, 15:53:07
-[85] Biber.pm:418> INFO - Reading 'kandi.bcf'
-[262] Biber.pm:972> INFO - Found 42 citekeys in bib section 0
-[277] Biber.pm:4383> INFO - Processing section 0
-[287] Biber.pm:4574> INFO - Looking for bibtex file 'references.bib' for section 0
-[295] bibtex.pm:1713> INFO - LaTeX decoding ...
-[409] bibtex.pm:1518> INFO - Found BibTeX data source 'references.bib'
-[691] UCollate.pm:68> INFO - Overriding locale 'fi' defaults 'level = 4' with 'level = 2'
-[691] UCollate.pm:68> INFO - Overriding locale 'fi' defaults 'normalization = NFD' with 'normalization = prenormalized'
-[691] UCollate.pm:68> INFO - Overriding locale 'fi' defaults 'variable = shifted' with 'variable = non-ignorable'
-[691] Biber.pm:4203> INFO - Sorting list 'cms/global//global/global' of type 'entry' with template 'cms' and locale 'fi'
-[746] bbl.pm:654> INFO - Writing 'kandi.bbl' with encoding 'UTF-8'
-[784] bbl.pm:757> INFO - Output to kandi.bbl
+[64] biber-darwin:340> INFO - === Mon Apr 10, 2023, 11:52:44
+[81] Biber.pm:418> INFO - Reading 'kandi.bcf'
+[258] Biber.pm:972> INFO - Found 42 citekeys in bib section 0
+[271] Biber.pm:4383> INFO - Processing section 0
+[281] Biber.pm:4574> INFO - Looking for bibtex file 'references.bib' for section 0
+[289] bibtex.pm:1713> INFO - LaTeX decoding ...
+[401] bibtex.pm:1518> INFO - Found BibTeX data source 'references.bib'
+[679] UCollate.pm:68> INFO - Overriding locale 'fi' defaults 'normalization = NFD' with 'normalization = prenormalized'
+[682] UCollate.pm:68> INFO - Overriding locale 'fi' defaults 'variable = shifted' with 'variable = non-ignorable'
+[682] UCollate.pm:68> INFO - Overriding locale 'fi' defaults 'level = 4' with 'level = 2'
+[682] Biber.pm:4203> INFO - Sorting list 'cms/global//global/global' of type 'entry' with template 'cms' and locale 'fi'
+[734] bbl.pm:654> INFO - Writing 'kandi.bbl' with encoding 'UTF-8'
+[785] bbl.pm:757> INFO - Output to kandi.bbl

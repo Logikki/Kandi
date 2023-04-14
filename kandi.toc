@@ -12,3 +12,4 @@
 \contentsline {section}{\numberline {3.5}Askeleet}{12}{section.3.5}%
 \contentsline {section}{\numberline {3.6}Happisaturaation mittaus}{13}{section.3.6}%
 \contentsline {chapter}{\numberline {4}Johtopäätökset}{14}{chapter.4}%
+\contentsline {chapter}{L\"ahteet}{16}{section*.2}%

@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.24 (TeX Live 2022) (preloaded format=pdflatex 2023.1.19)  10 APR 2023 11:52
+This is pdfTeX, Version 3.141592653-2.6-1.40.24 (TeX Live 2022) (preloaded format=pdflatex 2023.1.19)  14 APR 2023 15:17
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -832,12 +832,11 @@ Package biblatex Info: Automatic encoding selection.
 \openout3 = `kandi.bcf'.
 
 Package biblatex Info: Trying to load bibliographic data...
-Package biblatex Info: ... file 'kandi.bbl' found.
+Package biblatex Info: ... file 'kandi.bbl' not found.
 
-(./kandi.bbl)
+No file kandi.bbl.
 Package biblatex Info: Reference section=0 on input line 19.
 Package biblatex Info: Reference segment=0 on input line 19.
-
 (/usr/local/texlive/2022/texmf-dist/tex/context/base/mkii/supp-pdf.mkii
 [Loading MPS to PDF converter (version 2006.09.02).]
 \scratchcounter=\count441
@@ -886,49 +885,49 @@ LaTeX Info: Redefining \nameref on input line 19.
 \openout4 = `kandi.out'.
 
 LaTeX Font Info:    Trying to load font information for OT1+ztmcm on input line
- 49.
+ 56.
 
 (/usr/local/texlive/2022/texmf-dist/tex/latex/psnfss/ot1ztmcm.fd
 File: ot1ztmcm.fd 2000/01/03 Fontinst v1.801 font definitions for OT1/ztmcm.
 )
 LaTeX Font Info:    Trying to load font information for OML+ztmcm on input line
- 49.
+ 56.
 
 (/usr/local/texlive/2022/texmf-dist/tex/latex/psnfss/omlztmcm.fd
 File: omlztmcm.fd 2000/01/03 Fontinst v1.801 font definitions for OML/ztmcm.
 )
 LaTeX Font Info:    Trying to load font information for OMS+ztmcm on input line
- 49.
+ 56.
 
 (/usr/local/texlive/2022/texmf-dist/tex/latex/psnfss/omsztmcm.fd
 File: omsztmcm.fd 2000/01/03 Fontinst v1.801 font definitions for OMS/ztmcm.
 )
 LaTeX Font Info:    Trying to load font information for OMX+ztmcm on input line
- 49.
+ 56.
 
 (/usr/local/texlive/2022/texmf-dist/tex/latex/psnfss/omxztmcm.fd
 File: omxztmcm.fd 2000/01/03 Fontinst v1.801 font definitions for OMX/ztmcm.
 )
-LaTeX Font Info:    Trying to load font information for OT1+ptm on input line 4
-9.
+LaTeX Font Info:    Trying to load font information for OT1+ptm on input line 5
+6.
 
 (/usr/local/texlive/2022/texmf-dist/tex/latex/psnfss/ot1ptm.fd
 File: ot1ptm.fd 2001/06/04 font definitions for OT1/ptm.
 )
 LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <17.28> not available
-(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 49.
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 56.
 LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <12> not available
-(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 49.
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 56.
 LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <10> not available
-(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 49.
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 56.
 LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <9> not available
-(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 49.
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 56.
 LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <7> not available
-(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 49.
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 56.
  [1
 
 {/usr/local/texlive/2022/texmf-var/fonts/map/pdftex/updmap/pdftex.map}]
-LaTeX Font Info:    Trying to load font information for T1+pcr on input line 49
+LaTeX Font Info:    Trying to load font information for T1+pcr on input line 56
 .
 
 (/usr/local/texlive/2022/texmf-dist/tex/latex/psnfss/t1pcr.fd
@@ -945,7 +944,7 @@ File: t1pcr.fd 2001/06/04 font definitions for T1/pcr.
 
 ] (./kandi.toc
 Overfull \hbox (1.20001pt too wide) detected at line 11
- [][]\T1/ptm/m/n/12 10[]
+ [][]\T1/ptm/m/n/12 11[]
  []
 
 
@@ -963,11 +962,6 @@ Overfull \hbox (1.20001pt too wide) detected at line 14
  [][]\T1/ptm/m/n/12 14[]
  []
 
-
-Overfull \hbox (1.20001pt too wide) detected at line 15
- [][]\T1/ptm/m/n/12 16[]
- []
-
 )
 \tf@toc=\write7
 \openout7 = `kandi.toc'.
@@ -977,12 +971,26 @@ Overfull \hbox (1.20001pt too wide) detected at line 15
 ]
 Luku 1.
 
-Underfull \hbox (badness 10000) in paragraph at lines 64--71
+LaTeX Warning: Citation 'petrusevski_interventions_2021' on page 1 undefined on
+ input line 71.
+
+
+LaTeX Warning: Citation 'shin2015understanding' on page 1 undefined on input li
+ne 73.
+
+
+Overfull \hbox (108.64857pt too wide) in paragraph at lines 71--78
+\T1/ptm/m/n/12 ker-ro-taan edis-tä-vän ter-veel-li-sem-piä elä-män-ta-po-ja, te
+-ke-mäl-lä ak-tii-vi-suus-da-tas-ta nä-ky-vän ([]).
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 71--78
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 72--75
+Underfull \hbox (badness 10000) in paragraph at lines 79--82
 
  []
 
@@ -992,17 +1000,54 @@ Underfull \hbox (badness 10000) in paragraph at lines 72--75
 ]
 Luku 2.
 
-Underfull \hbox (badness 10000) in paragraph at lines 92--96
+LaTeX Warning: Citation 'godfrey2018z' on page 2 undefined on input line 95.
+
+
+LaTeX Warning: Citation 'Yasar_what_wearable' on page 2 undefined on input line
+ 97.
+
+
+LaTeX Warning: Citation 'godfrey2018z' on page 2 undefined on input line 100.
+
+
+LaTeX Warning: Citation 'godfrey2018z' on page 2 undefined on input line 102.
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 99--103
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 98--101
+LaTeX Warning: Citation 'godfrey2018z' on page 2 undefined on input line 105.
+
+
+LaTeX Warning: Citation 'Gregersen_watch_2023' on page 2 undefined on input lin
+e 106.
+
+
+LaTeX Warning: Citation 'rawassizadeh_wearables_2014' on page 2 undefined on in
+put line 107.
+
+
+Overfull \hbox (19.20122pt too wide) in paragraph at lines 105--108
+\T1/ptm/m/n/12 kel-lot tar-koit-ta-vat pu-he-li-men-kal-tai-sia lait-tei-ta, jo
+i-ta pue-taan ran-tees-sa ([]).
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 105--108
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 102--106
+LaTeX Warning: Citation 'sportswatch_tfd' on page 2 undefined on input line 110
+.
+
+
+LaTeX Warning: Citation 'garmin_site' on page 2 undefined on input line 112.
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 109--113
 
  []
 
@@ -1011,29 +1056,117 @@ Underfull \hbox (badness 10000) in paragraph at lines 102--106
 ] [3]
 Luku 3.
 
-Underfull \hbox (badness 10000) in paragraph at lines 108--110
+Underfull \hbox (badness 10000) in paragraph at lines 115--117
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 125--129
+LaTeX Warning: Citation 'noauthor_heart_nodate' on page 4 undefined on input li
+ne 122.
+
+
+LaTeX Warning: Citation 'noauthor_heart_nodate' on page 4 undefined on input li
+ne 123.
+
+
+LaTeX Warning: Citation 'shcherbina_accuracy_2017' on page 4 undefined on input
+ line 126.
+
+
+LaTeX Warning: Citation 'hochstadt_continuous_2020' on page 4 undefined on inpu
+t line 126.
+
+
+LaTeX Warning: Citation 'pasadyn_accuracy_2019' on page 4 undefined on input li
+ne 127.
+
+
+LaTeX Warning: Citation 'sanudo_pilot_2019' on page 4 undefined on input line 1
+28.
+
+
+LaTeX Warning: Citation 'bent_investigating_2020' on page 4 undefined on input 
+line 128.
+
+
+Overfull \hbox (108.83572pt too wide) in paragraph at lines 120--129
+\T1/ptm/m/n/12 ti-rii-tai-sia tut-ki-mus-tu-lok-sia ([]). Esi-mer-kik-si []; []
+
+ []
+
+
+LaTeX Warning: Citation 'noauthor_heart_nodate' on page 4 undefined on input li
+ne 133.
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 131--135
+
+ []
+
+
+LaTeX Warning: Citation 'noauthor_heart_nodate' on page 4 undefined on input li
+ne 138.
+
+
+LaTeX Warning: Citation 'gilgen-ammann_rr_2019' on page 4 undefined on input li
+ne 141.
+
+
+LaTeX Warning: Citation 'nelson_accuracy_2019' on page 4 undefined on input lin
+e 141.
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 138--142
 
  []
 
 [4
 
 ]
-Underfull \hbox (badness 10000) in paragraph at lines 132--136
+
+LaTeX Warning: Citation 'wang_accuracy_2017' on page 5 undefined on input line 
+144.
+
+
+LaTeX Warning: Citation 'wang_accuracy_2017' on page 5 undefined on input line 
+147.
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 144--149
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 138--143
+LaTeX Warning: Citation 'wang_accuracy_2017' on page 5 undefined on input line 
+168.
+
+
+LaTeX Warning: Citation 'wang_accuracy_2017' on page 5 undefined on input line 
+168.
+
+
+LaTeX Warning: Citation 'wang_accuracy_2017' on page 5 undefined on input line 
+172.
+
+
+LaTeX Warning: Citation 'wang_accuracy_2017' on page 5 undefined on input line 
+173.
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 172--175
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 166--169
+LaTeX Warning: Citation 'nelson_accuracy_2019' on page 5 undefined on input lin
+e 176.
+
+
+LaTeX Warning: Citation 'nelson_accuracy_2019' on page 5 undefined on input lin
+e 178.
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 176--179
 
  []
 
@@ -1042,19 +1175,63 @@ pdfTeX warning (ext4): destination with the same identifier (name{table.3.1}) h
 as been already used, duplicate ignored
 <argument> ...shipout:D \box_use:N \l_shipout_box 
                                                   \__shipout_drop_firstpage_...
-l.169 
+l.179 
       ]
-Underfull \hbox (badness 10000) in paragraph at lines 170--173
+
+LaTeX Warning: Citation 'nelson_accuracy_2019' on page 6 undefined on input lin
+e 197.
+
+
+LaTeX Warning: Citation 'nelson_accuracy_2019' on page 6 undefined on input lin
+e 197.
+
+
+Underfull \hbox (badness 1902) in paragraph at lines 197--197
+[]\T1/ptm/m/n/12 Taulukko 2. []Apple Watch 3 ja Fit-bit Char-ge 2 sy-ke-mit-tau
+k-sen ero EKG mit-ta-rin
+ []
+
+
+Underfull \hbox (badness 1292) in paragraph at lines 197--197
+\T1/ptm/m/n/12 tu-lok-siin. Ar-vot ku-vaa-vat suh-teel-li-sen vir-heen kes-ki-m
+ää-räis-tä ar-voa (MA-PE). Läh-de:
+ []
+
+
+LaTeX Warning: Citation 'wang_accuracy_2017' on page 6 undefined on input line 
+201.
+
+
+LaTeX Warning: Citation 'koerber_accuracy_2022' on page 6 undefined on input li
+ne 202.
+
+
+LaTeX Warning: Citation 'pasadyn_accuracy_2019' on page 6 undefined on input li
+ne 202.
+
+
+LaTeX Warning: Citation 'hochstadt_continuous_2020' on page 6 undefined on inpu
+t line 202.
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 201--204
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 195--198
+LaTeX Warning: Citation 'pasadyn_accuracy_2019' on page 6 undefined on input li
+ne 205.
 
- []
+
+LaTeX Warning: Citation 'pasadyn_accuracy_2019' on page 6 undefined on input li
+ne 207.
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 199--204
+LaTeX Warning: Citation 'pasadyn_accuracy_2019' on page 6 undefined on input li
+ne 209.
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 205--210
 
  []
 
@@ -1063,178 +1240,599 @@ pdfTeX warning (ext4): destination with the same identifier (name{table.3.2}) h
 as been already used, duplicate ignored
 <argument> ...shipout:D \box_use:N \l_shipout_box 
                                                   \__shipout_drop_firstpage_...
-l.204 
+l.210 
       ]
-Underfull \hbox (badness 10000) in paragraph at lines 218--223
+
+LaTeX Warning: Citation 'pasadyn_accuracy_2019' on page 7 undefined on input li
+ne 214.
+
+
+LaTeX Warning: Citation 'wang_accuracy_2017' on page 7 undefined on input line 
+214.
+
+
+LaTeX Warning: Citation 'nelson_accuracy_2019' on page 7 undefined on input lin
+e 214.
+
+
+LaTeX Warning: Citation 'shcherbina_accuracy_2017' on page 7 undefined on input
+ line 215.
+
+
+LaTeX Warning: Citation 'hochstadt_continuous_2020' on page 7 undefined on inpu
+t line 215.
+
+
+LaTeX Warning: Citation 'koerber_accuracy_2022' on page 7 undefined on input li
+ne 216.
+
+
+LaTeX Warning: Citation 'pasadyn_accuracy_2019' on page 7 undefined on input li
+ne 216.
+
+
+LaTeX Warning: Citation 'koerber_accuracy_2022' on page 7 undefined on input li
+ne 218.
+
+
+LaTeX Warning: Citation 'fallow_influence_2013' on page 7 undefined on input li
+ne 219.
+
+
+Overfull \hbox (5.32587pt too wide) in paragraph at lines 212--220
+\T1/ptm/m/n/12 ku-ten ihon-vä-ri tai su-ku-puo-li []; []. Tut-
+ []
+
+
+Overfull \hbox (61.98007pt too wide) in paragraph at lines 212--220
+\T1/ptm/m/n/12 ki-mus-tu-lok-set yk-si-löl-lis-ten te-ki-jöi-den vai-ku-tuk-sis
+-ta ovat kui-ten-kin ris-ti-rii-tai-sia ([];
+ []
+
+
+Overfull \hbox (71.95807pt too wide) in paragraph at lines 212--220
+\T1/ptm/m/n/12 hit-ty-nyt niin, et-tä esi-mer-kik-si ihon-vä-rin tum-muus ei en
+ää vai-ku-ta mit-taus-tu-lok-siin. []
+ []
+
+
+LaTeX Warning: Citation 'watson_sleep_2017' on page 7 undefined on input line 2
+25.
+
+
+LaTeX Warning: Citation 'watson_sleep_2017' on page 7 undefined on input line 2
+26.
+
+
+LaTeX Warning: Citation 'de_zambotti_measures_2016' on page 7 undefined on inpu
+t line 228.
+
+
+LaTeX Warning: Citation 'rundo_chapter_2019' on page 7 undefined on input line 
+228.
+
+
+LaTeX Warning: Citation 'miller_validation_2022' on page 7 undefined on input l
+ine 228.
+
+
+Overfull \hbox (44.66524pt too wide) in paragraph at lines 224--229
+\T1/ptm/m/n/12 stan-dard"unen mit-taus-me-ne-tel-mään, eli po-ly-gra-fia-mit-ta
+uk-seen (PSG) ([];
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 224--229
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 224--231
+LaTeX Warning: Citation 'kohyama_which_2021' on page 7 undefined on input line 
+233.
+
+
+LaTeX Warning: Citation 'krystal_measuring_2008' on page 7 undefined on input l
+ine 235.
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 230--237
 
  []
 
 [7]
-Underfull \hbox (badness 10000) in paragraph at lines 232--238
+
+LaTeX Warning: Citation 'grifantini_hows_2014' on page 8 undefined on input lin
+e 240.
+
+
+LaTeX Warning: Citation 'de_zambotti_measures_2016' on page 8 undefined on inpu
+t line 240.
+
+
+LaTeX Warning: Citation 'de_zambotti_measures_2016' on page 8 undefined on inpu
+t line 242.
+
+
+LaTeX Warning: Citation 'fonseca_sleep_2015' on page 8 undefined on input line 
+242.
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 238--244
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 241--245
+Underfull \hbox (badness 10000) in paragraph at lines 247--251
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 246--251
+LaTeX Warning: Citation 'liang2018validity' on page 8 undefined on input line 2
+52.
+
+
+LaTeX Warning: Citation 'de_zambotti_measures_2016' on page 8 undefined on inpu
+t line 253.
+
+
+LaTeX Warning: Citation 'de_zambotti_measures_2016' on page 8 undefined on inpu
+t line 255.
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 252--257
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 252--256
+LaTeX Warning: Citation 'chinoy_performance_2022' on page 8 undefined on input 
+line 258.
+
+
+LaTeX Warning: Citation 'chinoy_performance_2022' on page 8 undefined on input 
+line 260.
+
+
+LaTeX Warning: Citation 'chinoy_performance_2022' on page 8 undefined on input 
+line 261.
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 258--262
 
  []
 
 [8]
-Underfull \hbox (badness 10000) in paragraph at lines 264--268
+
+LaTeX Warning: Citation 'de_zambotti_measures_2016' on page 9 undefined on inpu
+t line 264.
+
+
+LaTeX Warning: Citation 'liang2018validity' on page 9 undefined on input line 2
+64.
+
+
+LaTeX Warning: Citation 'chinoy_performance_2022' on page 9 undefined on input 
+line 264.
+
+
+LaTeX Warning: Citation 'miller_validation_2022' on page 9 undefined on input l
+ine 264.
+
+
+LaTeX Warning: Citation 'chinoy_performance_2022' on page 9 undefined on input 
+line 266.
+
+
+LaTeX Warning: Citation 'de_zambotti_measures_2016' on page 9 undefined on inpu
+t line 266.
+
+
+LaTeX Warning: Citation 'liang2018validity' on page 9 undefined on input line 2
+66.
+
+
+Overfull \hbox (75.39455pt too wide) in paragraph at lines 263--267
+\T1/ptm/m/n/12 ([]; []; []; []).
+ []
+
+
+LaTeX Warning: Citation 'gilgen-ammann_accuracy_2020' on page 9 undefined on in
+put line 271.
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 270--274
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 269--275
+LaTeX Warning: Citation 'gilgen-ammann_accuracy_2020' on page 9 undefined on in
+put line 275.
+
+
+LaTeX Warning: Citation 'hofmann2007gnss' on page 9 undefined on input line 277
+.
+
+
+LaTeX Warning: Citation 'ammann_accuracy_2016' on page 9 undefined on input lin
+e 278.
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 275--281
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 276--279
+LaTeX Warning: Citation 'cummins_global_2013' on page 9 undefined on input line
+ 283.
+
+
+LaTeX Warning: Citation 'baranski_enhancing_2012' on page 9 undefined on input 
+line 284.
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 282--285
 
  []
 
 [9]
-Underfull \hbox (badness 10000) in paragraph at lines 280--283
+
+LaTeX Warning: Citation 'gilgen-ammann_accuracy_2020' on page 10 undefined on i
+nput line 286.
+
+
+LaTeX Warning: Citation 'gilgen-ammann_accuracy_2020' on page 10 undefined on i
+nput line 288.
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 286--289
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 284--287
+LaTeX Warning: Citation 'johansson_accuracy_2020' on page 10 undefined on input
+ line 290.
+
+
+LaTeX Warning: Citation 'gilgen-ammann_accuracy_2020' on page 10 undefined on i
+nput line 294.
+
+
+LaTeX Warning: Citation 'johansson_accuracy_2020' on page 10 undefined on input
+ line 294.
+
+
+LaTeX Warning: Citation 'johansson_accuracy_2020' on page 10 undefined on input
+ line 295.
+
+
+Overfull \hbox (55.45395pt too wide) in paragraph at lines 290--297
+\T1/ptm/m/n/12 kuus oli tar-kim-mil-laan $\OT1/ztmcm/m/n/12 0\OML/ztmcm/m/it/12
+ :\OT1/ztmcm/m/n/12 6 %[] \OMS/ztmcm/m/n/12 ^^F \OT1/ztmcm/m/n/12 0\OML/ztmcm/m
+/it/12 :\OT1/ztmcm/m/n/12 3 %$ \T1/ptm/m/n/12 ja epä-tar-kim-mil-laan $\OT1/ztm
+cm/m/n/12 1\OML/ztmcm/m/it/12 :\OT1/ztmcm/m/n/12 6 %[] \OMS/ztmcm/m/n/12 ^^F \O
+T1/ztmcm/m/n/12 0\OML/ztmcm/m/it/12 :\OT1/ztmcm/m/n/12 9 %$\T1/ptm/m/n/12 . (Me
+-di-aa-ni $\OMS/ztmcm/m/n/12 ^^F$ \T1/ptm/m/n/12 IQR)(Kvartiiliväli,
+ []
+
+
+Overfull \hbox (5.38147pt too wide) in paragraph at lines 290--297
+\T1/ptm/m/n/12 muk-ses-sa. Pu-he-li-met oli-vat tut-kim-nuk-sen epä-tar-kim-pia
+ lait-tei-ta ([]).
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 290--297
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 293--298
+LaTeX Warning: Citation 'gilgen-ammann_accuracy_2020' on page 10 undefined on i
+nput line 298.
+
+
+LaTeX Warning: Citation 'johansson_accuracy_2020' on page 10 undefined on input
+ line 298.
+
+
+LaTeX Warning: Citation 'baranski_enhancing_2012' on page 10 undefined on input
+ line 300.
+
+
+Overfull \hbox (89.51259pt too wide) in paragraph at lines 298--301
+\T1/ptm/m/n/12 kä pyö-räi-ly suo-ri-tus-ten pi-tuu-den mit-tauk-ses-sa ([]; [])
+.
+ []
+
+
+LaTeX Warning: Citation 'ammann_accuracy_2016' on page 10 undefined on input li
+ne 303.
+
+
+LaTeX Warning: Citation 'ammann_accuracy_2016' on page 10 undefined on input li
+ne 304.
+
+
+LaTeX Warning: Citation 'aroganam2019review' on page 10 undefined on input line
+ 305.
+
+
+LaTeX Warning: Citation 'aroganam2019review' on page 10 undefined on input line
+ 306.
+
+
+LaTeX Warning: Citation 'aroganam2019review' on page 10 undefined on input line
+ 307.
+
+
+Overfull \hbox (26.41267pt too wide) in paragraph at lines 303--308
+\T1/ptm/m/n/12 Äly- ja ur-hei-lu-kel-lot käyt-tä-vät kor-keu-den mit-taa-mi-see
+n ba-ro-met-ris-tä sen-so-ria tai GPS-paikantimen
+ []
+
+
+Overfull \hbox (16.75307pt too wide) in paragraph at lines 303--308
+\T1/ptm/m/n/12 ja-ta ba-ro-met-rin mah-dol-li-set ul-koi-sis-ta sei-kois-ta joh
+-tu-vat mit-taus-vir-heet ([]). 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 303--308
 
  []
 
 [10]
-Underfull \hbox (badness 10000) in paragraph at lines 299--303
+
+LaTeX Warning: Citation 'manivannan_challenges_2020' on page 11 undefined on in
+put line 309.
+
+
+LaTeX Warning: Citation 'manivannan_challenges_2020' on page 11 undefined on in
+put line 310.
+
+
+LaTeX Warning: Citation 'ammann_accuracy_2016' on page 11 undefined on input li
+ne 310.
+
+
+LaTeX Warning: Citation 'manivannan_challenges_2020' on page 11 undefined on in
+put line 311.
+
+
+Overfull \hbox (64.74461pt too wide) in paragraph at lines 309--313
+\T1/ptm/m/n/12 ot-taa huo-mioon lait-teen tark-kuut-ta tut-kies-sa ([]; []).
+ []
+
+
+Overfull \hbox (120.06204pt too wide) in paragraph at lines 309--313
+\T1/ptm/m/n/12 Ba-ro-met-rin tark-kuu-teen voi vai-kut-taa myös ym-pä-ris-tö, k
+or-keus ja sen-so-rin tark-kuus ([].)
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 309--313
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 304--310
+LaTeX Warning: Citation 'ammann_accuracy_2016' on page 11 undefined on input li
+ne 314.
+
+
+LaTeX Warning: Citation 'ammann_accuracy_2016' on page 11 undefined on input li
+ne 319.
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 314--320
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 311--315
+LaTeX Warning: Citation 'ammann_accuracy_2016' on page 11 undefined on input li
+ne 324.
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 321--325
 
  []
 
+[11]
 
-Overfull \hbox (8.6416pt too wide) in paragraph at lines 316--319
+LaTeX Warning: Citation 'ammann_accuracy_2016' on page 12 undefined on input li
+ne 327.
+
+
+Overfull \hbox (18.50471pt too wide) in paragraph at lines 326--329
+\T1/ptm/m/n/12 2008, 2012 ja 2013. Tek-niik-ka on voi-nut siis ke-hit-tyä tä-hä
+n men-nes-sä. []
+ []
+
+
+Overfull \hbox (8.6416pt too wide) in paragraph at lines 326--329
 \T1/ptm/m/n/12 tea-vat, et-tä mit-tauk-siin saat-toi vai-kut-taa esi-mer-kik-si
  sää-olo-suh-tei-den muu-tos, tai GPS-signaalin
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 316--319
-
- []
-
-[11]
-Underfull \hbox (badness 10000) in paragraph at lines 321--326
+Underfull \hbox (badness 10000) in paragraph at lines 326--329
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 327--331
+LaTeX Warning: Citation 'gaz_determining_2018' on page 12 undefined on input li
+ne 331.
+
+
+LaTeX Warning: Citation 'gaz_determining_2018' on page 12 undefined on input li
+ne 335.
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 331--336
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 338--340
+LaTeX Warning: Citation 'ahanathapillai_preliminary_2015' on page 12 undefined 
+on input line 337.
+
+
+LaTeX Warning: Citation 'gaz_determining_2018' on page 12 undefined on input li
+ne 337.
+
+
+LaTeX Warning: Citation 'ahanathapillai_preliminary_2015' on page 12 undefined 
+on input line 340.
+
+
+Overfull \hbox (103.2003pt too wide) in paragraph at lines 337--341
+\T1/ptm/m/n/12 Tark-kuus kui-ten-kin kär-si kä-vel-les-sä por-tais-sa tai päi-v
+i-tys-taa-juu-den las-kies-sa ([].) 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 337--341
 
  []
 
-[12] [13]
+
+LaTeX Warning: Citation 'gaz_determining_2018' on page 12 undefined on input li
+ne 343.
+
+
+LaTeX Warning: Citation 'ahanathapillai_preliminary_2015' on page 12 undefined 
+on input line 343.
+
+
+LaTeX Warning: Citation 'gaz_determining_2018' on page 12 undefined on input li
+ne 344.
+
+
+LaTeX Warning: Citation 'zhang_can_2022' on page 12 undefined on input line 348
+.
+
+
+LaTeX Warning: Citation 'zhang_can_2022' on page 12 undefined on input line 349
+.
+
+
+Overfull \hbox (13.0225pt too wide) in paragraph at lines 348--350
+\T1/ptm/m/n/12 Happisaturaation (SpO2) mit-taus on tul-lut äly-kel-loi-hin vuo-
+den 2021 ai-ka-na ([]).
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 348--350
+
+ []
+
+[12]
+
+LaTeX Warning: Citation 'pipek_comparison_2021' on page 13 undefined on input l
+ine 351.
+
+
+LaTeX Warning: Citation 'pipek_comparison_2021' on page 13 undefined on input l
+ine 352.
+
+
+LaTeX Warning: Citation 'patz_accuracy_2023' on page 13 undefined on input line
+ 357.
+
+
+LaTeX Warning: Citation 'pipek_comparison_2021' on page 13 undefined on input l
+ine 357.
+
+
+LaTeX Warning: Citation 'patz_accuracy_2023' on page 13 undefined on input line
+ 358.
+
+[13]
 Luku 4.
 
-Underfull \hbox (badness 10000) in paragraph at lines 361--367
+Underfull \hbox (badness 10000) in paragraph at lines 371--377
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 368--373
+LaTeX Warning: Citation 'wang_accuracy_2017' on page 14 undefined on input line
+ 382.
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 378--385
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 374--378
+LaTeX Warning: Citation 'krystal_measuring_2008' on page 14 undefined on input 
+line 388.
 
+
+LaTeX Warning: Citation 'kohyama_which_2021' on page 14 undefined on input line
+ 389.
+
+
+Overfull \hbox (76.76991pt too wide) in paragraph at lines 386--391
+\T1/ptm/m/n/12 loil-ta kui-ten-kaan on-nis-tu-nut tar-kas-ti. Unen vai-heet ova
+t yh-tey-des-sä unen laa-tuun ([]),
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 379--382
+Overfull \hbox (24.55452pt too wide) in paragraph at lines 386--391
+\T1/ptm/m/n/12 ja unen laa-tu on erit-täin tär-keä ar-vo ar-vioi-des-sa un-ta s
+en pi-tuu-den ohel-la ([]).
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 386--391
 
  []
 
 [14
 
-] [15]
-Overfull \hbox (8.59782pt too wide) in paragraph at lines 411--411
-\T1/ptm/m/n/12 ``Pre-li-mi-na-ry stu-dy on ac-ti-vi-ty mo-ni-to-ring using an a
-ndroid smart-watch'' [kie-lel-lä en]. _Eprint:
- []
+]
 
-[16
+LaTeX Warning: Citation 'patz_accuracy_2023' on page 15 undefined on input line
+ 393.
 
-] [17] [18] [19] [20]
-Overfull \hbox (15.33977pt too wide) in paragraph at lines 411--411
-[][]\T1/ptm/m/n/12 Shin, Grace, Eun Jeong Cheon ja Mo-ham-mad Hos-sein Jar-ra-h
-i. 2015. ``Un-ders-tan-ding quantified-
+
+Underfull \hbox (badness 10000) in paragraph at lines 392--395
+
  []
 
 
-Overfull \hbox (1.62518pt too wide) in paragraph at lines 411--411
-[][]\T1/ptm/m/n/12 Watson, Andrew M. 2017. ``Sleep and Ath-le-tic Per-for-mance
-'' [kie-lel-lä en-US]. \T1/ptm/m/it/12 Cur-rent Sports
- []
+LaTeX Warning: Empty bibliography on input line 424.
 
-[21] [22] (./kandi.aux)
+[15] (./kandi.aux)
+
+LaTeX Warning: There were undefined references.
+
 Package rerunfilecheck Info: File `kandi.out' has not changed.
-(rerunfilecheck)             Checksum: 7D94244670CF499CF3E91C9D228F9BE4;1937.
+(rerunfilecheck)             Checksum: 53806F0E9AB5C7BEB3C8AEDFAC688CF5;1855.
+
+Package biblatex Warning: Please (re)run Biber on the file:
+(biblatex)                kandi
+(biblatex)                and rerun LaTeX afterwards.
+
 Package logreq Info: Writing requests to 'kandi.run.xml'.
 \openout1 = `kandi.run.xml'.
 
  ) 
 Here is how much of TeX's memory you used:
- 24692 strings out of 478268
- 492144 string characters out of 5846347
- 1528781 words of memory out of 5000000
- 42519 multiletter control sequences out of 15000+600000
- 509833 words of font info for 83 fonts, out of 8000000 for 9000
+ 24200 strings out of 478268
+ 478560 string characters out of 5846347
+ 1510920 words of memory out of 5000000
+ 42083 multiletter control sequences out of 15000+600000
+ 502905 words of font info for 80 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 97i,8n,104p,3156b,4691s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ 97i,8n,104p,734b,4358s stack positions out of 10000i,1000n,20000p,200000b,200000s
 {/usr/local/texlive/2022/texmf-dist/fonts/enc/dvips/base/8r.enc}</usr/local/t
 exlive/2022/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi10.pfb></usr/local/te
 xlive/2022/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb></usr/local/tex
 live/2022/texmf-dist/fonts/type1/urw/courier/ucrr8a.pfb></usr/local/texlive/202
 2/texmf-dist/fonts/type1/urw/times/utmb8a.pfb></usr/local/texlive/2022/texmf-di
-st/fonts/type1/urw/times/utmr8a.pfb></usr/local/texlive/2022/texmf-dist/fonts/t
-ype1/urw/times/utmri8a.pfb>
-Output written on kandi.pdf (26 pages, 133346 bytes).
+st/fonts/type1/urw/times/utmr8a.pfb>
+Output written on kandi.pdf (19 pages, 93867 bytes).
 PDF statistics:
- 469 PDF objects out of 1000 (max. 8388607)
- 422 compressed objects within 5 object streams
- 85 named destinations out of 1000 (max. 500000)
- 105 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 187 PDF objects out of 1000 (max. 8388607)
+ 154 compressed objects within 2 object streams
+ 34 named destinations out of 1000 (max. 500000)
+ 97 words of extra memory for PDF output out of 10000 (max. 10000000)
 

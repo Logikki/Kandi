@@ -8,8 +8,7 @@
 \contentsline {section}{\numberline {3.1}Syke}{4}{section.3.1}%
 \contentsline {section}{\numberline {3.2}Uni}{7}{section.3.2}%
 \contentsline {section}{\numberline {3.3}Paikanninjärjestelmä}{9}{section.3.3}%
-\contentsline {section}{\numberline {3.4}Korkeuden mittaus}{10}{section.3.4}%
+\contentsline {section}{\numberline {3.4}Korkeuden mittaus}{11}{section.3.4}%
 \contentsline {section}{\numberline {3.5}Askeleet}{12}{section.3.5}%
 \contentsline {section}{\numberline {3.6}Happisaturaation mittaus}{13}{section.3.6}%
 \contentsline {chapter}{\numberline {4}Johtopäätökset}{14}{chapter.4}%
-\contentsline {chapter}{L\"ahteet}{16}{section*.2}%

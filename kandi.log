@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.24 (TeX Live 2022) (preloaded format=pdflatex 2023.1.19)  14 APR 2023 15:23
+This is pdfTeX, Version 3.141592653-2.6-1.40.24 (TeX Live 2022) (preloaded format=pdflatex 2023.1.19)  14 APR 2023 16:31
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -886,49 +886,49 @@ LaTeX Info: Redefining \nameref on input line 19.
 \openout4 = `kandi.out'.
 
 LaTeX Font Info:    Trying to load font information for OT1+ztmcm on input line
- 60.
+ 61.
 
 (/usr/local/texlive/2022/texmf-dist/tex/latex/psnfss/ot1ztmcm.fd
 File: ot1ztmcm.fd 2000/01/03 Fontinst v1.801 font definitions for OT1/ztmcm.
 )
 LaTeX Font Info:    Trying to load font information for OML+ztmcm on input line
- 60.
+ 61.
 
 (/usr/local/texlive/2022/texmf-dist/tex/latex/psnfss/omlztmcm.fd
 File: omlztmcm.fd 2000/01/03 Fontinst v1.801 font definitions for OML/ztmcm.
 )
 LaTeX Font Info:    Trying to load font information for OMS+ztmcm on input line
- 60.
+ 61.
 
 (/usr/local/texlive/2022/texmf-dist/tex/latex/psnfss/omsztmcm.fd
 File: omsztmcm.fd 2000/01/03 Fontinst v1.801 font definitions for OMS/ztmcm.
 )
 LaTeX Font Info:    Trying to load font information for OMX+ztmcm on input line
- 60.
+ 61.
 
 (/usr/local/texlive/2022/texmf-dist/tex/latex/psnfss/omxztmcm.fd
 File: omxztmcm.fd 2000/01/03 Fontinst v1.801 font definitions for OMX/ztmcm.
 )
 LaTeX Font Info:    Trying to load font information for OT1+ptm on input line 6
-0.
+1.
 
 (/usr/local/texlive/2022/texmf-dist/tex/latex/psnfss/ot1ptm.fd
 File: ot1ptm.fd 2001/06/04 font definitions for OT1/ptm.
 )
 LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <17.28> not available
-(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 60.
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 61.
 LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <12> not available
-(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 60.
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 61.
 LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <10> not available
-(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 60.
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 61.
 LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <9> not available
-(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 60.
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 61.
 LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <7> not available
-(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 60.
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 61.
  [1
 
 {/usr/local/texlive/2022/texmf-var/fonts/map/pdftex/updmap/pdftex.map}]
-LaTeX Font Info:    Trying to load font information for T1+pcr on input line 60
+LaTeX Font Info:    Trying to load font information for T1+pcr on input line 61
 .
 
 (/usr/local/texlive/2022/texmf-dist/tex/latex/psnfss/t1pcr.fd
@@ -964,6 +964,11 @@ Overfull \hbox (1.20001pt too wide) detected at line 14
  [][]\T1/ptm/m/n/12 14[]
  []
 
+
+Overfull \hbox (1.20001pt too wide) detected at line 15
+ [][]\T1/ptm/m/n/12 16[]
+ []
+
 )
 \tf@toc=\write7
 \openout7 = `kandi.toc'.
@@ -973,12 +978,12 @@ Overfull \hbox (1.20001pt too wide) detected at line 14
 ]
 Luku 1.
 
-Underfull \hbox (badness 10000) in paragraph at lines 75--82
+Underfull \hbox (badness 10000) in paragraph at lines 76--83
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 83--86
+Underfull \hbox (badness 10000) in paragraph at lines 84--87
 
  []
 
@@ -988,17 +993,17 @@ Underfull \hbox (badness 10000) in paragraph at lines 83--86
 ]
 Luku 2.
 
-Underfull \hbox (badness 10000) in paragraph at lines 103--107
+Underfull \hbox (badness 10000) in paragraph at lines 104--108
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 109--112
+Underfull \hbox (badness 10000) in paragraph at lines 110--113
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 113--117
+Underfull \hbox (badness 10000) in paragraph at lines 114--118
 
  []
 
@@ -1007,34 +1012,34 @@ Underfull \hbox (badness 10000) in paragraph at lines 113--117
 ] [3]
 Luku 3.
 
-Underfull \hbox (badness 10000) in paragraph at lines 119--121
+Underfull \hbox (badness 10000) in paragraph at lines 120--122
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 135--139
+Underfull \hbox (badness 10000) in paragraph at lines 136--140
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 142--146
+Underfull \hbox (badness 10000) in paragraph at lines 143--147
 
  []
 
 [4
 
 ]
-Underfull \hbox (badness 10000) in paragraph at lines 148--153
+Underfull \hbox (badness 10000) in paragraph at lines 149--154
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 176--179
+Underfull \hbox (badness 10000) in paragraph at lines 177--180
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 180--183
+Underfull \hbox (badness 10000) in paragraph at lines 181--184
 
  []
 
@@ -1043,14 +1048,14 @@ pdfTeX warning (ext4): destination with the same identifier (name{table.3.1}) h
 as been already used, duplicate ignored
 <argument> ...shipout:D \box_use:N \l_shipout_box 
                                                   \__shipout_drop_firstpage_...
-l.183 
+l.184 
       ]
-Underfull \hbox (badness 10000) in paragraph at lines 205--208
+Underfull \hbox (badness 10000) in paragraph at lines 206--209
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 209--214
+Underfull \hbox (badness 10000) in paragraph at lines 210--215
 
  []
 
@@ -1059,59 +1064,59 @@ pdfTeX warning (ext4): destination with the same identifier (name{table.3.2}) h
 as been already used, duplicate ignored
 <argument> ...shipout:D \box_use:N \l_shipout_box 
                                                   \__shipout_drop_firstpage_...
-l.214 
+l.215 
       ]
-Underfull \hbox (badness 10000) in paragraph at lines 228--233
+Underfull \hbox (badness 10000) in paragraph at lines 229--234
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 234--241
+Underfull \hbox (badness 10000) in paragraph at lines 235--242
 
  []
 
 [7]
-Underfull \hbox (badness 10000) in paragraph at lines 242--248
+Underfull \hbox (badness 10000) in paragraph at lines 243--249
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 251--255
+Underfull \hbox (badness 10000) in paragraph at lines 252--256
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 256--261
+Underfull \hbox (badness 10000) in paragraph at lines 257--262
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 262--266
+Underfull \hbox (badness 10000) in paragraph at lines 263--267
 
  []
 
 [8]
-Underfull \hbox (badness 10000) in paragraph at lines 274--278
+Underfull \hbox (badness 10000) in paragraph at lines 275--279
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 279--285
+Underfull \hbox (badness 10000) in paragraph at lines 280--286
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 286--289
+Underfull \hbox (badness 10000) in paragraph at lines 287--290
 
  []
 
 [9]
-Underfull \hbox (badness 10000) in paragraph at lines 290--293
+Underfull \hbox (badness 10000) in paragraph at lines 291--294
 
  []
 
 
-Overfull \hbox (15.55426pt too wide) in paragraph at lines 294--301
+Overfull \hbox (15.55426pt too wide) in paragraph at lines 295--302
 \T1/ptm/m/n/12 tar-kim-mil-laan $\OT1/ztmcm/m/n/12 0\OML/ztmcm/m/it/12 :\OT1/zt
 mcm/m/n/12 6 %[] \OMS/ztmcm/m/n/12 ^^F \OT1/ztmcm/m/n/12 0\OML/ztmcm/m/it/12 :\
 OT1/ztmcm/m/n/12 3 %$ \T1/ptm/m/n/12 ja epä-tar-kim-mil-laan $\OT1/ztmcm/m/n/12
@@ -1121,82 +1126,96 @@ m/n/12 0\OML/ztmcm/m/it/12 :\OT1/ztmcm/m/n/12 9 %$\T1/ptm/m/n/12 . (Me-di-aa-ni
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 294--301
+Underfull \hbox (badness 10000) in paragraph at lines 295--302
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 307--312
+Underfull \hbox (badness 10000) in paragraph at lines 308--313
 
  []
 
 [10]
-Underfull \hbox (badness 10000) in paragraph at lines 313--317
+Underfull \hbox (badness 10000) in paragraph at lines 314--318
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 318--324
+Underfull \hbox (badness 10000) in paragraph at lines 319--325
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 325--329
+Underfull \hbox (badness 10000) in paragraph at lines 326--330
 
  []
 
 [11]
-Overfull \hbox (8.6416pt too wide) in paragraph at lines 330--333
+Overfull \hbox (8.6416pt too wide) in paragraph at lines 331--334
 \T1/ptm/m/n/12 tea-vat, et-tä mit-tauk-siin saat-toi vai-kut-taa esi-mer-kik-si
  sää-olo-suh-tei-den muu-tos, tai GPS-signaalin
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 330--333
+Underfull \hbox (badness 10000) in paragraph at lines 331--334
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 335--340
+Underfull \hbox (badness 10000) in paragraph at lines 336--341
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 341--345
+Underfull \hbox (badness 10000) in paragraph at lines 342--346
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 352--354
+LaTeX Warning: Citation 'windisch_accuracy_2023' on page 12 undefined on input 
+line 355.
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 353--356
 
  []
 
-[12] [13]
+[12]
+Underfull \hbox (badness 10000) in paragraph at lines 364--368
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 369--372
+
+ []
+
+[13]
 Luku 4.
 
-Underfull \hbox (badness 10000) in paragraph at lines 375--381
+Underfull \hbox (badness 10000) in paragraph at lines 383--389
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 382--389
+Underfull \hbox (badness 10000) in paragraph at lines 390--397
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 390--395
+Underfull \hbox (badness 10000) in paragraph at lines 398--403
 
  []
 
 [14
 
 ]
-Underfull \hbox (badness 10000) in paragraph at lines 396--399
+Underfull \hbox (badness 10000) in paragraph at lines 404--407
 
  []
 
 [15]
-Overfull \hbox (8.59782pt too wide) in paragraph at lines 429--429
+Overfull \hbox (8.59782pt too wide) in paragraph at lines 437--437
 \T1/ptm/m/n/12 ``Pre-li-mi-na-ry stu-dy on ac-ti-vi-ty mo-ni-to-ring using an a
 ndroid smart-watch'' [kie-lel-lä en]. _Eprint:
  []
@@ -1204,13 +1223,13 @@ ndroid smart-watch'' [kie-lel-lä en]. _Eprint:
 [16
 
 ] [17] [18] [19] [20]
-Overfull \hbox (15.33977pt too wide) in paragraph at lines 429--429
+Overfull \hbox (15.33977pt too wide) in paragraph at lines 437--437
 [][]\T1/ptm/m/n/12 Shin, Grace, Eun Jeong Cheon ja Mo-ham-mad Hos-sein Jar-ra-h
 i. 2015. ``Un-ders-tan-ding quantified-
  []
 
 
-Overfull \hbox (1.62518pt too wide) in paragraph at lines 429--429
+Overfull \hbox (1.62518pt too wide) in paragraph at lines 437--437
 [][]\T1/ptm/m/n/12 Watson, Andrew M. 2017. ``Sleep and Ath-le-tic Per-for-mance
 '' [kie-lel-lä en-US]. \T1/ptm/m/it/12 Cur-rent Sports
  []
@@ -1219,27 +1238,22 @@ Overfull \hbox (1.62518pt too wide) in paragraph at lines 429--429
 
 LaTeX Warning: There were undefined references.
 
+Package rerunfilecheck Info: File `kandi.out' has not changed.
+(rerunfilecheck)             Checksum: 7D94244670CF499CF3E91C9D228F9BE4;1937.
 
-Package rerunfilecheck Warning: File `kandi.out' has changed.
-(rerunfilecheck)                Rerun to get outlines right
-(rerunfilecheck)                or use package `bookmark'.
-
-Package rerunfilecheck Info: Checksums for `kandi.out':
-(rerunfilecheck)             Before: 53806F0E9AB5C7BEB3C8AEDFAC688CF5;1855
-(rerunfilecheck)             After:  7D94244670CF499CF3E91C9D228F9BE4;1937.
-
-Package biblatex Warning: Please rerun LaTeX.
-(biblatex)                Page breaks have changed.
+Package biblatex Warning: Please (re)run Biber on the file:
+(biblatex)                kandi
+(biblatex)                and rerun LaTeX afterwards.
 
 Package logreq Info: Writing requests to 'kandi.run.xml'.
 \openout1 = `kandi.run.xml'.
 
  ) 
 Here is how much of TeX's memory you used:
- 24537 strings out of 478268
- 490364 string characters out of 5846347
- 1525920 words of memory out of 5000000
- 42363 multiletter control sequences out of 15000+600000
+ 24697 strings out of 478268
+ 492202 string characters out of 5846347
+ 1528848 words of memory out of 5000000
+ 42523 multiletter control sequences out of 15000+600000
  509833 words of font info for 83 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  97i,8n,104p,3156b,4691s stack positions out of 10000i,1000n,20000p,200000b,200000s
@@ -1250,10 +1264,10 @@ live/2022/texmf-dist/fonts/type1/urw/courier/ucrr8a.pfb></usr/local/texlive/202
 2/texmf-dist/fonts/type1/urw/times/utmb8a.pfb></usr/local/texlive/2022/texmf-di
 st/fonts/type1/urw/times/utmr8a.pfb></usr/local/texlive/2022/texmf-dist/fonts/t
 ype1/urw/times/utmri8a.pfb>
-Output written on kandi.pdf (27 pages, 135303 bytes).
+Output written on kandi.pdf (27 pages, 136309 bytes).
 PDF statistics:
- 471 PDF objects out of 1000 (max. 8388607)
- 423 compressed objects within 5 object streams
+ 477 PDF objects out of 1000 (max. 8388607)
+ 429 compressed objects within 5 object streams
  86 named destinations out of 1000 (max. 500000)
- 97 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 105 words of extra memory for PDF output out of 10000 (max. 10000000)
 

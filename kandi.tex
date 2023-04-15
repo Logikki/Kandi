@@ -35,7 +35,7 @@
     nämä mittaukset ovat. Tutkielma käsittelee myös sitä, miten nämä mittaukset riippuvat ulkoisista muuttujista.
      Tulokset osoittavat, että laitteet suoriutuvat matkan pituuden, korkeuden, sykkeen ja askeleiden mittauksesta hyvin.
       Unen mittauksessa laitteet mittaavat unen pituuden tarkasti, mutta unen vaiheiden erottelu ei ole tarkkaa. 
-       Laitteet eivät myöskään suoriudu happisaturaation mittaudesta kovin hyvin.
+       Tutkielmassa todetaan myös, että happisaturaation mittaus on suuntaa antava Apple Watch kellossa.  
 }
 
 \abstract{%
@@ -43,7 +43,8 @@ Smartwatches and sports watches have become increasingly popular in recent years
  Consumers rely on these measurements and adjust their training programs or rest periods according to the device's measurements.
   This Bachelor's thesis explores how accurate these measurements are. The thesis also examines how these measurements depend on external variables.
    The results show that the devices perform well in measuring distance, elevation, heart rate, and steps. In sleep measurement, the devices accurately measure the length of sleep,
-    but the differentiation between sleep stages is not very accurate. The devices also do not perform very well in measuring oxygen saturation.
+    but the differentiation between sleep stages is not very accurate.
+     In this thesis, it is also found that measuring oxygen saturation with and Apple Watch smart watch is not entirely accurate, but approximate.
 }
 
 \author{Roni Koskinen}
@@ -350,18 +351,25 @@ Roni Koskinen
 
   \section{Happisaturaation mittaus}
   Happisaturaation (SpO2) mittaus on tullut älykelloihin vuoden 2021 aikana \parencite{zhang_can_2022}. Kyseessä on siis suhteellisen uusi ominaisuus.
-   SpO2 mittauksien tarkkuudesta älykelloissa ei vahvistettu \parencite{zhang_can_2022}. Tämä johtuu tehtyjen tutkimusten vähyydestä.\\
+   SpO2 mittauksien tarkkuudesta älykelloissa ei vahvistettu \parencite{zhang_can_2022}. Tämä johtuu tehtyjen tutkimusten vähyydestä.
+    SpO2 mittaus toimii älykelloissa optisesti \parencite{windisch_accuracy_2023}, niin kuin sykkeen mittaus.\\
     
   \textcite{pipek_comparison_2021} mukaan Apple Watch Series 6 SpO2 mittauksen korrelaatio vertailulaitteeseen oli 0.81.
    Apple Watchin mittauksilla olivat taipumus olla hieman korkeampia, kuin vertailulaitteen arvoilla \parencite{pipek_comparison_2021}.
-    Apple Watchin pulssioksimetrin mittausten ei voida siis sanoa olevan tarkkoja.
-    Mittauksia verrattiin kahteen kaupallisesti saatavilla olevaan pulssioksimetriin.
-     Tutkimuksissa ei mainittu, mitä pulssioksimetriä vertailukohtana käytettiin, tai oliko vertailulaitteen tarkkuus varmistettu aiemmilla tutkimuksilla.
+    Älykellon SpO2 mittauksen tarkkuus korrelaatio vertailulitteen mittauksiin oli 0,81.
+     \textcite{pipek_comparison_2021} mukaan Apple Watch 6 on luotettava väline SpO2 mittaukseen kontrolloidusssa ympäristössä.
+      Mittauksia verrattiin kahteen kaupallisesti saatavilla olevaan pulssioksimetriin.
+       Tutkimuksissa ei mainittu, mitä pulssioksimetriä vertailukohtana käytettiin, tai oliko vertailulaitteen tarkkuus varmistettu aiemmilla tutkimuksilla.
    
   \textcite{patz_accuracy_2023} saivat samankaltaisia tuloksia Apple Watchin pulssioksimetrin tarkkuudesta kuin \textcite{pipek_comparison_2021}. Mittauksista 85\%
    oli oikein mitattaessa lapsilta ja 85\% aikuisilta mitattaessa. \textcite{patz_accuracy_2023} mukaan Apple Watch 6 mittaukset eivät ole
     lääketieteellisten standardien tasolla. Tarkkuus on kuitenkin hyvä sinällään antamaan arviota happisaturaation määrästä.
-     Siihen ei kuitenkaan tule luottaa täysin.
+     Siihen ei kuitenkaan tule luottaa täysin.\\
+
+    Voidaan siis todeta, että SpO2 mittaus Apple Watchis kellolla on hyvä. Laite ei kuitenkaan ole niin tarkka, että sitä voitaisiin käyttää
+     lääketieteessä. Mittaukset ovat suuntaa antavia. Edellä olevat tutkimukset oltiin suoritettu kontrolloiduissa olosuhteissa, joten niiden vaikutusta ei ole vahvistettu tutkimuksilla.
+      Koska SpO2 mittaus toimii optisesti niin kuin sykkenkin mittaus, voisi päätellä, että SpO2 mittaukseen pätee samat rajoitteet kuin sykkeenkin mittaukseen. \\
+
       
     
   
@@ -393,9 +401,9 @@ Unen mittauksen tarkkuus riippuu siitä, mitä arvoja halutaan mitata. Älykello
   ja unen laatu on erittäin tärkeä arvo arvioidessa unta sen pituuden ohella \parencite{kohyama_which_2021}. Unen vaiheiden
    tarkempi arviointi olisi siis tärkeää unen arvioimisen laadukkuuden kannalta.\\
   
-SpO2 mittaus ei älykelloissa ollut niin tarkka, että voitaisiin sanoa älykellojen suoriutuvan mittauksesta hyvin.
- \textcite{patz_accuracy_2023} mukaan mittauksista noin 85\% oli oikein. Tulokset voivat siis antaa arviota SpO2 arvosta, mutta niitä ei tule ottaa
-  täysin totena.\\
+SpO2 mittaukset ovat Apple Watch kellossa suuntaa antavia.
+ \textcite{patz_accuracy_2023} mukaan mittauksista noin 85\% oli oikein. \textcite{pipek_comparison_2021} mukaan mittausten korrelaatio vertailulaitteen tuloksiin oli 0,81.
+   Tulokset voivat siis antaa arviota SpO2 arvosta, mutta niitä ne eivät ole täysin tarkkoja. Olosuhteiden vaikutuksesta mittauksiin ei ole varmuutta.\\
 
 Tässä kandidaatintutkielmassa on vahvuutena se, että tutkielman laatimiseen on hyödynnetty useita eri tutkimuksia, ja yhdistelty näiden tuloksia toisiinsa.
  Tutkimukset mittauksien tarkkuuksista ovat olleet myös suhteellisen tuoreita, sillä ne on julkaistu vuonna 2016 tai sen jälkeen.

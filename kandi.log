@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.24 (TeX Live 2022) (preloaded format=pdflatex 2023.1.19)  21 APR 2023 14:49
+This is pdfTeX, Version 3.141592653-2.6-1.40.24 (TeX Live 2022) (preloaded format=pdflatex 2023.1.19)  21 APR 2023 14:50
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1217,20 +1217,15 @@ Overfull \hbox (1.62518pt too wide) in paragraph at lines 437--437
 [21] [22] (./kandi.aux)
 Package rerunfilecheck Info: File `kandi.out' has not changed.
 (rerunfilecheck)             Checksum: 8C395A4DEECFDF1CFC33FD111F836351;1494.
-
-
-Package biblatex Warning: Please rerun LaTeX.
-(biblatex)                Page breaks have changed.
-
 Package logreq Info: Writing requests to 'kandi.run.xml'.
 \openout1 = `kandi.run.xml'.
 
  ) 
 Here is how much of TeX's memory you used:
- 24696 strings out of 478268
- 492324 string characters out of 5846347
- 1530201 words of memory out of 5000000
- 42523 multiletter control sequences out of 15000+600000
+ 24695 strings out of 478268
+ 492312 string characters out of 5846347
+ 1530196 words of memory out of 5000000
+ 42522 multiletter control sequences out of 15000+600000
  509833 words of font info for 83 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  97i,8n,104p,3156b,4691s stack positions out of 10000i,1000n,20000p,200000b,200000s
@@ -1241,7 +1236,7 @@ live/2022/texmf-dist/fonts/type1/urw/courier/ucrr8a.pfb></usr/local/texlive/202
 2/texmf-dist/fonts/type1/urw/times/utmb8a.pfb></usr/local/texlive/2022/texmf-di
 st/fonts/type1/urw/times/utmr8a.pfb></usr/local/texlive/2022/texmf-dist/fonts/t
 ype1/urw/times/utmri8a.pfb>
-Output written on kandi.pdf (27 pages, 136985 bytes).
+Output written on kandi.pdf (27 pages, 136984 bytes).
 PDF statistics:
  474 PDF objects out of 1000 (max. 8388607)
  426 compressed objects within 5 object streams

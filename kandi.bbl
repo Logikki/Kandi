@@ -2333,6 +2333,79 @@
       \verb Snapshot:/Users/ronikoskinen/Zotero/storage/IATKZJ7L/sleep_and_athletic_performance.11.html:text/html
       \endverb
     \endentry
+    \entry{windisch_accuracy_2023}{article}{}
+      \name{author}{5}{}{%
+        {{un=0,uniquepart=base,hash=5e7bbd027e38d01c97bfeedfb942823a}{%
+           family={Windisch},
+           familyi={W\bibinitperiod},
+           given={Paul},
+           giveni={P\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=1b8877582927d2907821a8eb8d7da145}{%
+           family={Schröder},
+           familyi={S\bibinitperiod},
+           given={Christina},
+           giveni={C\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=2a8f1c5139059b9f6bbc6a87de59d8ee}{%
+           family={Förster},
+           familyi={F\bibinitperiod},
+           given={Robert},
+           giveni={R\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=1144c73f2d4b38242dbd901aa8f3eb69}{%
+           family={Cihoric},
+           familyi={C\bibinitperiod},
+           given={Nikola},
+           giveni={N\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=8a7ae16b938879bbc79e5634492182c0}{%
+           family={Zwahlen},
+           familyi={Z\bibinitperiod},
+           given={Daniel\bibnamedelima R},
+           giveni={D\bibinitperiod\bibinitdelim R\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{language}{1}{%
+        {en}%
+      }
+      \strng{namehash}{df505eddcd9b6a863aa896808e2be9c8}
+      \strng{fullhash}{5b2ca6f22fca591a1612884b9f45b5b0}
+      \strng{bibnamehash}{5b2ca6f22fca591a1612884b9f45b5b0}
+      \strng{authorbibnamehash}{5b2ca6f22fca591a1612884b9f45b5b0}
+      \strng{authornamehash}{df505eddcd9b6a863aa896808e2be9c8}
+      \strng{authorfullhash}{5b2ca6f22fca591a1612884b9f45b5b0}
+      \field{sortinit}{W}
+      \field{sortinithash}{afb52128e5b4dc4b843768c0113d673b}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{shorttitle}
+      \field{abstract}{The purpose of this review is to summarize the research on the accuracy of oxygen saturation (spO 2) measurements using the Apple Watch (Apple Inc., Cupertino, California). The Medline and Google Scholar databases were searched for papers evaluating the spO2 measurements of the Apple Watch vs. any kind of ground truth and records were analyzed according to the Preferred Reporting Items for Systematic Reviews and Meta-Analyses (PRISMA) guidelines.}
+      \field{annotation}{0 cites}
+      \field{issn}{2168-8184}
+      \field{journaltitle}{Cureus}
+      \field{month}{2}
+      \field{shorttitle}{Accuracy of the {Apple} {Watch} {Oxygen} {Saturation} {Measurement} in {Adults}}
+      \field{title}{Accuracy of the {Apple} {Watch} {Oxygen} {Saturation} {Measurement} in {Adults}: {A} {Systematic} {Review}}
+      \field{urlday}{3}
+      \field{urlmonth}{4}
+      \field{urlyear}{2023}
+      \field{year}{2023}
+      \field{urldateera}{ce}
+      \verb{doi}
+      \verb 10.7759/cureus.35355
+      \endverb
+      \verb{file}
+      \verb Windisch et al. - 2023 - Accuracy of the Apple Watch Oxygen Saturation Meas.pdf:/Users/ronikoskinen/Zotero/storage/SKP7VYDG/Windisch et al. - 2023 - Accuracy of the Apple Watch Oxygen Saturation Meas.pdf:application/pdf
+      \endverb
+      \verb{urlraw}
+      \verb https://www.cureus.com/articles/139145-accuracy-of-the-apple-watch-oxygen-saturation-measurement-in-adults-a-systematic-review
+      \endverb
+      \verb{url}
+      \verb https://www.cureus.com/articles/139145-accuracy-of-the-apple-watch-oxygen-saturation-measurement-in-adults-a-systematic-review
+      \endverb
+    \endentry
     \entry{Yasar_what_wearable}{online}{}
       \name{author}{1}{}{%
         {{un=0,uniquepart=base,hash=adfd79848d4e204a10542fc5148d9f63}{%

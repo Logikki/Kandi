@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.24 (TeX Live 2022) (preloaded format=pdflatex 2023.1.19)  14 APR 2023 16:31
+This is pdfTeX, Version 3.141592653-2.6-1.40.24 (TeX Live 2022) (preloaded format=pdflatex 2023.1.19)  21 APR 2023 14:49
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -886,49 +886,49 @@ LaTeX Info: Redefining \nameref on input line 19.
 \openout4 = `kandi.out'.
 
 LaTeX Font Info:    Trying to load font information for OT1+ztmcm on input line
- 61.
+ 57.
 
 (/usr/local/texlive/2022/texmf-dist/tex/latex/psnfss/ot1ztmcm.fd
 File: ot1ztmcm.fd 2000/01/03 Fontinst v1.801 font definitions for OT1/ztmcm.
 )
 LaTeX Font Info:    Trying to load font information for OML+ztmcm on input line
- 61.
+ 57.
 
 (/usr/local/texlive/2022/texmf-dist/tex/latex/psnfss/omlztmcm.fd
 File: omlztmcm.fd 2000/01/03 Fontinst v1.801 font definitions for OML/ztmcm.
 )
 LaTeX Font Info:    Trying to load font information for OMS+ztmcm on input line
- 61.
+ 57.
 
 (/usr/local/texlive/2022/texmf-dist/tex/latex/psnfss/omsztmcm.fd
 File: omsztmcm.fd 2000/01/03 Fontinst v1.801 font definitions for OMS/ztmcm.
 )
 LaTeX Font Info:    Trying to load font information for OMX+ztmcm on input line
- 61.
+ 57.
 
 (/usr/local/texlive/2022/texmf-dist/tex/latex/psnfss/omxztmcm.fd
 File: omxztmcm.fd 2000/01/03 Fontinst v1.801 font definitions for OMX/ztmcm.
 )
-LaTeX Font Info:    Trying to load font information for OT1+ptm on input line 6
-1.
+LaTeX Font Info:    Trying to load font information for OT1+ptm on input line 5
+7.
 
 (/usr/local/texlive/2022/texmf-dist/tex/latex/psnfss/ot1ptm.fd
 File: ot1ptm.fd 2001/06/04 font definitions for OT1/ptm.
 )
 LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <17.28> not available
-(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 61.
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 57.
 LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <12> not available
-(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 61.
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 57.
 LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <10> not available
-(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 61.
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 57.
 LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <9> not available
-(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 61.
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 57.
 LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <7> not available
-(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 61.
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 57.
  [1
 
 {/usr/local/texlive/2022/texmf-var/fonts/map/pdftex/updmap/pdftex.map}]
-LaTeX Font Info:    Trying to load font information for T1+pcr on input line 61
+LaTeX Font Info:    Trying to load font information for T1+pcr on input line 57
 .
 
 (/usr/local/texlive/2022/texmf-dist/tex/latex/psnfss/t1pcr.fd
@@ -945,27 +945,27 @@ File: t1pcr.fd 2001/06/04 font definitions for T1/pcr.
  [3
 
 ] (./kandi.toc
-Overfull \hbox (1.20001pt too wide) detected at line 11
+Overfull \hbox (1.20001pt too wide) detected at line 9
+ [][]\T1/ptm/m/n/12 10[]
+ []
+
+
+Overfull \hbox (1.20001pt too wide) detected at line 10
  [][]\T1/ptm/m/n/12 11[]
  []
 
 
-Overfull \hbox (1.20001pt too wide) detected at line 12
+Overfull \hbox (1.20001pt too wide) detected at line 11
  [][]\T1/ptm/m/n/12 12[]
  []
 
 
-Overfull \hbox (1.20001pt too wide) detected at line 13
- [][]\T1/ptm/m/n/12 13[]
- []
-
-
-Overfull \hbox (1.20001pt too wide) detected at line 14
+Overfull \hbox (1.20001pt too wide) detected at line 12
  [][]\T1/ptm/m/n/12 14[]
  []
 
 
-Overfull \hbox (1.20001pt too wide) detected at line 15
+Overfull \hbox (1.20001pt too wide) detected at line 13
  [][]\T1/ptm/m/n/12 16[]
  []
 
@@ -978,12 +978,12 @@ Overfull \hbox (1.20001pt too wide) detected at line 15
 ]
 Luku 1.
 
-Underfull \hbox (badness 10000) in paragraph at lines 76--83
+Underfull \hbox (badness 10000) in paragraph at lines 72--79
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 84--87
+Underfull \hbox (badness 10000) in paragraph at lines 80--83
 
  []
 
@@ -993,89 +993,89 @@ Underfull \hbox (badness 10000) in paragraph at lines 84--87
 ]
 Luku 2.
 
-Underfull \hbox (badness 10000) in paragraph at lines 104--108
+Underfull \hbox (badness 10000) in paragraph at lines 99--103
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 110--113
+Underfull \hbox (badness 10000) in paragraph at lines 104--107
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 114--118
+Underfull \hbox (badness 10000) in paragraph at lines 108--112
 
  []
 
 [2
 
-] [3]
+]
 Luku 3.
 
-Underfull \hbox (badness 10000) in paragraph at lines 120--122
+Underfull \hbox (badness 10000) in paragraph at lines 114--117
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 136--140
+Underfull \hbox (badness 10000) in paragraph at lines 133--137
+
+ []
+
+[3
+
+]
+Underfull \hbox (badness 10000) in paragraph at lines 140--144
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 143--147
+Underfull \hbox (badness 10000) in paragraph at lines 146--151
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 175--179
 
  []
 
 [4
-
-]
-Underfull \hbox (badness 10000) in paragraph at lines 149--154
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 177--180
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 181--184
-
- []
-
-[5
 pdfTeX warning (ext4): destination with the same identifier (name{table.3.1}) h
 as been already used, duplicate ignored
 <argument> ...shipout:D \box_use:N \l_shipout_box 
                                                   \__shipout_drop_firstpage_...
-l.184 
+l.179 
       ]
+Underfull \hbox (badness 10000) in paragraph at lines 180--183
+
+ []
+
+
 Underfull \hbox (badness 10000) in paragraph at lines 206--209
 
  []
 
-
-Underfull \hbox (badness 10000) in paragraph at lines 210--215
-
- []
-
-[6
+[5
 pdfTeX warning (ext4): destination with the same identifier (name{table.3.2}) h
 as been already used, duplicate ignored
 <argument> ...shipout:D \box_use:N \l_shipout_box 
                                                   \__shipout_drop_firstpage_...
-l.215 
+l.209 
       ]
+Underfull \hbox (badness 10000) in paragraph at lines 210--215
+
+ []
+
+
 Underfull \hbox (badness 10000) in paragraph at lines 229--234
 
  []
 
-
+[6]
 Underfull \hbox (badness 10000) in paragraph at lines 235--242
 
  []
 
-[7]
+
 Underfull \hbox (badness 10000) in paragraph at lines 243--249
 
  []
@@ -1090,12 +1090,12 @@ Underfull \hbox (badness 10000) in paragraph at lines 257--262
 
  []
 
-
+[7]
 Underfull \hbox (badness 10000) in paragraph at lines 263--267
 
  []
 
-[8]
+
 Underfull \hbox (badness 10000) in paragraph at lines 275--279
 
  []
@@ -1105,24 +1105,14 @@ Underfull \hbox (badness 10000) in paragraph at lines 280--286
 
  []
 
-
+[8]
 Underfull \hbox (badness 10000) in paragraph at lines 287--290
 
  []
 
-[9]
+
 Underfull \hbox (badness 10000) in paragraph at lines 291--294
 
- []
-
-
-Overfull \hbox (15.55426pt too wide) in paragraph at lines 295--302
-\T1/ptm/m/n/12 tar-kim-mil-laan $\OT1/ztmcm/m/n/12 0\OML/ztmcm/m/it/12 :\OT1/zt
-mcm/m/n/12 6 %[] \OMS/ztmcm/m/n/12 ^^F \OT1/ztmcm/m/n/12 0\OML/ztmcm/m/it/12 :\
-OT1/ztmcm/m/n/12 3 %$ \T1/ptm/m/n/12 ja epä-tar-kim-mil-laan $\OT1/ztmcm/m/n/12
- 1\OML/ztmcm/m/it/12 :\OT1/ztmcm/m/n/12 6 %[] \OMS/ztmcm/m/n/12 ^^F \OT1/ztmcm/
-m/n/12 0\OML/ztmcm/m/it/12 :\OT1/ztmcm/m/n/12 9 %$\T1/ptm/m/n/12 . (Me-di-aa-ni
- $\OMS/ztmcm/m/n/12 ^^F$ \T1/ptm/m/n/12 IQR)(Kvartiiliväli,
  []
 
 
@@ -1130,12 +1120,12 @@ Underfull \hbox (badness 10000) in paragraph at lines 295--302
 
  []
 
-
+[9]
 Underfull \hbox (badness 10000) in paragraph at lines 308--313
 
  []
 
-[10]
+
 Underfull \hbox (badness 10000) in paragraph at lines 314--318
 
  []
@@ -1145,15 +1135,9 @@ Underfull \hbox (badness 10000) in paragraph at lines 319--325
 
  []
 
-
+[10]
 Underfull \hbox (badness 10000) in paragraph at lines 326--330
 
- []
-
-[11]
-Overfull \hbox (8.6416pt too wide) in paragraph at lines 331--334
-\T1/ptm/m/n/12 tea-vat, et-tä mit-tauk-siin saat-toi vai-kut-taa esi-mer-kik-si
- sää-olo-suh-tei-den muu-tos, tai GPS-signaalin
  []
 
 
@@ -1171,21 +1155,17 @@ Underfull \hbox (badness 10000) in paragraph at lines 342--346
 
  []
 
-
-LaTeX Warning: Citation 'windisch_accuracy_2023' on page 12 undefined on input 
-line 355.
-
-
+[11]
 Underfull \hbox (badness 10000) in paragraph at lines 353--356
 
  []
 
-[12]
+
 Underfull \hbox (badness 10000) in paragraph at lines 364--368
 
  []
 
-
+[12]
 Underfull \hbox (badness 10000) in paragraph at lines 369--372
 
  []
@@ -1235,24 +1215,21 @@ Overfull \hbox (1.62518pt too wide) in paragraph at lines 437--437
  []
 
 [21] [22] (./kandi.aux)
-
-LaTeX Warning: There were undefined references.
-
 Package rerunfilecheck Info: File `kandi.out' has not changed.
-(rerunfilecheck)             Checksum: 7D94244670CF499CF3E91C9D228F9BE4;1937.
+(rerunfilecheck)             Checksum: 8C395A4DEECFDF1CFC33FD111F836351;1494.
 
-Package biblatex Warning: Please (re)run Biber on the file:
-(biblatex)                kandi
-(biblatex)                and rerun LaTeX afterwards.
+
+Package biblatex Warning: Please rerun LaTeX.
+(biblatex)                Page breaks have changed.
 
 Package logreq Info: Writing requests to 'kandi.run.xml'.
 \openout1 = `kandi.run.xml'.
 
  ) 
 Here is how much of TeX's memory you used:
- 24697 strings out of 478268
- 492202 string characters out of 5846347
- 1528848 words of memory out of 5000000
+ 24696 strings out of 478268
+ 492324 string characters out of 5846347
+ 1530201 words of memory out of 5000000
  42523 multiletter control sequences out of 15000+600000
  509833 words of font info for 83 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
@@ -1264,10 +1241,10 @@ live/2022/texmf-dist/fonts/type1/urw/courier/ucrr8a.pfb></usr/local/texlive/202
 2/texmf-dist/fonts/type1/urw/times/utmb8a.pfb></usr/local/texlive/2022/texmf-di
 st/fonts/type1/urw/times/utmr8a.pfb></usr/local/texlive/2022/texmf-dist/fonts/t
 ype1/urw/times/utmri8a.pfb>
-Output written on kandi.pdf (27 pages, 136309 bytes).
+Output written on kandi.pdf (27 pages, 136985 bytes).
 PDF statistics:
- 477 PDF objects out of 1000 (max. 8388607)
- 429 compressed objects within 5 object streams
- 86 named destinations out of 1000 (max. 500000)
- 105 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 474 PDF objects out of 1000 (max. 8388607)
+ 426 compressed objects within 5 object streams
+ 85 named destinations out of 1000 (max. 500000)
+ 89 words of extra memory for PDF output out of 10000 (max. 10000000)
 

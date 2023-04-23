@@ -1,13 +1,13 @@
 \babel@toc {english}{}\relax 
 \babel@toc {finnish}{}\relax 
 \contentsline {chapter}{\numberline {1}Johdanto}{1}{chapter.1}%
-\contentsline {chapter}{\numberline {2}Puettavat teknologiat}{2}{chapter.2}%
-\contentsline {chapter}{\numberline {3}Älykellojen mittaukset}{3}{chapter.3}%
-\contentsline {section}{\numberline {3.1}Syke}{3}{section.3.1}%
-\contentsline {section}{\numberline {3.2}Uni}{6}{section.3.2}%
-\contentsline {section}{\numberline {3.3}Paikanninjärjestelmä}{8}{section.3.3}%
-\contentsline {section}{\numberline {3.4}Korkeuden mittaus}{10}{section.3.4}%
-\contentsline {section}{\numberline {3.5}Askeleet}{11}{section.3.5}%
-\contentsline {section}{\numberline {3.6}Happisaturaation mittaus}{12}{section.3.6}%
-\contentsline {chapter}{\numberline {4}Johtopäätökset}{14}{chapter.4}%
-\contentsline {chapter}{L\"ahteet}{16}{section*.2}%
+\contentsline {chapter}{\numberline {2}Puettavat teknologiat}{3}{chapter.2}%
+\contentsline {chapter}{\numberline {3}Älykellojen mittaukset}{4}{chapter.3}%
+\contentsline {section}{\numberline {3.1}Syke}{4}{section.3.1}%
+\contentsline {section}{\numberline {3.2}Uni}{7}{section.3.2}%
+\contentsline {section}{\numberline {3.3}Paikanninjärjestelmä}{9}{section.3.3}%
+\contentsline {section}{\numberline {3.4}Korkeuden mittaus}{11}{section.3.4}%
+\contentsline {section}{\numberline {3.5}Askeleet}{12}{section.3.5}%
+\contentsline {section}{\numberline {3.6}Happisaturaation mittaus}{13}{section.3.6}%
+\contentsline {chapter}{\numberline {4}Johtopäätökset}{15}{chapter.4}%
+\contentsline {chapter}{L\"ahteet}{17}{section*.2}%

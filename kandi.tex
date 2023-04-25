@@ -9,6 +9,7 @@
   separate-uncertainty = true,
   multi-part-units = repeat
 ]{siunitx}
+\sisetup{output-decimal-marker = {,}}
 \usepackage{booktabs} % good for beautiful tables
 
 % NOTE: This must be the last \usepackage in the whole document!
@@ -22,11 +23,8 @@
 \translatedtitle{\LaTeX-tutkielmapohjan {gradu3} käyttö}
 \studyline{Mathematical Information Technology}
 \avainsanat{%
-  \LaTeX
-  {gradu3},
-  pro gradu -tutkielmat,
-  kandidaatintutkielmat,
-  käyttöohje}
+Puettava teknologia, Älykellot, Urheilukellot
+}
 \keywords{\LaTeX, {gradu3}, Master's Theses, Bachelor's Theses, user's guide}
 \tiivistelma{%
  Urheilukellot ovat yleistyneet viime vuosina paljon. Laitteet tekevät useita erilaisia fysiologisia ja
@@ -77,7 +75,7 @@ Roni Koskinen
        Teknologian kehittyminen on tehnyt laitteista aiempaa tarkempia ja parempia melkein kaikilla osa-alueilla. Niihin on myös kehitetty paljon uusia ominaisuuksia.
         Kellot muun muassa seuraavat unta, mittaavat sykettä, mittaavat kuljettua matkaa, noustua korkeutta ja happisaturaatiota.\\
 
-  Tässä tutkielmassa tutkitaan, miten puettavat hyvinvointiteknologiat suoriutuvat toiminnoistaan, keskittyen äly- ja urheilukellojen suorittamiin mittauksiin.
+  Tässä tutkielmassa tutkitaan, miten äly- ja urheilukellot suoriutuvat mittaustoiminnoistaan.
    Aihe on valittu kirjoittajan oman puettavien teknologioiden kiinnostuksen vuoksi. Monet käyttävät äly- tai urheilukelloa päivittäin, ja on mielenkiintoista tietää, mitä tutkimukset kertovat
     näiden teknologioiden mittauksien tarkkuudesta. \\
     
@@ -109,7 +107,8 @@ Roni Koskinen
     sykemittari sekä muita urheiluun, liikkumiseen ja terveyteen liittyviä seuranta ominaisuuksia \parencite{sportswatch_tfd}. Urheilukellojen ero älykelloon on siis se,
      että nämä ovat usein kestävämmin valmistettu, ja tarjoavat ensisijaisesti hyvinvoinnin ja urheilun seuraamiseen liittyviä ominaisuuksia. Erot ovat siis pienet, 
       ja esimerkiksi urheilukelloja valmistava Garmin käyttää sivuillaan kelloistaan "Smart Watch" termiä \parencite{garmin_site}. Tässä tutkielmassa
-       käytetään termiä älykello ja urheilukello sen mukaan, mitä termiä tarkasteltavassa tutkimuksessa käytetään. Koska näiden erot,  \\
+       käytetään termiä älykello ja urheilukello sen mukaan, mitä termiä tarkasteltavassa tutkimuksessa käytetään. Tutkielman kannalta näitä laitteita tarkastellaan kuitenkin
+        yhteisenä kokonaisuutena.\\
   
   \chapter{Älykellojen mittaukset}
   Tässä luvussa käydään läpi älykellojen mittauksia. Tutkielmaan on valittu käsiteltäväksi sykkeen, matkan pituuden, korkeuden, unen, happisaturaation, sekä askelmittaamisen mittaamisen tarkkuudet.
@@ -120,15 +119,17 @@ Roni Koskinen
   \section{Syke}
   Sykkeen mittaamisen tarkkuuteen äly- ja urheilukelloissa löytyy tällä hetkellä eniten tutkimusta verrattuna muihin mitattaviin arvoihin.
    Kiinnostus sykkeen mittaamisen tarkkuuteen on siis ilmeinen. Kirjoittajan mielestä sykkeen mittaamisen tarkkuus onkin yksi tärkeimpiä älykellojen ominaisuuksia.
-    Sykkeestä voidaan tehokkaasti seurata harjoituksen kuormittavuutta, joka olisi hyvin vaikeaa ilman sykemittaria.
-   Sykkeen mittaamiseen käytetään pääosin kahta erilaista menetelmää. Ensimmäinen menetelmä on elektrokardiografia (EKG, eng. ECG), jossa mitataan sydämen lyönnin
-   synnyttämiä sähköaaltoja \parencite{noauthor_heart_nodate}. Käytän tässä tutkielmassa jatkossa mittaustavasta lyhennettä EKG.
-    Toinen metodi taas on fotopletysmografinen (Optinen, FPG, eng. PPG), jossa mitataan infrapunavaloa käyttäen valtimoiden supistumista ja laajenemista \parencite{noauthor_heart_nodate}.
-      Käytän tässä tutkielmassa jatkossa termiä "optinen" viitaten fotopletysmografiseen
-      mittaukseen. Optisen mittauksen haittapuoli on siinä, että sykkeen mittaukseen vaikuttaa erilaiset yksilölliset tekijät.
-       Tällaisia eroja on todettu olevan esimerkiksi ihonvärin tummuus ja sukupuoli (\cite{shcherbina_accuracy_2017,hochstadt_continuous_2020}.)
-       Yksilöllisten tekijöiden vaikutuksesta on kuitenkin saatu ristiriitaisia tutkimustuloksia \parencite{pasadyn_accuracy_2019}.
-        Esimerkiksi \textcite{sanudo_pilot_2019, bent_investigating_2020} havaitsivat, että ihonvärin tummuudella ei ollut merkittävää vaikutusta sykemittauksen tarkkuuteen.
+    Sykkeestä voidaan tehokkaasti seurata harjoituksen kuormittavuutta, ja sykkeen seuraaminen olisi hyvin vaikeaa ilman sykemittaria.
+     Sykkeen mittaamiseen käytetään pääosin kahta erilaista menetelmää. Ensimmäinen menetelmä on elektrokardiografia (EKG, eng. ECG), jossa mitataan sydämen lyönnin
+      synnyttämiä sähköaaltoja \parencite{noauthor_heart_nodate}. Käytän tässä tutkielmassa jatkossa mittaustavasta lyhennettä EKG.\\
+
+       Toinen metodi taas on fotopletysmografinen (Optinen, FPG, eng. PPG), jossa mitataan valtimoiden supistumista ja laajenemista käyttäen infrapunavaloa \parencite{noauthor_heart_nodate}.
+        Käytän tässä tutkielmassa jatkossa termiä ''optinen'' viitaten fotopletysmografiseen
+         mittaukseen. Optisen mittauksen haittapuoli on siinä, että sykkeen mittaukseen vaikuttaa erilaiset yksilölliset tekijät \parencite{koerber_accuracy_2022}.
+          Näitä tekijöitä käsitellään tutkielmassa myöhemmin.
+          % Tällaisia eroja on todettu olevan esimerkiksi ihonvärin tummuus ja sukupuoli (\cite{shcherbina_accuracy_2017,hochstadt_continuous_2020}.)
+          %  Yksilöllisten tekijöiden vaikutuksesta on kuitenkin saatu ristiriitaisia tutkimustuloksia \parencite{pasadyn_accuracy_2019}.
+          %   Esimerkiksi \textcite{sanudo_pilot_2019, bent_investigating_2020} havaitsivat, että ihonvärin tummuudella ei ollut merkittävää vaikutusta sykemittauksen tarkkuuteen.
       
       
       Nelsonin ja Allenin (2019) mukaan älykellojen valmistajat käyttävät omia patentoituja algoritmeja optisen sensorin
@@ -210,15 +211,16 @@ Roni Koskinen
 
   \textcite{pasadyn_accuracy_2019} tutkivat neljän eri äly- sekä urheilukellon tarkkuutta juoksumatolla juosten kuudella eri nopeudella. Tässäkin tutkimuksessa tuloksia verrattiin
    Polar H7 sykevyön mittaustuloksiin. Tutkimuksessa Apple Watch 3:n korrelaatio EKG-mittauksiin oli 0,96, Fitbit iconic, Garmin Vivosmart HR ja Tom Tom Spark 3
-    kellojen korrelaatio ECG tuloksiin oli kaikilla sama 0,89 \parencite{pasadyn_accuracy_2019}. Apple Watch oli siis huomattavasti tarkempi kello sykkeen mittaukseen,
+    kellojen korrelaatio ECG tuloksiin oli kaikilla sama 0,89 \parencite{pasadyn_accuracy_2019}. Apple Watch 3 oli siis huomattavasti tarkempi kello sykkeen mittaukseen,
      kuin muut tutkimuksessa käytetyt laitteet. Tutkimuksen mukaan laitteiden sykkeen mittaamisen tarkkuus laski
       harjoitteluin intensiteetin noustessa \parencite{pasadyn_accuracy_2019}. Tämä tulos on yhtenäinen Wangin ym. (2017) tutkimuksen kanssa.\\
   
   
-   Sykkeenmittauksen voidaan siis sanoa olevan suhteellisen tarkkaa.
-    Tarkkuudessa on kuitenkin eroja laitteiden välillä, eivätkä laitteet kykene täysin tarkkoihin sykkeen mittauksiin
+   Sykkeenmittauksen voidaan siis sanoa olevan useimmiten tarkkaa.
+    Tarkkuudessa on kuitenkin eroja kellojen välillä, eivätkä laitteet kykene täysin tarkkoihin sykkeen mittauksiin
      (\cite{pasadyn_accuracy_2019,wang_accuracy_2017,nelson_accuracy_2019}.) Tarkkuutta arvioidessa on myös hyvä ottaa huomioon, että mittauksiin saattaa vaikuttaa
-      yksilölliset tekijät, kuten ihonväri tai sukupuoli \parencite{shcherbina_accuracy_2017,hochstadt_continuous_2020}.
+      yksilölliset tekijät, kuten ihonväri tai sukupuoli \parencite{shcherbina_accuracy_2017,hochstadt_continuous_2020}. Tämä johtuu älykelloissa käytettävän optisesta sensorista,
+       sillä valon avulla tehty mittaus saattaa häiriintyä, jos valo ei esimerkiksi läpäisekään ihoa tarpeeksi hyvin \parencite{koerber_accuracy_2022}.
        Tutkimustulokset yksilöllisten tekijöiden vaikutuksista ovat kuitenkin ristiriitaisia \parencite{koerber_accuracy_2022, pasadyn_accuracy_2019}.
         Yksi syy tähän saattaa olla, että optinen mittausteknologia on kehittynyt niin, että esimerkiksi ihonvärin tummuus ei enää vaikuta mittaustuloksiin.
          \textcite{koerber_accuracy_2022} esittävät, että tähän voisi olla syynä vihreän värin käyttäminen optisissa sensoreissa punaisen värin sijaan.
@@ -243,7 +245,7 @@ Roni Koskinen
   
   Valmistajat eivät usein kerro, millaisilla algoritmeilla he arvioivat unen vaiheita tai unen laatua.
    Tiedetään kuitenkin, että älykellot käyttävät unen vaiheiden arviointiin ainakin kiihdytinsensoria, joka mittaa liikettä unen aikana. Liikkeen määrästä voidaan
-    päätellä, onko henkilö kevyen unen vaiheessa \parencite{grifantini_hows_2014,de_zambotti_measures_2016}.
+    päätellä, onko henkilö kevyen unen vaiheessa (\cite{grifantini_hows_2014,de_zambotti_measures_2016}.)
      Tiedetään myös, että kehon autonomisista toiminnoista, kuten sykkeestä tai ihon lämpötilasta voidaan tehdä päätelmiä, missä
       unen vaiheessa henkilö on \parencite{de_zambotti_measures_2016, fonseca_sleep_2015}. Ei voida kuitenkaan varmuudella sanoa, käyttävätkö älykellot näitä mittauksia unen arviointiin.
        Seuraavaksi käyn läpi tutkimuksia älykellojen unenseurannan tarkkuudesta.\\
@@ -252,14 +254,14 @@ Roni Koskinen
 
    Zambotti ym. (2016) mukaan Fitbit -älykello yliarvioi unta keskimäärin
     8 minuuttia pidemmäksi, aliarvioi hereilläoloaikaa nukahtamisen jälkeen 5,6 minuuttia ja yliarvioivat unen tehokkuutta 1,8\%.
-     Fitbit-kello tunnisti kuitenkin unen hyvin tarkasti.
-      Kello ei kuitenkaan tunnistanut hereilläoloaikaa kovin tarkasti nukahtamisen jälkeen.\\
+     Fitbit-kello tunnisti unen alkamisen ja unitilan hyvin tarkasti.
+      Tutkimuksen mukaan kello ei kuitenkaan tunnistanut hereilläoloaikaa kovin tarkasti nukahtamisen jälkeen.\\
   
   \textcite{liang2018validity} tutkivat Fitbit Charge 2 -kellon unen seurannan tarkkutta ja saivat samankaltaisia tuloksia
    kuin \textcite{de_zambotti_measures_2016}. Liangin ja Chapa Martellin (2016) mukaan Fitbit Charge 2 -kello tunnisti unen keston
     ja unen tehokkuuden tarkasti. Hereilläolon tunnistaminen nukahtamisen jälkeen on kuitenkin
      epätarkkaa. Tämä tutkimuksen tulos on yhtenäinen \textcite{de_zambotti_measures_2016} tutkimuksen tuloksien kanssa.
-      Tulokseksi saatiin myös, että unen vaiheiden, kuten kevyen, REM sekä syvän unen tunnistaminen oli kellolle myös haastavaa.\\
+      Tulokseksi saatiin myös, että unen vaiheiden, kuten kevyen, REM sekä syvän unen tunnistaminen oli kellolle haastavaa.\\
   
   \textcite{chinoy_performance_2022} tutkimuksen mukaan Fitbit Inspire HR:n sekä Polar Vantage V Titanin unen seurannan tarkkuus oli 
     samankaltainen edellisten tutkimusten tulosten kanssa. Kellot mittasivat unen keston tarkasti,
@@ -295,18 +297,18 @@ Roni Koskinen
 
   \textcite{johansson_accuracy_2020} tutkivat urheilukellojen GPS:n tarkkuutta ultramaratonjuoksussa. Tutkimuksessa juoksureitin pituus oli 56 kilometriä ja reitti sisälsi 800 nousumetriä.
    Tutkimuksessa oli mukana useita eri äly- ja urheilukelloja, sekä puhelimia.
-    GPS-laitteiden tarkkuus oli tarkimmillaan $\SI{0.6 \pm 0.3}{\percent}$ ja epätarkimmillaan $ \SI{1.6 \pm 0.9}{\percent} $. (Mediaani $\pm$ IQR) (Kvartiiliväli, eng. Interquartile range).
+    GPS-laitteiden tarkkuus oli tarkimmillaan $\SI{0,6 \pm 0,3}{\percent}$ ja epätarkimmillaan $ \SI{1,6 \pm 0,9}{\percent} $. (Mediaani $\pm$ IQR) (Kvartiiliväli, eng. Interquartile range).
      Tässä statistiikassa oli mukana myös puhelimet, mutta 
-     tulokset ovat silti huomattavasti tarkempia, kuin tutkimuksessa jonka suoritti \textcite{gilgen-ammann_accuracy_2020} suorittamassa tutkimuksessa. Puhelimet olivat tutkimuksen epätarkimpia laitteita \parencite{johansson_accuracy_2020}.
-      Tulokset ovat erikoisia siksi, että \textcite{johansson_accuracy_2020} tutkimusasetelma on suoritettu vapaammissa olosuhteissa. Reitillä on myös ollut puita ja vuoria, jotka saattaavat häiritä GPS-signaalia.
-       Johanssonin ym. (2020) mukaan urheilukellot ovat pätevä tapa mitata juostua matkaa.\\
+      tulokset ovat silti huomattavasti tarkempia, kuin tutkimuksessa jonka suoritti \textcite{gilgen-ammann_accuracy_2020} suorittamassa tutkimuksessa. Puhelimet olivat tutkimuksen epätarkimpia laitteita \parencite{johansson_accuracy_2020}.
+       Tulokset ovat erikoisia siksi, että \textcite{johansson_accuracy_2020} tutkimusasetelma on suoritettu vapaammissa olosuhteissa. Reitillä on myös ollut puita ja vuoria, jotka saattaavat häiritä GPS-signaalia.
+        Johanssonin ym. (2020) mukaan urheilukellot ovat pätevä tapa mitata juostua matkaa.\\
 
   Voidaan todeta, että äly- ja urheilukellot suoriutuvat pääosin hyvin juoksu-, kävely- sekä pyöräilysuoritusten pituuden mittauksessa \parencite{gilgen-ammann_accuracy_2020,johansson_accuracy_2020}.
    Kellot käyttävät nopeuden mittaamiseen paikanninjärjestelmän tuloksia, joten voidaan todeta kellojen suoriutuvan nopeuden mittauksestakin hyvin. On kuitenkin huomioitava,
     että GPS-mittauksen tarkkuuteen saattaa vaikuttaa esimerkiksi ympäristössä olevat korkeat rakennukset tai taivaan pilvisyys \parencite{baranski_enhancing_2012}.
 
   \section{Korkeuden mittaus}
-    Noustut metrit harjoittelun aikana on tärkeä osa urheilijan kokonaistyömäärää. Tämän vuoksi älykellojen korkeuden mittaamisen tarkkuutta on hyvä tutkia \parencite{ammann_accuracy_2016}.
+    Noustut metrit harjoittelun aikana on tärkeä osa urheilijan kokonaistyömäärää. Tämän vuoksi älykellojen korkeuden mittaamisen tarkkuutta on hyvä tutkia (\cite{ammann_accuracy_2016}.)
      Äly- ja urheilukellot käyttävät korkeuden mittaamiseen barometristä sensoria tai GPS-paikantimen antamaa informaatiota \parencite{ammann_accuracy_2016}.
       Barometrinen sensori arvioi korkeuden mittaamalla ilmanpainetta \parencite{aroganam2019review}.
        On myös mahdollista, että kello käyttää GPS:n ja barometrin kombinaatiota \parencite{aroganam2019review}. Tällä tavalla kello yrittää korjata barometrin mahdolliset ulkoisista seikoista
@@ -329,7 +331,7 @@ Roni Koskinen
       Tutkijat toteavat, että urheilukellot olivat melko tarkkoja nousumetrien mittaamisessa. Mittaukset eivät olleet kuitenkaan
        täysin tarkkoja, ja eri valmistajien kellojen välillä oli tarkkuus eroja (\cite{ammann_accuracy_2016}.)\\
        
-    Tutktimuksen tuloksia tarkasteltaessa on otettava huomioon, että tutkimuksessa käytettävät kellot oli julkaistu vuosina 2008, 2012 ja 2013. Tekniikka on voinut siis kehittyä tähän mennessä. 
+    Tutkimuksen tuloksia tarkasteltaessa on otettava huomioon, että tutkimuksessa käytettävät kellot oli julkaistu vuosina 2008, 2012 ja 2013. Tekniikka on voinut siis kehittyä tähän mennessä. 
      \textcite{ammann_accuracy_2016} ottivat tutkimuksessa huomioon ulkopuoliset vaikutukset mahdollisimman hyvin, mutta toteavat, että mittauksiin
       saattoi vaikuttaa esimerkiksi sääolosuhteiden muutos, tai GPS-signaalin vaihteleva vahvuus.\\
 
@@ -348,6 +350,9 @@ Roni Koskinen
   Voidaan siis sanoa, että älykellojen tarkkuus mitata askeleita yleisimmissä olosuhteissa on suhteellisen tarkka
    \parencite{gaz_determining_2018,ahanathapillai_preliminary_2015}. On kuitenkin otettava huomioon, että mittareiden
     tarkkuudessa on eroja, jotka riippuvat olosuhteista ja älykellon mallista \parencite{gaz_determining_2018}.
+     Tutkimusta äly -ja urheilukellojen askelmittauksesta ei kuitenkaan ole kovin paljoa.
+      Lisää tutkimusta laitteiden askelmittauksen tarkkuudesta olisi hyvä tehdä.
+       Varsinkin siksi, että teknologia kehittyy jatkuvasti eteenpäin ja laitteista tulee tarkempia.
   
 
   \section{Happisaturaation mittaus}
@@ -364,7 +369,7 @@ Roni Koskinen
    
   \textcite{patz_accuracy_2023} saivat samankaltaisia tuloksia Apple Watchin pulssioksimetrin tarkkuudesta kuin \textcite{pipek_comparison_2021}. Mittauksista 85\%
    oli oikein mitattaessa lapsilta ja 85\% aikuisilta mitattaessa. Pätzin ym. (2023) mukaan Apple Watch 6 mittaukset eivät ole
-    lääketieteellisten standardien tasolla. Tarkkuus on kuitenkin hyvä sinällään antamaan arviota happisaturaation määrästä.
+    lääketieteellisten standardien tasolla. Tarkkuus on kuitenkin hyvä antamaan arviota happisaturaation määrästä.
      Siihen ei kuitenkaan tule luottaa täysin.\\
 
     Voidaan todeta, että SpO2-mittaus Apple Watch -älykellolla on hyvä. Laite ei kuitenkaan ole niin tarkka, että sitä voitaisiin käyttää
